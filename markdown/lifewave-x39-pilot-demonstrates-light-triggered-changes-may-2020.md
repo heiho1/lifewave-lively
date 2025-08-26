@@ -236,49 +236,7 @@ nonparametric Wilcoxon Signed Rank test. All physiology parameters were summariz
 terms of means and standard deviation, stratified across the 6 study epochs. Changes from
 pre- to post-patch administration were evaluated using a paired t-test. Normal probability plots
 were examined to verify the distribution assumptions. All reported P-values are two-sided and
-P<0.05 was used to define statistical significance. All metabolic parameters were summarized in
-terms of means and standard deviation, stratified by assessment time point. Changes from day
-
-
-_International Journal of Healing and Caring 2020, 20(2), 1-13_
-
-
-_LifeWave X39 Pilot Demonstrates Light Triggered Changes_
-
-
-
-5
-
-
-
-1 (pre-patch) to day 2, day 2 to day 7, and day 1 to day 7 were evaluated using a paired t-test or
-nonparametric Wilcoxon Signed Rank test. Cortisol levels were obtained at 8am, 12pm, 4pm,
-8pm and 12am.
-DHEAS levels were measured from 8am, 8pm and 12am collection times. The area under the
-curve (AUC) for Cortisol and DHEAS levels over the data collection periods were calculated
-using the trapezoid rule. AUC levels were summarized in terms of means and standard
-deviations, stratified by assessment time point. Changes between assessment time points were
-evaluated using a paired t-test or Wilcoxon signed rank test.
-
-**Results**
-
-Significant results of the X39 patch testing are as follows:
-
-
-_**Table 1: Demographics (N=15)**_
-
-
-
-
-
-
-
-**Questionnaire Outcomes**
-
-
-|Col1|N (%)|
-|---|---|
-|Gender<br>Female<br>Male|<br>10 (67%)<br>5 (33%)|
+PFemaleMale|10 (67%)5 (33%)|
 |Age (yrs), means ± SD|61.9 ± 9.3|
 
 
@@ -373,8 +331,8 @@ _**Table 6: Summary of WAISIII instrument scores, stratified by assessment time 
 
 |Time|Outcome|N|Mean|SD|
 |---|---|---|---|---|
-|Day 1|# Short<br># Mid<br># Long|15<br>15<br>15|6.2<br>5.3<br>5.1|1.9<br>2.3<br>2.3|
-|Day 7|# Short<br># Mid<br># Long|15<br>15<br>15|7.3<br>6.1<br>6.1|2.3<br>2.9<br>3.1|
+|Day 1|# Short# Mid# Long|151515|6.25.35.1|1.92.32.3|
+|Day 7|# Short# Mid# Long|151515|7.36.16.1|2.32.93.1|
 
 
 
@@ -396,7 +354,7 @@ _**Table7: Changes in WAISIII instrument memory test scores from day 1 to day 7*
 
 |Col1|Memory Test|Mean Change|SD|p-value|
 |---|---|---|---|---|
-|Change from Day 1 to Day 7|#Short/Immediate<br># Mid/ 10 min<br># Long/ 20 min|1.1<br>0.8<br>1.1|2.4<br>2.9<br>3.2|0.0872<br>0.3008<br>0.2170|
+|Change from Day 1 to Day 7|#Short/Immediate# Mid/ 10 min# Long/ 20 min|1.10.81.1|2.42.93.2|0.08720.30080.2170|
 
 
 Memory is a common issue for people above age 45. The WAIS III is a well-established
@@ -438,10 +396,10 @@ _**from day 1 to day 2 and from day 1 to day 7**_
 
 
 
-|Col1|Mean<br>Change|SD|p-value|
+|Col1|MeanChange|SD|p-value|
 |---|---|---|---|
-|Change from Day 1<br>to Day 2|-1.0|1.3|0.0676|
-|Change from Day 1<br>to Day 7|-3.0|2.9|0.0522|
+|Change from Day 1to Day 2|-1.0|1.3|0.0676|
+|Change from Day 1to Day 7|-3.0|2.9|0.0522|
 
 
 
@@ -554,7 +512,7 @@ _**Power, RMSSD, and VLF, stratified by Epoch (1-6) for Blood Volume Pulse (BVP)
 
 
 
-|Source|Outcome|Epoch|Mean<br>Change|SD|p-value|
+|Source|Outcome|Epoch|MeanChange|SD|p-value|
 |---|---|---|---|---|---|
 |BVP|HF|5|-1085.13|2038.55|0.05830|
 |BVP|NN50|1|-3.13|5.34|0.03950|

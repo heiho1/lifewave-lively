@@ -202,7 +202,7 @@ the Experiment group was an increase in performance of 33.9% from the baseline t
 ||||||
 ||||||
 ||||||
-|1|1|2<br>3|2<br>3|2<br>3|
+|1|1|23|23|23|
 
 
 In addition, the data shows the following:

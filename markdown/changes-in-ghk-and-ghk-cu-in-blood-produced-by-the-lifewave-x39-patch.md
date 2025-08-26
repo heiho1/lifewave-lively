@@ -308,7 +308,7 @@ Table 1: Absolute changes from R1 (baseline) to R2 and R3
 |Col1|Col2|N|Mean (SD)|Median (Range)|p-value|
 |---|---|---|---|---|---|
 |GCH concentration (ng/ml)|R2|10|9.5 (9.0)|6.9 (-3.4-27.5)|0.0098|
-|GHC-CU concentration<br>(ng/ml)|R3|10|4.2 (4.3)|4.0 (-2.6-11.5)|0.0137|
+|GHC-CU concentration(ng/ml)|R3|10|4.2 (4.3)|4.0 (-2.6-11.5)|0.0137|
 
 
 

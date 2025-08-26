@@ -472,57 +472,8 @@ standard deviation, stratified and across the 6 study epochs. Changes from pre-t
 administration were evaluated using a paired t-test. Normal probability plots were examined to
 
 
-verify the distribution assumptions. All reported P-values are two-sided and P<0.05 was used to
-
-
-define statistical significance. All metabolic parameters were summarized in terms of means and
-
-
-standard deviation, stratified by assessment time point. Changes from day 1 (pre-patch) to day 2,
-
-
-day 2 to day 7, and day 1 to day 7 were evaluated using a paired t-test or nonparametric
-
-
-Wilcoxon Signed Rank test. Cortisol levels were obtained at 8am, 12pm, 4pm, 8pm and 12am.
-
-
-DHEAS levels were collected at 8am, 8pm and 12am. The area under the curve (AUC) for
-
-
-Cortisol and DHEAS levels over the data collection periods were calculated using the trapezoid
-
-
-rule. AUC levels were summarized in terms of means and standard deviations, stratified by
-
-
-assessment time point. Changes between assessment time points were evaluated using a paired t
-
-test or Wilcoxon signed rank test.
-
-
-**Results**
-
-
-The complete data results of the testing are found in Appendix A. Significant
-
-
-results of the Lifewave X39 patch testing are as follows:
-
-
-_Table 1: Demographics (N=15)_
-
-
-
-
-
-
-
-
-|Col1|N (%)|
-|---|---|
-|Gender<br>Female<br>Male|<br>10 (67%)<br>5 (33%)|
-|Age (yrs), means ±<br>SD|61.9 ± 9.3|
+verify the distribution assumptions. All reported P-values are two-sided and PFemaleMale|10 (67%)5 (33%)|
+|Age (yrs), means ±SD|61.9 ± 9.3|
 
 
 A sample of convenience of individuals who responded to locally placed flyers
@@ -633,8 +584,8 @@ _Table 6: Summary of WAISIII instrument scores, stratified by assessment time po
 
 |Time|Outcome|N|Mean|SD|
 |---|---|---|---|---|
-|Day 1|# Short<br># Mid<br># Long|15<br>15<br>15|6.2<br>5.3<br>5.1|1.9<br>2.3<br>2.3|
-|Day 7|# Short<br># Mid<br># Long|15<br>15<br>15|7.3<br>6.1<br>6.1|2.3<br>2.9<br>3.1|
+|Day 1|# Short# Mid# Long|151515|6.25.35.1|1.92.32.3|
+|Day 7|# Short# Mid# Long|151515|7.36.16.1|2.32.93.1|
 
 
 _Table7: Changes in WAISIII instrument scores from day 1 to day 7_
@@ -650,7 +601,7 @@ _Table7: Changes in WAISIII instrument scores from day 1 to day 7_
 
 |Col1|Outcome|Mean Change|SD|p-value|
 |---|---|---|---|---|
-|Change from Day 1 to Day 7|# Short<br># Mid<br># Long|1.1<br>0.8<br>1.1|2.4<br>2.9<br>3.2|0.0872<br>0.3008<br>0.2170|
+|Change from Day 1 to Day 7|# Short# Mid# Long|1.10.81.1|2.42.93.2|0.08720.30080.2170|
 
 
 
@@ -723,7 +674,7 @@ Pain scores from the baseline (pre-patch) assessment to close of study.
 _Table 10: Change from day 1 (pre-patch) to day 2, day 2 to day 7, and day 1 (pre-patch) to day 7_
 
 
-|Marker|Change|Mean<br>Change|SD|p-value|
+|Marker|Change|MeanChange|SD|p-value|
 |---|---|---|---|---|
 |Alanine|Day 1 to Day 2|-20.17|36.89|0.0526|
 |Cystine|Day 2 to Day 7|-16.07|23.86|0.0206|
@@ -743,11 +694,11 @@ _Table 10: Change from day 1 (pre-patch) to day 2, day 2 to day 7, and day 1 (pr
 |Hydroxylysine|Day 1 to Day 7|-0.80|1.75|0.0992|
 |Leucine|Day 1 to Day 2|-4.84|7.84|0.0313|
 |Normetanephrine|Day 2 to Day 7|-13.06|23.32|0.0479|
-|PEA<br>Phenylethylamine|Day 1 to Day 7|-0.59|1.12|0.0589|
+|PEAPhenylethylamine|Day 1 to Day 7|-0.59|1.12|0.0589|
 |Phenylalanine|Day 2 to Day 7|6.33|10.94|0.0418|
 |Tryptophan|Day 2 to Day 7|-10.81|18.55|0.0406|
-|Alpha-aminobutyric<br>acid|Day 1 to Day 7|-8.90|13.79|0.0256|
-|Alpha-aminobutyric<br>acid|Day 2 to Day 7|-5.29|7.79|0.0198|
+|Alpha-aminobutyricacid|Day 1 to Day 7|-8.90|13.79|0.0256|
+|Alpha-aminobutyricacid|Day 2 to Day 7|-5.29|7.79|0.0198|
 
 
 Amino acids and neurotransmitters play a critical role in the health and wellbeing
@@ -808,7 +759,7 @@ which was demonstrated in the data results.
 _Table 11: Change from pre-patch to last-patch (day 7) of HF, LF/HF NN50, PNN50,_
 _Power, RMSSD, and VLF, stratified by Epoch (1-6)_
 
-|Source|Outcome|Epoch|Mean<br>Change|SD|p-value|
+|Source|Outcome|Epoch|MeanChange|SD|p-value|
 |---|---|---|---|---|---|
 |EKG|SDNN|2|-42.89|82.71|0.06430|
 |BVP|HF|5|-1085.13|2038.55|0.05830|
@@ -836,7 +787,7 @@ _Power, RMSSD, and VLF, across all 6 Epochs_
 
 
 
-|Source|Outcome|Mean<br>Change|SD|p-<br>value|
+|Source|Outcome|MeanChange|SD|p-value|
 |---|---|---|---|---|
 |EKG|HF|-1115.01|28492.47|0.7113|
 |EKG|LF|14424.43|104293.22|0.1929|
@@ -844,19 +795,7 @@ _Power, RMSSD, and VLF, across all 6 Epochs_
 |BVP|HF|-786.72|3852.92|0.0559|
 |BVP|LF|205.48|4414.61|0.6599|
 |BVP|LF/HF|-0.08|5.93|0.9004|
-|BVP|NN50|-1.96|3.80|<.0001|
-|BVP|PNN50|-0.03|0.06|<.0001|
-|BVP|RMSSD|-21.78|76.48|0.0083|
-|BVP|SDNN|-18.60|63.27|0.0065|
-
-
-_Table 13: Change from pre-patch to last-patch (day 7) of BVP-HR, EMG, Skin-Condition,_
-_Temperature and Respiratory Rate for Average, Mode, and Area, stratified by Epoch (1-_
-_6)_
-
-
-
-|Source|Outcome|Epoch|Mean<br>Change|SD|p-<br>value|
+|BVP|NN50|-1.96|3.80|Change|SD|p-value|
 |---|---|---|---|---|---|
 |BVPHR|Average|2|4.51|7.83|0.0426|
 |BVPHRMaxMin|Average|5|-2.23|3.13|0.0153|
@@ -875,7 +814,7 @@ _Temperature and Respiratory Rate for Average, Mode, and Area, across all 6 Epoc
 
 
 
-|Source|Outcome|Mean<br>Change|SD|p-value|
+|Source|Outcome|MeanChange|SD|p-value|
 |---|---|---|---|---|
 |BVPHR|Average|2.54|8.31|0.0047|
 |BVPHR|Mode|2.31|9.60|0.0249|
@@ -1141,7 +1080,7 @@ Corporation BioMed Research International Volume 2015, Article ID 648108, 7 page
 Reynolds, W. (1982) Development of reliable and valid short forms of the
 Marlowe‐Crowne social desirability scale. Journal of Clinical Psychology. January 1982
 
-                 -                  -                  https://doi.org/10.1002/1097 [4679(198201)38:1<119::AID](https://doi.org/10.1002/1097-4679(198201)38:1%3c119::AID-JCLP2270380118%3e3.0.CO;2-I) JCLP2270380118>3.0.CO;2
+                 -                  -                  https://doi.org/10.1002/1097 [4679(198201)38:13.0.CO;2
 [I](https://doi.org/10.1002/1097-4679(198201)38:1%3c119::AID-JCLP2270380118%3e3.0.CO;2-I)
 
 
@@ -1231,8 +1170,8 @@ _Table 4: Demographics (N=15)_
 
 |Col1|N (%)|
 |---|---|
-|Gender<br>Female<br>Male|<br>10 (67%)<br>5 (33%)|
-|Age (yrs), means ±<br>SD|61.9 ± 9.3|
+|GenderFemaleMale|10 (67%)5 (33%)|
+|Age (yrs), means ±SD|61.9 ± 9.3|
 
 
 
@@ -1309,8 +1248,8 @@ _Table 11: Summary of WAISIII instrument scores, stratified by assessment time p
 
 |Time|Outcome|N|Mean|SD|
 |---|---|---|---|---|
-|Day 1|# Short<br># Mid<br># Long|15<br>15<br>15|6.2<br>5.3<br>5.1|1.9<br>2.3<br>2.3|
-|Day 7|# Short<br># Mid<br># Long|15<br>15<br>15|7.3<br>6.1<br>6.1|2.3<br>2.9<br>3.1|
+|Day 1|# Short# Mid# Long|151515|6.25.35.1|1.92.32.3|
+|Day 7|# Short# Mid# Long|151515|7.36.16.1|2.32.93.1|
 
 
 _Table 12: Changes in WAISIII instrument scores from day 1 to day 7_
@@ -1321,7 +1260,7 @@ _Table 12: Changes in WAISIII instrument scores from day 1 to day 7_
 
 |Col1|Outcome|Mean Change|SD|p-value|
 |---|---|---|---|---|
-|Change from Day 1 to Day 7|# Short<br># Mid<br># Long|1.1<br>0.8<br>1.1|2.4<br>2.9<br>3.2|0.0872<br>0.3008<br>0.2170|
+|Change from Day 1 to Day 7|# Short# Mid# Long|1.10.81.1|2.42.93.2|0.08720.30080.2170|
 
 
 _Table 13: Summary of PSQI instrument total scores, stratified by assessment time point_
@@ -1385,9 +1324,9 @@ _Table 18: Changes in modified McGill total pain scores from day 1 to day 2 and 
 
 |Col1|Mean Change|SD|p-value|
 |---|---|---|---|
-|Change from Day 1.1 to Day<br>1.2|3.0|16.9|0.8867|
-|Change from Day 1.1 to Day<br>2|-0.3|9.5|0.7480|
-|Change from Day 1.1 to Day<br>7|-0.1|7.7|0.6328|
+|Change from Day 1.1 to Day1.2|3.0|16.9|0.8867|
+|Change from Day 1.1 to Day2|-0.3|9.5|0.7480|
+|Change from Day 1.1 to Day7|-0.1|7.7|0.6328|
 
 
 
@@ -1436,137 +1375,7 @@ patch vs. last (day 7) patch administration.
 means and standard deviation, stratified and across the 6 study epochs. Changes from
 pre-to post patch administration were evaluated using a paired t-test. Normal probability
 plots were examined to verify the distribution assumptions. All reported P-values are
-two-sided and P<0.05 was used to define statistical significance.
-
-_Table 19: Summary statistics for pre- vs. Last patch (day 7) of HF, LF/HF NN50, PNN50,_
-_Power, RMSSD, and VLF, stratified by Epoch (1-6)_
-
-
-|Col1|Col2|Col3|Pre-Patch|Col5|Last-Patch (Day 7)|Col7|
-|---|---|---|---|---|---|---|
-|**Source**|**Outcome**|**Epoch**|**Mean**|**SD**|**Mean**|**SD**|
-|EKG|HF|1|14818.66|9397.29|17973.25|27036.86|
-|EKG|HF|2|19618.35|13617.93|15433.62|16379.32|
-|EKG|HF|3|18536.86|14170.61|24555.99|37015.79|
-|EKG|HF|4|22390.90|16673.95|25806.19|21887.15|
-|EKG|HF|5|29227.28|18814.59|24136.17|20423.67|
-|EKG|HF|6|40386.93|25806.00|28767.37|22120.55|
-|EKG|LF|1|13122.89|14872.21|56825.53|186770.11|
-|EKG|LF|2|19743.73|32193.75|22908.82|49147.72|
-|EKG|LF|3|8202.70|6462.20|17442.07|33209.36|
-|EKG|LF|4|10094.09|10374.86|38185.46|103669.27|
-|EKG|LF|5|9950.67|8720.13|13949.08|22320.38|
-|EKG|LF|6|43733.30|91322.00|39360.51|88028.98|
-|EKG|LF/HF|1|0.81|0.61|1.31|1.57|
-|EKG|LF/HF|2|0.79|0.70|1.01|0.90|
-|EKG|LF/HF|3|0.52|0.38|0.62|0.28|
-|EKG|LF/HF|4|0.52|0.36|1.06|1.54|
-|EKG|LF/HF|5|0.32|0.14|0.47|0.37|
-|EKG|LF/HF|6|0.98|1.46|1.08|1.02|
-|EKG|NN50|1|43.07|5.18|41.20|6.66|
-|EKG|NN50|2|40.00|3.78|42.40|5.62|
-|EKG|NN50|3|39.73|4.95|39.60|5.96|
-|EKG|NN50|4|36.87|5.26|38.73|6.17|
-|EKG|NN50|5|36.27|4.73|38.27|4.51|
-|EKG|NN50|6|33.50|3.55|34.73|4.01|
-|EKG|PNN50|1|0.43|0.03|0.42|0.03|
-
-
-|EKG|PNN50|2|0.42|0.03|0.43|0.03|
-|---|---|---|---|---|---|---|
-|EKG|PNN50|3|0.44|0.04|0.44|0.03|
-|EKG|PNN50|4|0.44|0.03|0.45|0.04|
-|EKG|PNN50|5|0.45|0.03|0.45|0.03|
-|EKG|PNN50|6|0.45|0.03|0.44|0.04|
-|EKG|Power|1|34860.17|32520.80|86493.20|248715.39|
-|EKG|Power|2|46274.43|55655.64|44593.55|74597.54|
-|EKG|Power|3|29563.30|19470.34|50064.10|89856.45|
-|EKG|Power|4|34334.22|26054.82|96776.73|225900.85|
-|EKG|Power|5|44102.87|30199.38|41466.28|43405.32|
-|EKG|Power|6|102250.40|144643.37|101064.63|209062.72|
-|EKG|RMSSD|1|437.24|133.90|461.26|271.09|
-|EKG|RMSSD|2|475.06|123.75|427.67|145.70|
-|EKG|RMSSD|3|510.85|157.72|528.37|234.82|
-|EKG|RMSSD|4|562.71|162.39|564.50|170.37|
-|EKG|RMSSD|5|619.63|144.43|555.78|167.73|
-|EKG|RMSSD|6|684.76|166.62|630.29|146.81|
-|EKG|SDNN|1|301.56|92.65|329.64|218.09|
-|EKG|SDNN|2|332.29|83.30|289.39|99.00|
-|EKG|SDNN|3|339.39|98.53|360.14|177.10|
-|EKG|SDNN|4|376.69|108.60|382.27|129.24|
-|EKG|SDNN|5|410.20|94.19|377.77|117.90|
-|EKG|SDNN|6|481.73|118.18|430.35|93.09|
-|EKG|VLF|1|6918.61|16050.31|11694.41|36194.08|
-|EKG|VLF|2|6912.34|12947.88|6251.11|13237.60|
-|EKG|VLF|3|2823.74|2898.34|8066.03|20471.14|
-|EKG|VLF|4|1849.23|1976.73|32785.09|109783.63|
-|EKG|VLF|5|4924.92|5852.22|3381.04|4844.60|
-|EKG|VLF|6|18130.17|44250.75|32936.76|103944.26|
-|BVP|HF|1|1597.97|5153.98|1478.97|4384.89|
-|BVP|HF|2|3709.23|7997.67|963.81|2638.35|
-|BVP|HF|3|1213.70|3841.98|817.30|2292.51|
-|BVP|HF|4|1191.28|3220.91|1731.82|5853.33|
-|BVP|HF|5|1788.10|4174.04|702.97|2473.38|
-|BVP|HF|6|2699.85|6288.95|1622.39|3902.76|
-|BVP|LF|1|586.06|1059.94|1147.30|3098.88|
-|BVP|LF|2|2868.95|6006.49|1935.19|6356.28|
-|BVP|LF|3|1046.10|3120.94|1285.88|3993.02|
-|BVP|LF|4|885.25|1525.61|790.12|2046.57|
-|BVP|LF|5|969.28|1348.37|1426.88|4933.93|
-|BVP|LF|6|953.94|1637.05|1923.23|4178.71|
-
-
-|BVP|LF/HF|1|1.93|2.34|2.74|2.83|
-|---|---|---|---|---|---|---|
-|BVP|LF/HF|2|4.50|8.23|4.21|3.17|
-|BVP|LF/HF|3|3.37|3.92|4.08|4.33|
-|BVP|LF/HF|4|5.20|6.14|4.15|4.06|
-|BVP|LF/HF|5|3.88|4.17|3.30|2.54|
-|BVP|LF/HF|6|3.52|5.70|3.33|2.49|
-|BVP|NN50|1|6.27|6.98|3.13|4.22|
-|BVP|NN50|2|5.20|6.55|3.07|4.04|
-|BVP|NN50|3|4.60|5.41|2.87|3.83|
-|BVP|NN50|4|3.67|5.52|3.00|4.55|
-|BVP|NN50|5|5.20|5.54|2.47|4.16|
-|BVP|NN50|6|4.07|5.28|2.87|4.09|
-|BVP|PNN50|1|0.09|0.11|0.04|0.06|
-|BVP|PNN50|2|0.08|0.10|0.04|0.06|
-|BVP|PNN50|3|0.06|0.08|0.04|0.05|
-|BVP|PNN50|4|0.05|0.08|0.04|0.06|
-|BVP|PNN50|5|0.07|0.08|0.03|0.05|
-|BVP|PNN50|6|0.06|0.08|0.04|0.05|
-|BVP|Power|1|2382.37|6155.15|2928.16|7928.99|
-|BVP|Power|2|11457.90|30247.47|3129.69|8971.19|
-|BVP|Power|3|2584.70|7538.66|2370.40|6454.10|
-|BVP|Power|4|2478.29|4909.61|2786.08|8202.62|
-|BVP|Power|5|3199.89|5488.39|2189.90|7450.55|
-|BVP|Power|6|4197.62|7790.39|4112.00|8798.95|
-|BVP|RMSSD|1|79.97|88.94|62.61|86.83|
-|BVP|RMSSD|2|100.03|147.13|54.72|90.07|
-|BVP|RMSSD|3|70.34|77.13|50.22|76.08|
-|BVP|RMSSD|4|56.02|77.65|52.32|87.82|
-|BVP|RMSSD|5|67.67|76.84|46.55|79.93|
-|BVP|RMSSD|6|76.44|94.67|57.40|83.28|
-|BVP|SDNN|1|68.99|63.28|54.11|64.74|
-|BVP|SDNN|2|91.37|124.34|54.69|69.80|
-|BVP|SDNN|3|65.83|51.38|50.94|57.78|
-|BVP|SDNN|4|60.53|54.55|54.57|68.48|
-|BVP|SDNN|5|64.02|53.42|44.60|60.89|
-|BVP|SDNN|6|71.61|66.03|54.82|66.16|
-|BVP|VLF|1|198.34|159.61|301.89|532.47|
-|BVP|VLF|2|4879.73|16900.51|230.69|438.64|
-|BVP|VLF|3|324.89|614.07|267.22|326.91|
-|BVP|VLF|4|401.77|684.71|264.15|350.31|
-|BVP|VLF|5|442.51|464.44|60.05|60.14|
-
-
-BVP VLF 6 543.83 621.41 566.39 1499.95
-
-_Table 20: Change from pre-patch to last-patch (day 7) of HF, LF/HF NN50, PNN50,_
-_Power, RMSSD, and VLF, stratified by Epoch (1-6)_
-
-
-|Source|Outcome|Epoch|Mean<br>Change|SD|p-value|
+two-sided and PChange|SD|p-value|
 |---|---|---|---|---|---|
 |EKG|HF|1|3154.59|29005.20|0.68000|
 |EKG|HF|2|-4184.73|12598.21|0.21910|
@@ -1721,7 +1530,7 @@ _Power, RMSSD, and VLF, across all 6 Epochs_
 
 
 
-|Source|Outcome|Mean<br>Change|SD|p-<br>value|
+|Source|Outcome|MeanChange|SD|p-value|
 |---|---|---|---|---|
 |EKG|HF|-1115.01|28492.47|0.7113|
 |EKG|LF|14424.43|104293.22|0.1929|
@@ -1737,342 +1546,7 @@ _Power, RMSSD, and VLF, across all 6 Epochs_
 |BVP|LF/HF|-0.08|5.93|0.9004|
 
 
-|BVP|NN50|-1.96|3.80|<.0001|
-|---|---|---|---|---|
-|BVP|PNN50|-0.03|0.06|<.0001|
-|BVP|Power|-1426.75|13373.42|0.3142|
-|BVP|RMSSD|-21.78|76.48|0.0083|
-|BVP|SDNN|-18.60|63.27|0.0065|
-|BVP|VLF|-845.51|6989.71|0.2542|
-
-
-_Table 23: Summary statistics for pre- vs. Last patch (day 7) of BVP-HR, EMG, Skin-_
-_Condition, Temperature and Respiratory Rate for all distribution characteristics_
-_outcomes, stratified by Epoch (1-6)_
-
-
-|Col1|Col2|Col3|Pre-patch|Col5|Last-patch (day 7)|Col7|
-|---|---|---|---|---|---|---|
-|**Source**|**Outcome**|**Epoch**|**Mean**|**SD**|**Mean**|**SD**|
-|BVPHR|Average|1|75.99|12.00|79.45|13.01|
-|BVPHR|Average|2|75.38|10.23|79.89|12.91|
-|BVPHR|Average|3|77.08|12.44|80.32|12.58|
-|BVPHR|Average|4|78.22|12.40|79.91|14.13|
-|BVPHR|Average|5|79.37|12.55|79.85|13.40|
-|BVPHR|Average|6|78.22|12.22|79.95|13.35|
-|BVPHR|Mode|1|76.27|14.47|78.57|12.18|
-|BVPHR|Mode|2|77.70|12.81|80.04|14.03|
-|BVPHR|Mode|3|77.26|13.21|80.53|13.90|
-|BVPHR|Mode|4|79.69|13.43|81.49|15.08|
-|BVPHR|Mode|5|79.33|13.43|80.63|12.79|
-|BVPHR|Mode|6|78.50|13.00|80.71|13.42|
-|BVPHR|STD|1|5.51|4.65|4.50|4.18|
-|BVPHR|STD|2|6.45|7.38|4.27|3.93|
-|BVPHR|STD|3|5.10|3.47|4.49|3.83|
-|BVPHR|STD|4|5.18|3.87|4.56|4.12|
-|BVPHR|STD|5|5.70|4.42|3.71|3.60|
-|BVPHR|STD|6|5.72|4.61|4.25|3.63|
-|BVPHR|Minimum|1|59.46|15.13|66.60|18.60|
-|BVPHR|Minimum|2|58.19|14.63|69.53|17.78|
-|BVPHR|Minimum|3|58.87|14.55|68.21|15.42|
-|BVPHR|Minimum|4|64.41|13.91|68.17|17.42|
-|BVPHR|Minimum|5|62.90|17.58|69.68|16.71|
-|BVPHR|Minimum|6|61.42|16.43|65.95|18.28|
-|BVPHR|Maximum|1|94.49|27.71|89.97|17.16|
-|BVPHR|Maximum|2|90.18|27.03|87.47|12.96|
-|BVPHR|Maximum|3|86.36|13.21|92.06|17.68|
-
-
-|BVPHR|Maximum|4|90.52|17.51|88.19|14.42|
-|---|---|---|---|---|---|---|
-|BVPHR|Maximum|5|93.50|19.71|86.78|13.82|
-|BVPHR|Maximum|6|87.79|13.16|87.53|14.14|
-|BVPHRMaxMin|Average|1|9.64|9.75|9.10|10.49|
-|BVPHRMaxMin|Average|2|11.32|12.49|8.03|9.49|
-|BVPHRMaxMin|Average|3|9.37|8.36|8.04|8.21|
-|BVPHRMaxMin|Average|4|8.97|8.17|8.34|9.25|
-|BVPHRMaxMin|Average|5|9.21|8.51|6.98|6.97|
-|BVPHRMaxMin|Average|6|10.00|10.85|8.16|8.97|
-|BVPHRMaxMin|Mode|1|7.27|11.25|6.09|11.16|
-|BVPHRMaxMin|Mode|2|7.52|11.82|6.79|11.22|
-|BVPHRMaxMin|Mode|3|4.98|3.55|6.87|10.80|
-|BVPHRMaxMin|Mode|4|7.08|11.08|7.25|11.03|
-|BVPHRMaxMin|Mode|5|7.64|11.65|6.58|10.58|
-|BVPHRMaxMin|Mode|6|7.53|12.04|6.49|10.57|
-|BVPHRMaxMin|STD|1|7.26|6.74|5.98|7.28|
-|BVPHRMaxMin|STD|2|7.90|11.18|4.26|4.46|
-|BVPHRMaxMin|STD|3|6.65|6.04|5.53|6.42|
-|BVPHRMaxMin|STD|4|6.01|6.82|4.43|5.02|
-|BVPHRMaxMin|STD|5|6.96|6.55|4.32|5.47|
-|BVPHRMaxMin|STD|6|6.04|6.01|4.81|5.32|
-|BVPHRMaxMin|Minimum|1|2.64|1.92|2.08|2.34|
-|BVPHRMaxMin|Minimum|2|2.54|2.81|1.87|0.92|
-|BVPHRMaxMin|Minimum|3|2.48|2.65|2.05|1.63|
-|BVPHRMaxMin|Minimum|4|3.01|2.30|2.36|2.20|
-|BVPHRMaxMin|Minimum|5|2.23|1.47|1.87|1.65|
-|BVPHRMaxMin|Minimum|6|2.80|2.05|2.08|2.61|
-|BVPHRMaxMin|Maximum|1|26.71|23.26|20.79|22.32|
-|BVPHRMaxMin|Maximum|2|26.85|32.23|14.99|12.29|
-|BVPHRMaxMin|Maximum|3|23.55|15.58|19.43|20.18|
-|BVPHRMaxMin|Maximum|4|21.30|19.80|15.63|13.79|
-|BVPHRMaxMin|Maximum|5|24.39|21.09|14.86|14.52|
-|BVPHRMaxMin|Maximum|6|22.54|16.95|17.73|16.94|
-|EMG|Average|1|73.73|147.15|26.37|38.59|
-|EMG|Average|2|62.98|136.67|21.32|26.87|
-|EMG|Average|3|53.38|130.88|20.44|26.37|
-|EMG|Average|4|54.91|138.45|17.39|24.66|
-|EMG|Average|5|54.77|133.63|19.50|30.49|
-|EMG|Average|6|56.37|116.57|13.53|17.62|
-|EMG|Mode|1|88.48|192.35|16.98|26.42|
-|EMG|Mode|2|53.96|136.32|22.29|28.61|
-
-
-|EMG|Mode|3|54.69|138.62|17.93|24.91|
-|---|---|---|---|---|---|---|
-|EMG|Mode|4|52.50|130.22|15.97|23.43|
-|EMG|Mode|5|51.44|127.80|19.13|31.35|
-|EMG|Mode|6|34.90|62.74|13.34|18.16|
-|EMG|Area|1|4423.89|8828.48|1581.98|2315.16|
-|EMG|Area|2|3778.68|8200.12|1278.93|1612.16|
-|EMG|Area|3|3203.01|7853.07|1226.24|1582.10|
-|EMG|Area|4|3294.39|8306.75|1043.60|1479.42|
-|EMG|Area|5|3286.20|8017.55|1170.05|1829.65|
-|EMG|Area|6|3382.44|6993.89|811.79|1057.38|
-|EMG|STD|1|13.00|20.72|14.54|43.83|
-|EMG|STD|2|15.68|41.10|3.76|6.59|
-|EMG|STD|3|4.53|6.93|4.98|10.52|
-|EMG|STD|4|3.71|6.56|3.58|5.68|
-|EMG|STD|5|6.89|9.77|3.77|8.27|
-|EMG|STD|6|20.60|47.69|2.00|1.79|
-|EMG|Minimum|1|15.56|18.27|12.55|21.69|
-|EMG|Minimum|2|28.80|73.99|14.71|23.93|
-|EMG|Minimum|3|42.99|111.72|14.22|22.04|
-|EMG|Minimum|4|47.15|122.87|12.08|20.81|
-|EMG|Minimum|5|43.12|114.12|9.31|17.09|
-|EMG|Minimum|6|24.77|44.54|9.94|15.24|
-|EMG|Maximum|1|192.25|244.06|103.39|172.63|
-|EMG|Maximum|2|155.35|237.25|63.62|82.52|
-|EMG|Maximum|3|99.71|164.04|74.06|155.55|
-|EMG|Maximum|4|92.75|161.73|87.60|144.18|
-|EMG|Maximum|5|128.73|188.45|73.03|155.09|
-|EMG|Maximum|6|123.22|212.92|41.55|36.64|
-|EMG|Average|1|28.81|55.86|41.70|93.73|
-|EMG|Average|2|44.06|99.54|35.15|70.91|
-|EMG|Average|3|30.77|68.94|20.33|30.85|
-|EMG|Average|4|24.10|56.73|25.32|53.58|
-|EMG|Average|5|25.06|64.03|25.62|55.95|
-|EMG|Average|6|33.05|92.75|30.84|69.95|
-|EMG|Mode|1|19.34|33.17|38.98|99.90|
-|EMG|Mode|2|32.81|80.55|15.36|22.12|
-|EMG|Mode|3|32.48|74.52|20.35|34.43|
-|EMG|Mode|4|23.25|57.01|19.20|36.53|
-|EMG|Mode|5|24.23|64.31|22.08|46.41|
-|EMG|Mode|6|32.19|94.53|32.10|76.54|
-|EMG|Area|1|1728.66|3351.40|2501.91|5623.55|
-
-
-|EMG|Area|2|2643.37|5972.58|2108.70|4254.80|
-|---|---|---|---|---|---|---|
-|EMG|Area|3|1846.15|4136.32|1219.72|1850.73|
-|EMG|Area|4|1446.25|3403.70|1518.91|3214.78|
-|EMG|Area|5|1503.30|3842.00|1537.14|3357.02|
-|EMG|Area|6|1983.18|5564.93|1850.20|4197.23|
-|EMG|STD|1|16.20|29.48|12.88|32.89|
-|EMG|STD|2|15.59|26.52|20.35|44.28|
-|EMG|STD|3|7.36|14.41|8.05|16.97|
-|EMG|STD|4|4.56|6.66|11.63|35.16|
-|EMG|STD|5|5.49|8.41|6.50|17.55|
-|EMG|STD|6|7.30|11.31|3.43|5.83|
-|EMG|Minimum|1|11.57|25.03|23.23|57.11|
-|EMG|Minimum|2|23.17|65.59|4.87|6.08|
-|EMG|Minimum|3|8.47|21.57|7.63|12.84|
-|EMG|Minimum|4|17.45|47.49|8.75|21.38|
-|EMG|Minimum|5|17.38|50.10|8.74|21.37|
-|EMG|Minimum|6|20.08|60.38|16.09|32.52|
-|EMG|Maximum|1|171.84|224.33|115.20|187.23|
-|EMG|Maximum|2|157.74|240.03|105.02|206.16|
-|EMG|Maximum|3|109.99|178.37|83.18|141.87|
-|EMG|Maximum|4|78.68|80.34|107.54|164.96|
-|EMG|Maximum|5|91.00|135.09|69.77|109.58|
-|EMG|Maximum|6|122.45|188.78|58.92|95.51|
-|EKGHR|Average|2|119.69|12.76|120.06|11.49|
-|EKGHR|Average|3|114.91|8.81|115.04|13.02|
-|EKGHR|Average|4|109.02|7.64|110.87|10.38|
-|EKGHR|Average|5|106.36|9.83|111.51|7.89|
-|EKGHR|Average|6|101.74|10.59|105.43|8.69|
-|EKGHR|Mode|2|80.68|27.74|79.53|29.02|
-|EKGHR|Mode|3|64.20|20.10|63.70|27.99|
-|EKGHR|Mode|4|51.06|11.28|60.64|22.16|
-|EKGHR|Mode|5|52.27|17.00|55.37|14.84|
-|EKGHR|Mode|6|47.46|21.83|54.49|22.47|
-|EKGHR|STD|2|56.89|4.98|55.93|7.50|
-|EKGHR|STD|3|61.09|7.70|58.93|8.71|
-|EKGHR|STD|4|61.57|8.85|57.66|6.93|
-|EKGHR|STD|5|62.12|4.81|62.13|5.65|
-|EKGHR|STD|6|61.74|9.36|63.22|6.44|
-|EKGHR|Minimum|2|35.08|10.57|38.26|11.55|
-|EKGHR|Minimum|3|38.33|7.02|36.63|10.92|
-|EKGHR|Minimum|4|36.34|5.77|36.06|13.51|
-
-
-|EKGHR|Minimum|5|34.99|6.41|38.06|9.84|
-|---|---|---|---|---|---|---|
-|EKGHR|Minimum|6|30.61|9.41|31.98|8.99|
-|EKGHR|Maximum|2|289.75|12.26|287.79|11.22|
-|EKGHR|Maximum|3|292.72|9.34|289.50|11.15|
-|EKGHR|Maximum|4|288.53|13.01|286.77|16.66|
-|EKGHR|Maximum|5|286.46|17.62|288.23|10.54|
-|EKGHR|Maximum|6|278.81|19.88|294.45|4.15|
-|EKGHRMaxMin|Average|2|149.43|21.62|145.76|22.80|
-|EKGHRMaxMin|Average|3|155.05|13.59|149.86|13.95|
-|EKGHRMaxMin|Average|4|152.38|24.86|143.01|23.95|
-|EKGHRMaxMin|Average|5|154.93|21.73|153.72|19.80|
-|EKGHRMaxMin|Average|6|143.16|28.85|147.05|15.49|
-|EKGHRMaxMin|Mode|2|77.04|53.27|94.10|64.44|
-|EKGHRMaxMin|Mode|3|95.38|68.18|65.49|53.18|
-|EKGHRMaxMin|Mode|4|64.18|29.38|70.20|64.86|
-|EKGHRMaxMin|Mode|5|89.36|66.60|86.20|44.44|
-|EKGHRMaxMin|Mode|6|81.64|67.36|50.42|32.38|
-|EKGHRMaxMin|STD|2|59.35|8.66|56.69|13.89|
-|EKGHRMaxMin|STD|3|62.24|9.62|61.67|14.11|
-|EKGHRMaxMin|STD|4|61.38|8.95|60.50|10.86|
-|EKGHRMaxMin|STD|5|60.83|11.90|61.78|14.01|
-|EKGHRMaxMin|STD|6|62.13|12.79|69.43|8.42|
-|EKGHRMaxMin|Minimum|2|55.38|32.74|58.32|37.28|
-|EKGHRMaxMin|Minimum|3|52.16|18.12|47.72|25.92|
-|EKGHRMaxMin|Minimum|4|53.76|27.95|48.74|34.97|
-|EKGHRMaxMin|Minimum|5|59.60|33.62|63.48|35.49|
-|EKGHRMaxMin|Minimum|6|58.48|41.86|44.07|26.02|
-|EKGHRMaxMin|Maximum|2|239.95|17.21|232.74|23.85|
-|EKGHRMaxMin|Maximum|3|243.42|15.10|240.36|21.29|
-|EKGHRMaxMin|Maximum|4|241.38|18.73|240.92|25.28|
-|EKGHRMaxMin|Maximum|5|242.32|18.77|242.68|17.09|
-|EKGHRMaxMin|Maximum|6|242.12|21.17|251.81|10.15|
-|SkinCond|Average|1|1.03|0.92|1.12|0.83|
-|SkinCond|Average|2|1.06|0.96|1.15|0.92|
-|SkinCond|Average|3|1.16|1.08|1.18|0.95|
-|SkinCond|Average|4|1.25|1.19|1.21|1.02|
-|SkinCond|Average|5|1.32|1.45|1.28|1.13|
-|SkinCond|Average|6|1.39|1.41|1.31|1.22|
-|SkinCond|Mode|1|0.96|0.71|1.09|0.81|
-|SkinCond|Mode|2|1.02|0.83|1.15|0.93|
-|SkinCond|Mode|3|1.11|1.00|1.17|0.93|
-
-
-|SkinCond|Mode|4|1.23|1.16|1.19|0.99|
-|---|---|---|---|---|---|---|
-|SkinCond|Mode|5|1.24|1.22|1.27|1.11|
-|SkinCond|Mode|6|1.38|1.39|1.30|1.20|
-|SkinCond|Area|1|61.83|55.14|67.10|49.90|
-|SkinCond|Area|2|63.86|57.53|69.22|55.39|
-|SkinCond|Area|3|69.53|64.95|71.02|57.26|
-|SkinCond|Area|4|74.99|71.21|72.60|61.01|
-|SkinCond|Area|5|79.32|87.27|76.62|67.99|
-|SkinCond|Area|6|83.64|84.39|78.81|73.39|
-|SkinCond|STD|1|0.09|0.21|0.06|0.06|
-|SkinCond|STD|2|0.06|0.10|0.05|0.05|
-|SkinCond|STD|3|0.08|0.09|0.05|0.07|
-|SkinCond|STD|4|0.06|0.07|0.05|0.07|
-|SkinCond|STD|5|0.10|0.23|0.05|0.08|
-|SkinCond|STD|6|0.05|0.06|0.05|0.06|
-|SkinCond|Minimum|1|0.90|0.65|1.02|0.75|
-|SkinCond|Minimum|2|0.97|0.82|1.07|0.85|
-|SkinCond|Minimum|3|1.05|0.97|1.09|0.86|
-|SkinCond|Minimum|4|1.16|1.08|1.12|0.94|
-|SkinCond|Minimum|5|1.18|1.16|1.19|1.02|
-|SkinCond|Minimum|6|1.31|1.33|1.24|1.12|
-|SkinCond|Maximum|1|1.23|1.36|1.28|0.98|
-|SkinCond|Maximum|2|1.22|1.25|1.27|1.03|
-|SkinCond|Maximum|3|1.35|1.36|1.32|1.12|
-|SkinCond|Maximum|4|1.40|1.39|1.34|1.16|
-|SkinCond|Maximum|5|1.54|1.92|1.41|1.34|
-|SkinCond|Maximum|6|1.54|1.59|1.44|1.39|
-|Temp|Average|1|33.71|1.49|33.45|1.55|
-|Temp|Average|2|33.71|1.47|33.54|1.60|
-|Temp|Average|3|33.78|1.54|33.58|1.66|
-|Temp|Average|4|33.80|1.56|33.65|1.66|
-|Temp|Average|5|33.78|1.56|33.72|1.62|
-|Temp|Average|6|33.60|1.56|33.75|1.66|
-|Temp|Mode|1|33.67|1.49|33.48|1.55|
-|Temp|Mode|2|33.71|1.48|33.53|1.61|
-|Temp|Mode|3|33.78|1.55|33.59|1.67|
-|Temp|Mode|4|33.81|1.56|33.64|1.70|
-|Temp|Mode|5|33.78|1.57|33.73|1.62|
-|Temp|Mode|6|33.61|1.56|33.72|1.64|
-|Temp|Area|1|2022.30|89.43|2007.15|93.01|
-|Temp|Area|2|2022.78|87.93|2012.27|96.14|
-
-
-|Temp|Area|3|2027.00|92.48|2014.61|99.75|
-|---|---|---|---|---|---|---|
-|Temp|Area|4|2028.09|93.68|2019.13|99.63|
-|Temp|Area|5|2026.95|93.80|2023.50|96.96|
-|Temp|Area|6|2015.76|93.77|2025.01|99.85|
-|Temp|STD|1|0.10|0.09|0.10|0.06|
-|Temp|STD|2|0.08|0.05|0.07|0.03|
-|Temp|STD|3|0.09|0.06|0.07|0.03|
-|Temp|STD|4|0.08|0.04|0.09|0.06|
-|Temp|STD|5|0.08|0.05|0.08|0.06|
-|Temp|STD|6|0.08|0.04|0.09|0.05|
-|Temp|Minimum|1|33.52|1.47|33.28|1.58|
-|Temp|Minimum|2|33.58|1.46|33.41|1.64|
-|Temp|Minimum|3|33.63|1.56|33.45|1.67|
-|Temp|Minimum|4|33.65|1.58|33.50|1.68|
-|Temp|Minimum|5|33.65|1.55|33.58|1.66|
-|Temp|Minimum|6|33.45|1.56|33.59|1.68|
-|Temp|Maximum|1|33.88|1.47|33.62|1.53|
-|Temp|Maximum|2|33.86|1.47|33.67|1.56|
-|Temp|Maximum|3|33.94|1.51|33.71|1.64|
-|Temp|Maximum|4|33.94|1.56|33.82|1.59|
-|Temp|Maximum|5|33.93|1.56|33.88|1.53|
-|Temp|Maximum|6|33.73|1.57|33.89|1.65|
-|RespRate|Average|1|13.82|2.26|14.27|1.88|
-|RespRate|Average|2|13.79|2.40|14.06|1.80|
-|RespRate|Average|3|13.60|2.27|13.72|1.69|
-|RespRate|Average|4|13.65|3.05|13.45|2.05|
-|RespRate|Average|5|13.43|2.61|13.59|2.31|
-|RespRate|Average|6|13.72|2.72|13.65|1.88|
-|RespRate|Mode|1|12.27|4.17|14.18|4.87|
-|RespRate|Mode|2|13.10|5.09|13.55|4.59|
-|RespRate|Mode|3|13.32|4.29|13.41|4.65|
-|RespRate|Mode|4|12.92|5.45|13.20|4.18|
-|RespRate|Mode|5|14.03|4.37|13.01|4.38|
-|RespRate|Mode|6|14.85|4.47|14.68|3.95|
-|RespRate|STD|1|3.29|0.73|3.60|0.94|
-|RespRate|STD|2|3.48|0.81|3.47|0.74|
-|RespRate|STD|3|3.75|0.95|3.53|0.58|
-|RespRate|STD|4|3.27|1.19|3.48|0.62|
-|RespRate|STD|5|3.39|1.20|3.08|0.92|
-|RespRate|STD|6|3.41|1.11|3.32|0.85|
-|RespRate|Minimum|1|8.98|1.63|8.69|2.15|
-
-
-|RespRate|Minimum|2|8.40|1.95|8.47|1.57|
-|---|---|---|---|---|---|---|
-|RespRate|Minimum|3|7.58|2.58|8.39|1.54|
-|RespRate|Minimum|4|8.34|3.16|7.57|1.70|
-|RespRate|Minimum|5|7.85|1.74|8.18|2.40|
-|RespRate|Minimum|6|8.31|2.87|8.35|2.16|
-|RespRate|Maximum|1|19.06|1.35|19.35|1.25|
-|RespRate|Maximum|2|19.04|2.24|19.11|1.66|
-|RespRate|Maximum|3|18.88|1.77|19.48|1.24|
-|RespRate|Maximum|4|18.37|2.50|19.38|1.15|
-|RespRate|Maximum|5|18.03|3.02|18.30|2.08|
-|RespRate|Maximum|6|18.92|2.45|18.69|1.59|
-
-
-_Table 24: Change from pre-patch to last patch (day 7) of BVP-HR, EMG, Skin-Condition,_
-_Temperature and Respiratory Rate for Average, Mode, and Area, stratified by Epoch (1-_
-_6)_
-
-
-
-
-
-
-
-
-|Source|Outcome|Epoch|Mean<br>Change|SD|p-<br>value|
+|BVP|NN50|-1.96|3.80|Change|SD|p-value|
 |---|---|---|---|---|---|
 |BVPHR|Average|1|3.47|8.57|0.1393|
 |BVPHR|Average|2|4.51|7.83|0.0426|
@@ -2220,7 +1694,7 @@ _Condition, Temperature and Respiratory Rate for all distribution characteristic
 _outcomes, across all 6 epochs_
 
 
-|Col1|Col2|Pre-patch|Col4|Last-patch (Day<br>7)|Col6|
+|Col1|Col2|Pre-patch|Col4|Last-patch (Day7)|Col6|
 |---|---|---|---|---|---|
 |**Source**|**Outcome**|**Mean**|**SD**|**Mean**|**SD**|
 |BVPHR|Average|77.35|11.67|79.90|12.87|
@@ -2280,7 +1754,7 @@ _outcomes, across all 6 epochs_
 _Table 26: Change from pre-patch to last patch (day 7) of BVP-HR, EMG, Skin-Condition,_
 _Temperature and Respiratory Rate for Average, Mode, and Area, across all 6 Epochs_
 
-|Source|Outcome|Mean<br>Change|SD|p-value|
+|Source|Outcome|MeanChange|SD|p-value|
 |---|---|---|---|---|
 |BVPHR|Average|2.54|8.31|0.0047|
 |BVPHR|Mode|2.31|9.60|0.0249|
@@ -2331,105 +1805,105 @@ _Table 27: Summary statistics for metabolic markers, stratified by assessment ti
 
 
 
-|Marker|N|Assessment<br>Time point|Mean|SD|
+|Marker|N|AssessmentTime point|Mean|SD|
 |---|---|---|---|---|
-|2-amino|15|Day 1 (pre-<br>patch)|11.82|11.65|
+|2-amino|15|Day 1 (pre-patch)|11.82|11.65|
 |2-amino|15|Day 2|13.26|10.88|
 |2-amino|15|Day 7|14.70|12.27|
-|3-MT|15|Day 1 (pre-<br>patch)|64.46|45.27|
+|3-MT|15|Day 1 (pre-patch)|64.46|45.27|
 |3-MT|15|Day 2|55.99|39.14|
 |3-MT|15|Day 7|52.33|26.14|
-|5-HT|15|Day 1 (pre-<br>patch)|76.14|37.36|
+|5-HT|15|Day 1 (pre-patch)|76.14|37.36|
 |5-HT|15|Day 2|80.52|43.01|
 |5-HT|15|Day 7|82.99|57.52|
-|5-HT/DA|15|Day 1 (pre-<br>patch)|0.87|0.90|
+|5-HT/DA|15|Day 1 (pre-patch)|0.87|0.90|
 |5-HT/DA|15|Day 2|0.69|0.62|
 |5-HT/DA|15|Day 7|0.63|0.44|
-|5-HTP|15|Day 1 (pre-<br>patch)|49.21|26.41|
+|5-HTP|15|Day 1 (pre-patch)|49.21|26.41|
 |5-HTP|15|Day 2|59.70|67.25|
 |5-HTP|15|Day 7|46.89|25.25|
-|Age|15|Day 1 (pre-<br>patch)|61.27|8.65|
+|Age|15|Day 1 (pre-patch)|61.27|8.65|
 |Age|15|Day 2|61.27|8.65|
 |Age|15|Day 7|61.27|8.65|
-|Ala|15|Day 1 (pre-<br>patch)|117.66|45.05|
+|Ala|15|Day 1 (pre-patch)|117.66|45.05|
 |Ala|15|Day 2|97.49|42.89|
 |Ala|15|Day 7|119.53|74.69|
-|Arg|15|Day 1 (pre-<br>patch)|5.97|1.69|
+|Arg|15|Day 1 (pre-patch)|5.97|1.69|
 |Arg|15|Day 2|5.13|2.79|
 |Arg|15|Day 7|7.36|6.59|
-|Asn|15|Day 1 (pre-<br>patch)|18.09|15.41|
+|Asn|15|Day 1 (pre-patch)|18.09|15.41|
 |Asn|15|Day 2|15.58|10.84|
 |Asn|15|Day 7|16.07|11.14|
-|Asp|15|Day 1 (pre-<br>patch)|4.99|2.86|
+|Asp|15|Day 1 (pre-patch)|4.99|2.86|
 |Asp|15|Day 2|5.29|2.31|
 
 
 |Asp|15|Day 7|4.88|2.45|
 |---|---|---|---|---|
-|Bala|15|Day 1 (pre-<br>patch)|27.64|26.24|
+|Bala|15|Day 1 (pre-patch)|27.64|26.24|
 |Bala|15|Day 2|16.33|12.97|
 |Bala|15|Day 7|20.52|26.90|
-|C-C|15|Day 1 (pre-<br>patch)|31.37|12.67|
+|C-C|15|Day 1 (pre-patch)|31.37|12.67|
 |C-C|15|Day 2|31.57|12.59|
 |C-C|15|Day 7|35.51|22.37|
-|Car|15|Day 1 (pre-<br>patch)|10.67|13.07|
+|Car|15|Day 1 (pre-patch)|10.67|13.07|
 |Car|15|Day 2|6.26|4.94|
 |Car|15|Day 7|6.10|6.31|
-|Cit|15|Day 1 (pre-<br>patch)|2.27|1.25|
+|Cit|15|Day 1 (pre-patch)|2.27|1.25|
 |Cit|15|Day 2|2.41|1.40|
 |Cit|15|Day 7|2.51|1.25|
-|Cre|15|Day 1 (pre-<br>patch)|138.07|83.78|
+|Cre|15|Day 1 (pre-patch)|138.07|83.78|
 |Cre|15|Day 2|178.40|108.96|
 |Cre|15|Day 7|172.73|120.95|
-|Cys|15|Day 1 (pre-<br>patch)|57.45|27.87|
+|Cys|15|Day 1 (pre-patch)|57.45|27.87|
 |Cys|15|Day 2|66.58|27.24|
 |Cys|15|Day 7|50.50|11.58|
-|Cys/C-c|15|Day 1 (pre-<br>patch)|2.29|1.82|
+|Cys/C-c|15|Day 1 (pre-patch)|2.29|1.82|
 |Cys/C-c|15|Day 2|2.64|1.95|
 |Cys/C-c|15|Day 7|2.21|2.14|
-|Cystathion|15|Day 1 (pre-<br>patch)|9.94|6.25|
+|Cystathion|15|Day 1 (pre-patch)|9.94|6.25|
 |Cystathion|15|Day 2|10.82|7.78|
 |Cystathion|15|Day 7|9.54|9.63|
-|DA|15|Day 1 (pre-<br>patch)|154.62|71.19|
+|DA|15|Day 1 (pre-patch)|154.62|71.19|
 |DA|15|Day 2|151.33|53.82|
 |DA|15|Day 7|161.26|58.60|
-|E|15|Day 1 (pre-<br>patch)|5.44|3.27|
+|E|15|Day 1 (pre-patch)|5.44|3.27|
 |E|15|Day 2|3.34|1.60|
 |E|15|Day 7|4.93|3.02|
-|GABA|15|Day 1 (pre-<br>patch)|3.79|1.77|
+|GABA|15|Day 1 (pre-patch)|3.79|1.77|
 
 
 |GABA|15|Day 2|3.25|1.19|
 |---|---|---|---|---|
 |GABA|15|Day 7|3.07|1.13|
-|GSH|15|Day 1 (pre-<br>patch)|1.35|1.40|
+|GSH|15|Day 1 (pre-patch)|1.35|1.40|
 |GSH|15|Day 2|1.58|1.48|
 |GSH|15|Day 7|2.09|1.71|
-|Gln|15|Day 1 (pre-<br>patch)|174.16|97.68|
+|Gln|15|Day 1 (pre-patch)|174.16|97.68|
 |Gln|15|Day 2|149.88|77.00|
 |Gln|15|Day 7|147.20|52.69|
-|Glu|15|Day 1 (pre-<br>patch)|18.22|11.34|
+|Glu|15|Day 1 (pre-patch)|18.22|11.34|
 |Glu|15|Day 2|16.21|8.32|
 |Glu|15|Day 7|12.40|5.45|
-|Gly|15|Day 1 (pre-<br>patch)|272.51|182.74|
+|Gly|15|Day 1 (pre-patch)|272.51|182.74|
 |Gly|15|Day 2|199.97|122.82|
 |Gly|15|Day 7|234.64|155.33|
-|HCys2|15|Day 1 (pre-<br>patch)|0.86|0.49|
+|HCys2|15|Day 1 (pre-patch)|0.86|0.49|
 |HCys2|15|Day 2|1.21|0.52|
 |HCys2|15|Day 7|1.13|0.60|
-|HYP|15|Day 1 (pre-<br>patch)|2.55|1.18|
+|HYP|15|Day 1 (pre-patch)|2.55|1.18|
 |HYP|15|Day 2|2.19|0.87|
 |HYP|15|Day 7|2.21|0.65|
-|Hcys|15|Day 1 (pre-<br>patch)|0.91|0.49|
+|Hcys|15|Day 1 (pre-patch)|0.91|0.49|
 |Hcys|15|Day 2|0.97|0.63|
 |Hcys|15|Day 7|1.07|0.64|
-|His|15|Day 1 (pre-<br>patch)|182.17|75.01|
+|His|15|Day 1 (pre-patch)|182.17|75.01|
 |His|15|Day 2|135.85|60.51|
 |His|15|Day 7|135.53|57.98|
-|Hist|15|Day 1 (pre-<br>patch)|28.77|24.03|
+|Hist|15|Day 1 (pre-patch)|28.77|24.03|
 |Hist|15|Day 2|19.52|12.04|
 |Hist|15|Day 7|24.35|29.92|
-|Hlys|15|Day 1 (pre-<br>patch)|1.23|1.97|
+|Hlys|15|Day 1 (pre-patch)|1.23|1.97|
 |Hlys|15|Day 2|0.61|0.67|
 |Hlys|15|Day 7|0.43|0.30|
 |Hser|15|Day 1 (pre-|11.63|8.21|
@@ -2439,82 +1913,82 @@ _Table 27: Summary statistics for metabolic markers, stratified by assessment ti
 |---|---|---|---|---|
 |Hser|15|Day 2|8.53|6.01|
 |Hser|15|Day 7|9.12|6.65|
-|Ile|15|Day 1 (pre-<br>patch)|14.10|7.32|
+|Ile|15|Day 1 (pre-patch)|14.10|7.32|
 |Ile|15|Day 2|12.11|4.04|
 |Ile|15|Day 7|11.30|4.75|
-|LDOPA|15|Day 1 (pre-<br>patch)|21.31|13.72|
+|LDOPA|15|Day 1 (pre-patch)|21.31|13.72|
 |LDOPA|15|Day 2|23.32|10.67|
 |LDOPA|15|Day 7|22.80|12.70|
-|Leu|15|Day 1 (pre-<br>patch)|19.98|8.16|
+|Leu|15|Day 1 (pre-patch)|19.98|8.16|
 |Leu|15|Day 2|15.13|4.94|
 |Leu|15|Day 7|17.10|7.83|
-|Lys|15|Day 1 (pre-<br>patch)|49.09|32.44|
+|Lys|15|Day 1 (pre-patch)|49.09|32.44|
 |Lys|15|Day 2|40.21|29.33|
 |Lys|15|Day 7|41.45|34.56|
-|ME|15|Day 1 (pre-<br>patch)|23.52|16.61|
+|ME|15|Day 1 (pre-patch)|23.52|16.61|
 |ME|15|Day 2|19.24|8.73|
 |ME|15|Day 7|17.79|7.79|
-|Met|15|Day 1 (pre-<br>patch)|7.08|5.74|
+|Met|15|Day 1 (pre-patch)|7.08|5.74|
 |Met|15|Day 2|6.65|3.93|
 |Met|15|Day 7|6.36|3.88|
-|NE|15|Day 1 (pre-<br>patch)|26.29|13.51|
+|NE|15|Day 1 (pre-patch)|26.29|13.51|
 |NE|15|Day 2|25.52|15.95|
 |NE|15|Day 7|36.02|38.37|
-|NE/E|15|Day 1 (pre-<br>patch)|7.44|6.59|
+|NE/E|15|Day 1 (pre-patch)|7.44|6.59|
 |NE/E|15|Day 2|10.35|9.99|
 |NE/E|15|Day 7|12.07|13.78|
-|NorM|15|Day 1 (pre-<br>patch)|89.67|52.78|
+|NorM|15|Day 1 (pre-patch)|89.67|52.78|
 |NorM|15|Day 2|89.67|41.19|
 |NorM|15|Day 7|76.61|27.62|
-|Orn|15|Day 1 (pre-<br>patch)|13.57|10.95|
+|Orn|15|Day 1 (pre-patch)|13.57|10.95|
 |Orn|15|Day 2|10.27|7.72|
 |Orn|15|Day 7|11.77|11.33|
 
 
-|PEA|15|Day 1 (pre-<br>patch)|2.08|1.92|
+|PEA|15|Day 1 (pre-patch)|2.08|1.92|
 |---|---|---|---|---|
 |PEA|15|Day 2|1.91|2.04|
 |PEA|15|Day 7|1.48|1.25|
-|Phe|15|Day 1 (pre-<br>patch)|22.92|14.05|
+|Phe|15|Day 1 (pre-patch)|22.92|14.05|
 |Phe|15|Day 2|18.79|9.87|
 |Phe|15|Day 7|25.11|12.30|
-|Pro|15|Day 1 (pre-<br>patch)|13.00|6.54|
+|Pro|15|Day 1 (pre-patch)|13.00|6.54|
 |Pro|15|Day 2|10.65|4.54|
 |Pro|15|Day 7|10.70|6.17|
-|Ratio|15|Day 1 (pre-<br>patch)|1.60|1.50|
+|Ratio|15|Day 1 (pre-patch)|1.60|1.50|
 |Ratio|15|Day 2|0.89|0.47|
 |Ratio|15|Day 7|1.35|1.36|
-|Sar|15|Day 1 (pre-<br>patch)|10.05|5.57|
+|Sar|15|Day 1 (pre-patch)|10.05|5.57|
 |Sar|15|Day 2|9.83|7.58|
 |Sar|15|Day 7|10.04|7.57|
-|Ser|15|Day 1 (pre-<br>patch)|77.68|42.05|
+|Ser|15|Day 1 (pre-patch)|77.68|42.05|
 |Ser|15|Day 2|74.23|45.67|
 |Ser|15|Day 7|68.77|31.37|
-|Thr|15|Day 1 (pre-<br>patch)|68.86|41.99|
+|Thr|15|Day 1 (pre-patch)|68.86|41.99|
 |Thr|15|Day 2|62.84|38.12|
 |Thr|15|Day 7|63.39|40.77|
-|Trp|15|Day 1 (pre-<br>patch)|21.08|11.49|
+|Trp|15|Day 1 (pre-patch)|21.08|11.49|
 |Trp|15|Day 2|27.49|20.64|
 |Trp|15|Day 7|16.69|12.78|
-|Tryp|15|Day 1 (pre-<br>patch)|0.68|0.18|
+|Tryp|15|Day 1 (pre-patch)|0.68|0.18|
 |Tryp|15|Day 2|0.66|0.21|
 |Tryp|15|Day 7|0.72|0.24|
-|Tyr|15|Day 1 (pre-<br>patch)|36.35|21.55|
+|Tyr|15|Day 1 (pre-patch)|36.35|21.55|
 |Tyr|15|Day 2|39.53|21.00|
 |Tyr|15|Day 7|38.79|21.25|
-|Tyra|15|Day 1 (pre-<br>patch)|5.64|2.76|
+|Tyra|15|Day 1 (pre-patch)|5.64|2.76|
 |Tyra|15|Day 2|4.60|1.86|
 
 
 |Tyra|15|Day 7|4.97|2.31|
 |---|---|---|---|---|
-|Val|15|Day 1 (pre-<br>patch)|45.11|41.02|
+|Val|15|Day 1 (pre-patch)|45.11|41.02|
 |Val|15|Day 2|34.25|24.67|
 |Val|15|Day 7|41.84|28.03|
-|a-amino|15|Day 1 (pre-<br>patch)|18.79|16.63|
+|a-amino|15|Day 1 (pre-patch)|18.79|16.63|
 |a-amino|15|Day 2|15.18|9.86|
 |a-amino|15|Day 7|9.90|5.57|
-|b-aminoiso|15|Day 1 (pre-<br>patch)|80.13|76.39|
+|b-aminoiso|15|Day 1 (pre-patch)|80.13|76.39|
 |b-aminoiso|15|Day 2|98.49|178.48|
 |b-aminoiso|15|Day 7|59.81|51.33|
 
@@ -2522,7 +1996,7 @@ _Table 27: Summary statistics for metabolic markers, stratified by assessment ti
 _Table 28: Change from day 1 (pre-patch) to day 2, day 2 to day 7, and day 1 (pre-patch) to day 7_
 
 
-|Marker|Change|Mean<br>Change|SD|p-value|
+|Marker|Change|MeanChange|SD|p-value|
 |---|---|---|---|---|
 |2-amino|Day 1 to Day 2|1.44|11.94|0.6474|
 |2-amino|Day 2 to Day 7|1.44|9.32|0.5585|
@@ -2729,7 +2203,7 @@ _Table 29: Summary statistics for AUC of Cortisol and DHEAS, stratified by asses
 
 
 
-|Marker|Assessment<br>Time point|Mean<br>AUC|SD|
+|Marker|AssessmentTime point|MeanAUC|SD|
 |---|---|---|---|
 |Cortisol|R1 (pre-patch)|109.1|36.9|
 |Cortisol|R2|120.6|28.4|
@@ -2747,7 +2221,7 @@ _Table 30: Change from R1 to R2, R2 to R3 and R1 to R3_
 
 
 
-|Marker|Change|Mean<br>Change in<br>AUC|SD|p-value|
+|Marker|Change|MeanChange inAUC|SD|p-value|
 |---|---|---|---|---|
 |Cortisol|R1 to R2|11.5|41.9|0.7615|
 ||R2 to R3|21.1|90.2|0.9780|
