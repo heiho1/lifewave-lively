@@ -1,0 +1,281 @@
+**May 2020** **Volume 20, No. 2**
+
+# **Changes in TripeptidesProduced By theLifeWave X39 Patch**
+
+**By Caitlin A. Connor, MAcOM, DAOM**, **Melinda H. Connor, DD, PhD, AMP, FAM,**
+**David Yue, PhD, Chiu-An Chang, DO,LAcJens Eickhoff, PhD**
+**Susan Wagner, DAOM, LAc, BCIM, and Amy Chang, PhD**
+
+**Abstract**
+
+_**Purpose**_ - To determine if the LifeWave X39 non-transdermal patch can produce changes in tripeptides
+GHK and GHK-Cu production.
+_**Materials**_ - BD Vacutainer Safety Loc Blood Collection sets with Pre-attached holder sized 21GX0.75 or
+23GX0.75, lavender top tubes, KendroSorvallBiofuge Centrifuge 75005184+, sterile eye droppers,
+polystyrene containers, thermal liners and an AB Sciex API4000 Qtrap. Analysis software included:
+Qtrap Analyst software 1.6.2. and R software version 3.5.1.
+_**Method**_ - Blood was drawn into lavender top tubes on day 1, 2 and 7 with blood collection sets and
+spun in KendroSorvall centrifuge for 10 minutes at1300rcf at room temperature. The plasma was
+placed in cryo tubes and flash frozen using dryice, then shipped to the laboratory for analysis. Once
+there the blood samples were processed according to the original thesis of Dr. Pickard. The filtrate was
+concentrated by speed-vac and reconstituted with de-ionized water to50µland analyzed with AB Sciex
+API4000 Qtrap. The data was analyzed with Analyst software 1.6.2. Results were then sent for
+statistical analysis using a Wilcoxon signed rank test. All reported p-values are two-sided and p<0.05
+was used to define statistical significance. Statistical analyses were conducted with R software version
+3.5.1. "Copper tripeptide-1(GHK-Cu) is a small protein composed of the three amino acids (protein
+building blocks) glycine, histidine, and lysine combined in a specific geometric configuration with the
+physiologically beneficial mineral (copper)” (DeHaven, 2014). It helps repair and maintain all tissue
+types(DeHaven, 2014).
+_**Results**_ - There was a significant increase in GHK in blood seen at 24 hours, p<0.0098. A significant
+increase in GHK-Cu in the blood was also seen at 7 days, p<0.0137.
+_**Conclusion**_ - This pilot study explored changes in amounts of GHK and GHK-Cu present inblood due
+to wearing the LifeWave X39 patch for 1 week. There was a significant increase of GHK in blood seen
+at 24 hours, p<0.0098. A significant increase in GHK-Cu in blood was also seen at 7 days, p<0.0137.
+
+Keywords **:** Photobiology, Phototherapy, Meridians
+
+**Introduction**
+
+This pilot study explores the impact of wearing the LifeWave X39 patch for one week on levels of GHK and GHKCu levels in blood. Blood samples were taken at baseline, 24 hours and 7 days of wearing the patch. A sample of
+convenience of 10 subjects made up of both men and women aged 40-81 were selected to participate in this
+study.
+
+
+_International Journal of Healing and Caring 2020, 20(2),_
+
+
+2
+
+
+**Background**
+
+_**Phototherapy**_
+Phototherapy in various forms has been used for over 100 years and has shown benefits for a variety
+of skin diseases (Singer& Berneburg, 2018), foot ulcer healing, specifically with diabetes (Wang, et al,
+2017), and even a first line therapy for mycosis fungoides. (Dogra&Mahajan, 2015). There has been
+little evidence of negative side effects. This suggests that this is a relatively untapped option for healing
+with relatively few risks.
+The LifeWave X39 patch uses phototherapy to stimulate a rebalancing of the body. Merriam-Webster
+Dictionarydefines "Phototherapy" as "light therapy" (Merriam-Webster.com Dictionary, 2020). It is the
+use of light in specific wavelengths that vary based on the intended effect to stimulate a specific
+physiological change _._
+"Copper tripeptide-1(GHK-Cu) is a small protein composed of the three amino acids (protein building
+blocks) glycine, histidine, and lysine combined in a specific geometric configuration with the
+physiologically beneficial mineral (copper)” (DeHaven, 2014). This tripeptide was first isolated from
+human plasma albumin in 1973 by Dr. Loren Pickart. Additional research has established the strong
+affinity the GHK peptide has for copper, and exists in twoforms, GHK and GHK-Cu(DeHaven, 2014). To
+date, no research of the use of GHK and GHK-Cu has shown elevated liver enzymes (Pickart& Thaler,
+1973; Pickart, Thayer, & Thaler, 1973; DeHaven, 2014)
+Based on anecdotal observation it was felt that a possible change in both the tripeptide GHK and the
+copper tripeptide GHK-Cu might be factors in the effects produced by the patch described below.
+Research has identified that the GHK and GHK-Cu peptides are used to signal the beginning of the
+natural repair process anddemonstrated to improve tissue remodelingGHK-Cuincreases keratinocyte
+proliferation and normal collagen synthesis, improves skin thickness, skin elasticity and firmness,
+improves wrinkles, photodamage and uneven pigmentation, improves skin clarity, and tightens
+protective barrier proteins.” (DeHaven, 2014)
+
+**Purpose of study**
+
+To determine if the LifeWave X39 non-transdermal patch produced changes in tripeptides GHK and
+GHK-Cu production.
+
+**Non-transdermal Patch**
+
+_All X39 patches are sealed so that none of the substances in the patch actually penetrate the skin_ .This
+allows for consistent patch promotion of the electrodermal skin response in the infrared, near infrared,
+and visible light spectrumsthroughout the time the patch is worn.Electrodermal activity (EDA) is the
+property of the human body that causes continuous variation in the _electrical_ characteristics of the
+skin.Patches are designed to reflect wavelengths of light in the infrared, near infrared, and visible light
+bands.The patches act as a transducer and transmitter, like a router on a computer network, or one of
+the old crystal radio sets. They receive signals from the body, strengthen them, send them back, and
+then the body receives them **.** The patches use the same adhesives as band-aids. This limits the level of
+irritation caused by the adhesive which might be developed through consistent daily use of the patch.
+
+**Meridian Implications and Patch placement**
+
+Specific meridian points were chosen to maintain consistency and improve comparability between
+studies. They were also chosen for ease of access and description in the future.
+
+**Procedure**
+
+Once human research studies ethics board approval was received (NFFEH 06-26-19-05), recruitment
+
+
+_International Journal of Healing and Caring 2020, 20(2), 1-5_
+
+
+3
+
+
+was begun. Flyers advertising for interested research participants were posted at various local sites.
+Participants would call into the main study phone number and were assessed according to[inclusion
+and exclusion criteria. Participants were required to be between the ages of 40 and 81, and to not have
+a history of any significant mental health issues which might have compromised their ability to consent
+to participating in the study. At the time of arrival at the study site, each participant matching the
+selection criteria signed their consent. Individual participants were then taken into the exam room and
+a blood sample was taken at baseline, 24 hours and 7 days of patch placement. Half the participants
+used the CV6 point and half used the GV14 point
+BD Vacutainer Safety Loc Blood Collection sets were used with Pre-attached holder sized 21GX0.75 or
+23GX0.75 and placed in lavender top tubes. Each blood sample was then placed in the
+KendroSorvallBiofuge centrifuge 75005184+ HERAEUS 7591 with a 4000 RPM rotor, andspun for 10
+minutes at 1300rcf at room temperature to separate the plasma.The plasmawas then placed in cryo
+tubes, and flash frozen using dry ice. Samples were then placed in 2" thick polystyrene containers,
+wrapped in thermal box liners and placed in double walled boxes for overnight shipping to HT-Labs, a
+division of AxisPharm in San Diego, CA for analysis.
+
+**Analysis of Blood Samples**
+
+The blood samples were processed according to the original thesis of Dr. Pickard(Pickart& Thaler,
+1973) AGAIN WHICH Pickart?]. The filtrate was concentrated by speed-vac and reconstituted with deionized water to 50µland analyzed with AB Sciex API4000 Qtrap. The data was analyzed with Qtrap
+Analyst software 1.6.2.
+
+**Statistical Analysis**
+
+Absolute changes in GHK and GHK-CU levels from baseline, 24 hours, and day 7 assessments were
+summarized in terms of means, standard deviations, medians and ranges. Changes from baseline to
+the 24 hours and day 7 assessments were evaluated using a nonparametric Wilcoxon signed rank test.
+All reported p-values are two-sided and p<0.05 was used to define statistical significance. Statistical
+analyses were conducted using R software (version 3.5.1; http://www.r-project.org/).
+
+**Results**
+
+Our sample of convenience of individuals consisted of 10 individuals, with four men and six women in
+the study.They had a mean age of 64.2, with an age range of 41 - 73. See significant results of the
+LifeWave X39 patch testing in Table 1.:
+
+
+**Table 1. Absolute changes from baseline to 24 hours**
+
+
+
+
+
+
+|Col1|Col2|N|Mean (SD)|Median (Range)|p-value|
+|---|---|---|---|---|---|
+|GHK concentration<br>(ng/ml)|24 hours|10|9.5 (9.0)|6.9 (-3.4-27.5)|0.0098|
+|GHK-Cu concentration<br>(ng/ml)|Day 7|10|4.2 (4.3)|4.0 (-2.6-11.5)|0.0137|
+
+
+
+The blood analysis of GHK showed an increase at levels at p< 0.0098 within 24 hours and GHK-Cu
+also showed an increase at p<0.01 at 7 days.
+
+**Discussion**
+
+It is important to recognize that this was both a sample of convenience with a small sample size in a
+pilot study. However, there was a significant change in the levels of both GHK at 24 hours and GHK-Cu
+in 7 days. This implies promotion of positive benefits to the body. Further study will need to be done
+
+
+_International Journal of Healing and Caring 2020, 20(2), 1-5_
+
+
+4
+
+
+with larger sample sizes and control groups to determine if there is a consistency of results over
+repeated trials and statistically significant changes when compared with a control group.
+
+**Conclusion**
+
+This pilot study explored the changes in amounts of GHK and GHK-Cu present in the blood as a result
+of wearing the LifeWave X39 patch for 1 week. There was a significant increase in GHK in the
+blood,seen at 24 hours, at the level of p<0.0098. A significant increase in GHK-Cu in the blood was
+also seen at 7 days, at the level of p<0.0137.
+
+**References**
+
+Deadman, P., Al-Khafaji, M., Baker, K., (2001) A Manual of Acupuncture. Eastland Press. 1240 Activity
+Dr., #D Vista, CA, 92083.
+
+DeHaven, C., (2014) Copper Tripeptide-1. Science of Skincare.
+
+Dogra, S., Mahajan, R. (2015) Phototherapy for mycosis fungoides. Indian Journal of Dermatology,
+Venereology and Leprology. 2015;81(2):124–135. doi:10.4103/0378-6323.152169
+
+Geo Peptides Staff. (2015) What are Copper Peptides? Retrieved August 5, 2018.
+https://www.geopeptides.com/copperpep.html
+
+Kakimoto, C., (2017) What is phototherapy, and how does it work?
+https://www.dermatologistoncall.com/blog/what-is-phototherapy-and-how-does-it-work/
+
+Merriam-Webster Staff. “Phototherapy.” _Merriam-Webster.com Dictionary_, Merriam-Webster,
+https://www.merriam-webster.com/dictionary/phototherapy. Accessed 6 Mar. 2020.
+
+Pickart, L., Thaler, M. M. (1973). Tripeptide in human serum which prolongs survival of normal liver
+cells and stimulates growth in neoplastic liver. _Nat New Biol_ . 1973;243(124):85–87.
+
+Pickart, L., Thayer, L., Thaler, M. M. (1973). A synthetic tripeptide which increases survival of normal
+liver cells, and stimulates growth in hepatoma cells. _BiochemBiophys Res Commun_ .54(2), 562–566.
+doi:10.1016/0006-291x(73)91459-9
+
+Pickart, L., Vasquez-Soltero, J., Margolina, A. (2014).GHK and DNA: resetting the human genome to
+health. BioMed Research International, vol. 2014,Article ID 151479, 10 pages.
+Pickart, L., Vasquez-Soltero, J., Margolina, A. (2015) GHK Peptide as a Natural Modulator of Multiple
+Cellular Pathways in Skin Regeneration. Hindawi Publishing Corporation BioMed Research
+International Volume 2015, Article ID 648108, 7 pages http://dx.doi.org/10.1155/2015/648108.
+Singer, S., Berneburg, M. (2018) Phototherapy. Journal der DeutschenDermatologischen
+Gesellschaft. 2018;16(9):1120–1129. doi:10.1111/ddg.13646
+
+Wang, H.T., Yuan, J.Q., Zhang, B., Dong, M.L., Mao, C., Hu, D. (2017) Phototherapy for treating foot
+ulcers in people with diabetes. The Cochrane Database of Systematic Reviews. 2017;6(6):CD011979.
+Published 2017 Jun 28. doi:10.1002/14651858.CD011979.pub2
+
+
+_International Journal of Healing and Caring 2020, 20(2), 1-5_
+
+
+5
+
+
+**Author affiliations**
+
+Caitlin A. Connor, MAcOM, DAOM, Post Doctoral Diploma Candidate, Health Sciences Research,
+Rawley House, Oxford University, UK
+
+Melinda H. Connor, D.D., Ph.D., AMP, FAM, Research Professor, Arizona School of Acupuncture and
+Oriental Medicine
+
+David Yue, PhD, CEO, HT-Labs a division of AxisPharm
+
+Chiu-An Chang, DO, Academic Dean Emeritus, Arizona School of Acupuncture and Oriental Medicine
+
+Jens Eickhoff, PhD, Senior Scientist, Biostatistics & Medical Informatics, University of Wisconsin
+Madison
+
+Susan Wagner, DAOM, LAc, BCIM, Professor, Arizona School of Acupuncture and Oriental Medicine
+
+Amy Chang, BA, Senior Research Associate, HT-Labs a division of AxisPharm
+
+**Corresponding Author:**
+
+
+**Dr. Caitlin Connor, DAOM, PhD, MABA,** holds a batchelor’s degree
+from Mount Holyoke College with a dual focus in political science and
+anthropology, a master’s degree in acupuncture and oriental medicine
+from Arizona School of Acupuncture and Oriental Medicine and a
+doctorate in Acupuncture and Oriental Medicine from California
+Institute for Integral Studies/American College of Traditional Chinese
+Medicine. Dr. Connor was the ISSSEEM 2011 gold medal winner of
+the Rustum Roy Emerging Scientist Award for undergraduates, the
+2014 Bernard Grad Emerging Scientist silver medal winner for
+graduate students and a 2018 inaugural Patricia Norris Emerging
+Scientist gold medal. Trained in a variety of energy systems, styles
+and techniques since she was three, Dr. Connor is currently doing
+additional health care sciences research training at the University of
+Oxford, UK and commuting between countries.
+
+**Caitlin A. Connor, MAcOM, DAOM**
+31907 S. Davis Ranch Rd
+Marana, AZ 85658
+caitlin_connor@mindspring.com
+520-609-1766
+
+
+
+
+
+_International Journal of Healing and Caring 2020, 20(2), 1-5_
+
+

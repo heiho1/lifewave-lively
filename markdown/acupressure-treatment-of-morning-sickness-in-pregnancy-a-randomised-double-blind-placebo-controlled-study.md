@@ -1,0 +1,485 @@
+### **Scandinavian Journal of Primary Health Care**
+
+**[ISSN: 0281-3432 (Print) 1502-7724 (Online) Journal homepage: https://www.tandfonline.com/loi/ipri20](https://www.tandfonline.com/loi/ipri20)**
+
+## **Acupressure treatment of morning sickness in** **pregnancy. A randomised, double-blind, placebo-** **_controlled study_**
+
+
+**Arne Johan Norheim, Erik Jesman Pedersen, Vinjar Fønnebø, Lillian Berge**
+
+
+**To cite this article:** Arne Johan Norheim, Erik Jesman Pedersen, Vinjar Fønnebø, Lillian Berge
+(2001) Acupressure treatment of morning sickness in pregnancy. _A￿randomised,￿double-blind,_
+_placebo-controlled￿study_, Scandinavian Journal of Primary Health Care, 19:1, 43-47, DOI:
+[10.1080/02813430120819](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/02813430120819)
+
+
+**To link to this article:** [https://doi.org/10.1080/02813430120819](https://doi.org/10.1080/02813430120819)
+
+
+© 2001 Informa UK Ltd All rights reserved:
+reproduction in whole or part not permitted
+
+
+Published online: 12 Jul 2009.
+
+
+[Submit your article to this journal](https://www.tandfonline.com/action/authorSubmission?journalCode=ipri20&show=instructions)
+
+
+Article views: 1965
+
+
+[View related articles](https://www.tandfonline.com/doi/mlt/10.1080/02813430120819)
+
+
+Full Terms & Conditions of access and use can be found at
+[https://www.tandfonline.com/action/journalInformation?journalCode=ipri20](https://www.tandfonline.com/action/journalInformation?journalCode=ipri20)
+
+
+ORIGINAL PAPER
+
+# Acupressure treatment of morning sickness in pregnancy - - _A randomised double blind_,, placebo controlled study
+
+
+Arne Johan Norheim [1], Erik Jesman Pedersen [2], Vinjar Fønnebø [2] and Lillian Berge [3]
+
+
+1 Havnegata General Practice, Harstad, 2 Institute of Community Medicine, University of Tromsø, 3 Maternity Unit,
+Aker Hospital, Oslo, Norway.
+
+
+**Scand J Prim Health Care 2001;19:43–47. ISSN 0281-3432** **However, a signi�cance level of 5% was reached only in the case**
+**of duration of symptoms, which was reduced by 2.74 hours in the**
+_**Objecti**_ Ø _**e**_ **– To �nd out whether acupressure wristband can allevi-** **intervention group compared to 0.85 hours in the placebo group**
+**ate nausea and vomiting in early pregnancy.** **(p 5** **0.018).**
+_**Design**_ **– Double-blind, placebo-controlled study.** _**Conclusions**_ **– Acupressure wristband might be an alternative ther-**
+_**Subjects**_ **– 97 women with mean gestational length completed 8–12** **apy for morning sickness in early pregnancy, especially before**
+**weeks.** **pharmaceutical treatment is considered.**
+_**Main outcome measures**_ **– Symptoms were recorded according to**
+**intensity, duration and nature of complaints.** _**Key words: nausea, pregnancy, acupressure, acupuncture, alterna-**_
+_**Results**_ **– 71% of women in the intervention group reported both** **tive medicine.**
+**less intensive morning sickness and reduced duration of symptoms.**
+**The same tendency was seen in the placebo group, with 59% re-** _**Arne Johan Norheim**_ **,** _**Ha**_ Ø _**negata General Practice**_ **,** _**Ha**_ Ø _**negata 1,**_
+**porting less intensity and 63% shorter duration of symptoms.** _**NO**_ **-9479** _**Harstad**_ **,** _**Norway**_ **.**
+
+
+
+Traditional Chinese acupuncture has for years been
+presented as a useful antiemetic (1). The acupuncture
+point most often used for antiemetic action is point 6
+on the Pericardium channel according to traditional
+Chinese medicine. The point is located on the forearm, approximately 3 inches proximal to the distal
+wrist crease between the tendons of the �exor carpi
+radialis and palmaris longus muscles, about 1 cm
+deep.
+A recent review included 33 controlled trials concerning acupuncture, acupressure or electrostimulation for treatment of nausea and:or vomiting
+associated with chemotherapy, surgery or pregnancy
+(2). Acupuncture administered under anaesthesia
+seemed to have no effect, but the reviewed papers
+showed consistent results across different investigators, different groups of patients, and different forms
+of acupuncture stimulation. A majority of them
+showed effect of acupuncture on nausea and
+vomiting.
+Six of the studies in this review reported acupuncture stimulation for morning sickness (3–8). The
+methodological quality in these studies varied greatly,
+as some were non-randomised, some were not
+placebo-controlled, while most of them were based
+on small samples. All but one study favoured
+acupuncture:acupressure over control. Aikins (9) carried out a review of papers published in later years on
+the same topic, concluding that acupressure was the
+
+
+
+best studied alternative remedy that could afford
+relief to many women. However, another paper on
+acupressure for morning sickness with opposite results has recently been published (10). By improving
+previous research models, we have performed a randomised, double-blind, placebo-controlled study utilising acupressure in the treatment of nausea and
+vomiting in early pregnancy.
+
+
+MATERIAL AND METHODS
+
+_Participants_
+Flyers inviting pregnant women to enter the study
+were made available by all general practitioners and
+pharmacies in the urban area of Tromsø municipality. A response was obtained from 139 pregnant
+women. However, symptoms disappeared in 9 women
+before randomisation, and 1 became too ill to participate. Four other women were unable to travel to the
+University Hospital, another 4 did not show up for
+the agreed-upon interview, 3 miscarried before entering the study, and 2 withdrew after they had received
+more detailed information about the study design. Of
+the remaining 116 women, 19 were excluded because
+they had gone beyond 12 weeks gestational age before entry. This study thus comprises 97 pregnant
+
+women.
+
+Study selection criteria were: 1) presence of nausea
+for at least 1 week before trial entry, 2) no concomi
+
+_Scand J Prim Health Care 2001; 19_
+
+
+44 _A_ . _J_ . _Norheim et al_ .
+
+
+tant diseases causing nausea and vomiting, 3) no
+concomitant therapy for nausea at enrolment or during the trial, and 4) no abnormalities discovered at
+regular pregnancy follow-up. Gestational length was
+estimated by the Naegeles method.
+
+
+_Methodology_
+The acupressure treatment was given by the use of a
+wristband with a knob on the inside. Groups of 20
+pregnant women were block-randomised in either an
+active acupressure-wristband or a placebo wristband.
+For each 20 patients, 10 were randomised to either
+group. From the outside, the placebo-wristband
+looked identical to the acupressure-wristband. On the
+inside, the placebo-wristband had a felt patch, while
+the acupressure-wristband had a protruding button.
+The button, made of plastic, was approximately 1 cm
+in size, round in shape and protruded about 1 cm
+below the inside of the wristband. There was no way
+of adjusting the pressure of the wristband, which was
+made of elastic material. The bands used in our study
+were delivered free of charge by Sea Band UK Ltd,
+through B&T Akupressur, Oslo, Norway.
+In our pre-trial power calculations we chose a
+signi�cance level of 0.05 and a power of 0.8. We
+assumed that 30% of those wearing placebo wristbands would experience symptom alleviation and we
+wanted to be able to detect a bene�cial effect among
+60% in the acupressure group. According to these
+calculations, 100 participants should be enough to
+signi�cantly demonstrate a difference of this magnitude between use of the acupressure and placebowristbands. Owing to expected drop-outs, we invited
+139 pregnant women to participate (see previous
+section). The investigators were blinded to the choice
+of wristbands as a study assistant was hired to instruct the pregnant women. Written informed consent
+
+
+Table I. Acupressure treatment for morning sickness in pregnancy. A randomised, double-blind, placebo-controlled study
+among 97 women. Comparison of subjects in the active treatment and placebo groups.
+
+
+Active group Placebo group
+
+
+Mean age (years) 28.3 28.5
+Mean parity 1.6 1.5
+Nausea in previous preg- 87.5 87.5
+nancy(ies)%
+Mean height (cm) 166.1 166.3
+Mean pre-pregnant 63.2 63.4
+weight (kg)
+Mean hours of nausea: 9.7 8.9
+vomiting in the run-in
+period
+Mean VAS-score in run- 2.7 2.8
+in period
+
+
+_Scand J Prim Health Care 2001; 19_
+
+
+
+was obtained from all participating women. The
+study was approved by the regional Ethics
+Committee.
+
+
+_Procedure_
+
+The study was carried out from January 1995 until
+March 1996. Every pregnant woman participated for
+12 days: a 4-day run-in, a 4-day intervention, and a
+4-day follow-up period. Symptoms of nausea and
+vomiting were recorded daily during this 12-day period. Participants were asked to make three recordings of their problems every evening. The �rst
+registration was to determine what problems they had
+had that particular day: 1 ¾no problems, 2 ¾ nausea,
+
+¾
+but no vomiting, and 3 vomiting, but regardless of
+how often and how many times they vomited. The
+women were also asked to estimate how many hours
+they had suffered each day. Finally, every evening the
+women also �lled in a score of overall evaluation of
+their symptoms on a visual analogue scale (VAS). A
+self-composed non-graded VAS was used, with 0
+indicating no problems and 5 indicating the worst
+thinkable level of nausea and vomiting. The registration forms were returned by mail.
+Thirteen women who did not complete all of the
+daily registration forms during the study period were
+assigned values equivalent to the last reported value
+on the outcome variables. This was done to ensure
+
+analysis according to the intention-to-treat principle.As part of the study entry interview, the participants were asked about previous pregnancies and
+related problems (Table I).
+In the intervention period, participants used wristbands day and night on the ‘‘Neiguan’’ point of both
+arms. The women were asked to take off the wrist
+band when they took a bath, or engaged in other
+activities where the wristband could get wet.
+At the end of the 12-day period, an evaluation
+interview asked about possible problems the women
+had encountered during the trial. They were also
+asked what kind of wristband they thought they had
+used, and whether they had continued to use the
+wristband after the 12-day study period.
+
+
+_Statistics_
+
+Data from the �rst day of each period (run-in, intervention and follow-up) were not included in the
+analysis because of their transitional nature. All results were analysed with the use of Epi-Info software
+(11). Two-sample t-tests for paired data and chisquared tests were used to compare the two groups.
+
+
+RESULTS
+
+In the active treated group, 71% of the women
+reported less intensity of morning sickness while
+
+
+_Acupressure treatment of morning sickness in pregnancy_ 45
+
+
+_Fig_ . _1_ . The intensity of symptoms of morning sickness for active and placebo wristbands through the 12-day
+period as measured by visual analogue scale. The �rst day of each period, dayS 1, 5 and 9, were not included
+in the analysis because this was the day of introduction to registration or change of status (putting on
+wristbands or taking them off).
+
+
+_Fig_ . _2_ . The mean daily duration of morning sickness for active and placebo wristbands through the 12-day
+period. The �rst day of each period, days 1, 5 and 9, were not included in the analysis because this was the day
+of introduction to registration or change of status (putting on wristbands or taking them off).
+
+
+Table II. Acupressure treatment for morning sickness in pregnancy. A randomised, double-blind, placebo-controlled study among
+97 women. Difference between symptoms in the last 3 days of the run-in period and the last 3 days of the intervention period.
+
+
+Difference in symptoms Active group Placebo group Difference 95% CI of difference
+(Intervention period–Run-in period)
+
+
+Graded symptoms ¼0.50 ¼0.25 0.25 ¼0.12 to 0.62
+Hours of discomfort ¼2.74 ¼0.85 1.89 0.33 to 3.45
+
+
+_Scand J Prim Health Care 2001; 19_
+
+
+46 _A_ . _J_ . _Norheim et al_ .
+
+
+using wristbands; the corresponding �gure for women
+in the placebo group was 63%. Duration of symptoms, too, was reduced in both the active and placebo
+groups, as an improvement was reported in 71% and
+59%, respectively.
+Figs. 1 and 2 show the mean intensity and duration
+of morning sickness, respectively, for both groups
+through the 12-day period. The mean difference between the last 3 days of the run-in period and the last
+3 days of the active period is compared in Table II.
+The hours of complaint had been more reduced in the
+actively treated group than in the placebo-treated
+
+¾
+group; 2.74 hours and 0.85 hours, respectively (p
+0.018). In addition, there was a small non-signi�cant
+difference with regard to symptoms on the visual
+analogue scale.
+Based on the registration of daily symptoms, we
+further analysed the results according to a 5 degree
+grading of emetic symptoms similar to that in previous research: 1 ¾no problems (neither nausea nor
+
+¾
+vomiting), 2 slight (occasional nausea without vom
+¾
+iting), 3 moderate (daily nausea without vomiting),
+4 ¾ troublesome (periodic nausea with vomiting), and
+5 ¾ severe (daily nausea with vomiting) (3,6). An
+average improvement of 0.4–0.6 according to this 5
+degree grading of emetic symptoms was obtained
+among 43% in the active group and 41% in the
+placebo group. However, there was no signi�cant
+difference between the two groups. At the end of the
+follow-up period, 38% of those who had worn an
+active band thought they had used an acupressurewristband, and 30% that they had used a placebo
+device. In the placebo group, 7% thought they had
+used an active wristband, and 59% thought they had
+used the placebo device. Just one-third, 32% and
+33%, respectively, did not know what type of wristband they had used. There was no difference in terms
+of continuous use of the wristband after the 12-day
+study period between the two groups.
+Sixty-three percent of participants in the active
+group and 90% in the placebo group experienced
+
+¾
+problems when using the wristband (p 0.004). Pain,
+numbness, soreness and hand-swelling were those
+most often reported. No serious adverse effects were
+mentioned, but three women (two with the acupressure-wristband and one with the placebo-wristband)
+said that they felt more sick during the study period.
+
+
+DISCUSSION
+
+_Bias consideration_
+
+There are three possible sources of bias in our study:
+selection, information and performance bias. Following the annual number of births at the University
+Hospital of Tromsø, about 1500 women became
+
+
+_Scand J Prim Health Care 2001; 19_
+
+
+
+pregnant during the study period. The prevalence of
+morning sickness in early pregnancy has been estimated at 75%. In other words, more than 1000
+potentially eligible women could have suffered from
+morning sickness during the study period.
+The 97 participants in our study might thus be a
+non-random subgroup among those with such problems. Some women might consider nausea and vomiting as a normal part of pregnancy and therefore did
+not give much attention to our study. Perhaps those
+who volunteered also ‘‘believed in’’ alternative meth
+ods, and therefore do not represent the true ‘‘nausea
+population’’. The women who entered the study
+might also be those who suffered most from morning
+sickness.
+
+Even if the general prevalence of morning sickness
+among pregnant women is less then 0.75%, our study
+group would still be a selected subgroup. We hold
+that this selection limits only the generalizability of
+our results. Perhaps our selected women were the
+‘‘worst’’ non-hospitalised cases, and therefore the results would only apply to this group.
+Filling in forms is another possible source of bias.
+The recording could be an invalid estimate of the real
+experience of the women. If the participants were
+truly blinded as to their treatment allocation, any loss
+of validity in the data collected would dilute the
+results, not change the main �ndings.
+There is always a chance of performance bias in
+intervention studies, especially when using therapy
+administered by the patient herself. The instructor,
+however, trained the patient carefully in placing the
+wristband, with both groups being given the same
+information and instruction. No patient recognised
+the type of wristband they were given by the instructor, but participants in the control group guessed
+better what type of band they had used. This could
+have been either because they were simply better able
+to detect their type of band or due to the lack of any
+effect from it. There was no contact between participants in the study as long as it proceeded.
+In previous studies, objections have been raised
+about what should be considered as a true placebo.
+Our placebo can be considered as the most equal
+technique following the choice of study design. Further, there has been a request for cross-over design
+for these kinds of study. We claim that a cross-over
+design would have biased the study more seriously, as
+participating women could more readily have distinguished active from placebo treatment. We believe
+that our methodology leaves little chance of performance bias. Further, a natural decrease in symptoms
+with increase in gestational age might have diluted
+the effect if a cross-over design had been chosen.
+
+
+_Effect of acupressure_
+We �nd it interesting that stimulating a certain point
+on the forearm might reduce complaints from morning sickness. One could of course be sceptical to
+acupuncture and acupressure and claim that _any_
+physical stimulation of the body would give the same
+result. However, our study was performed with the
+idea that stimulation of certain points according to
+traditional Chinese medicine is more effective that
+
+stimulating random points or areas of the body.
+We were unable to demonstrate the same degree of
+symptom reduction by acupressure stimulation at
+Pericardium 6, as in most previous studies (2). Thus,
+the intensity of nausea measured by VAS was reduced in both groups. However, the proportion of
+participants who experienced fewer symptoms was
+larger in the acupressure-wristband group, and the
+reduction was more pronounced.
+The results were not statistically signi�cant at the
+5% level. Compared with Dundee (3) and De Aloysio
+(6) in the 5 degree grading of emetic symptoms, our
+study did not fully support their �ndings. Our randomised, double-blind, placebo-controlled research
+model differs from previous studies on acupressure
+for morning sickness. Our methodology therefore
+possibly leaves less chance of bias. A lack of suf�cient
+blinding and other problems in previous research
+have been discussed in detail by O’Brian et al. (10).
+Our study, on the other hand, showed that acupressure might be effective in shortening the hours of
+discomfort from morning sickness in early pregnancy.
+Although there was a statistically signi�cant reduction of duration of symptoms, the clinical relevance
+might be discussed. One could say that reducing
+sickness and discomfort from 9.7 hours to 7 hours
+
+per day still leaves the patient with considerable
+incapacity. However, every pregnant woman who
+suffered fewer hours of emesis welcomed any small
+improvement.
+
+
+_Conclusion_
+
+Our study could not support previous claims of a
+substantial effect of acupressure on morning sickness.
+The bene�cial response in the placebo group shows
+that any intervention against morning sickness may
+
+
+
+_Acupressure treatment of morning sickness in pregnancy_ 47
+
+
+be effective. However, the hours of discomfort
+seemed to be reduced by wearing the acupressure
+wristband, which might therefore be recommended
+for morning sickness in early pregnancy, especially
+before pharmaceutical prescriptions are considered.
+
+
+ACKNOWLEDGEMENTS
+
+We thank all participating women in our study and
+the doctors who referred the women to it. We also
+
+thank Sea Band UK Ltd, through B&T Akupressur,
+Oslo, Norway, for providing the wristbands. The
+study was �nanced by a research grant from the
+Norwegian Research Council.
+
+
+REFERENCES
+
+1. Dundee JW, Chestnutt WN, Ghaly RG, Lynas AG. Traditional Chinese acupuncture: a potentially useful antiemetic?
+BMJ 1986;293:583 –4.
+2. Vickers A. Can acupuncture have speci�c effects on health?
+A systematic review of acupuncture antiemesis trials. J R
+Soc Med 1996;89:303 –11.
+3. Dundee JW, Sourial FBR, Ghaly RG, Bell PF. P6 acupressure reduces morning sickness. J R Soc Med 1988;81:456 –
+7.
+4. Hyde E. Acupressure for morning sickness – a controlled
+clinical trial. J Nurse Midwifery 1989;34:171 –8.
+5. Evans AT, Samuels SN, Marshall C, Bertolucci LE. Suppression of pregnancy-induced nausea and vomiting with
+sensory afferent stimulation. J Reprod Med 1993;38:603 –
+6.
+6. De Aloysio D, Penacchioni P. Morning sickness control in
+early pregnancy by Neiguan point acupressure. Obstet Gynecol 1992;80:852 –4.
+7. Bayreuther J, Lewith GT, Pickering R. A double-blind
+cross-over study to evaluate the effectiveness of acupressure at Pericardium 6 (P6) in the treatment of early morning sickness (EMS). Complement Ther Med 1994;2:70 –6.
+8. Belluomi J, Litt RC, Lee KA, Katz M. Acupressure for
+nausea and vomiting in pregnancy: a randomized, blinded
+study. Obstet Gynecol 1994;84:245 –8.
+9. Aikins Murphy P. Alternative therapies for nausea and
+vomiting in pregnancy. Obstet Gynecol 1998;91:149 –55.
+10. O’Brian B, Joyce Relyea M, Taerum T. Ef�cacy of P6
+acupressure in the treatment of nausea and vomiting during pregnancy. Am J Obstet Gynecol 1996;174:708 –15.
+11. Dean AG, Dean JA, Burton AH, Dicker RC. Epi Info,
+Version 5: a word processing, database, and statistics program for epidemiology on microcomputers. Stone Mountain, Georgia: USD Inc, 1990.
+
+
+_Scand J Prim Health Care 2001; 19_
+
+

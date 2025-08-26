@@ -1,0 +1,348 @@
+**LifeWave Strength Test**
+
+
+By Joseph A. Goodson MS, ATC, David Schmidt
+
+
+**Abstract**
+
+The LifeWave technology has been reported to be a new supplement and method for the improvement of athletic
+performance, and more particularly a means by which an individual may increase their net stamina/strength
+endurance output. To evaluate whether or not these claims were factual a double-blind placebo controlled study was
+implemented at Morehouse College in Atlanta, GA, with 44 college athletes from the schools football team
+volunteering to participate in this study. In most evaluations of strength endurance involving competitive athletes it
+is common and customary to perform both baseline and comparative tests prior to the athlete having performed any
+other type of physical activity. In this study it was decided by the principal investigators that if the LifeWave
+technology was valid then there should be a measured improvement in strength endurance after the athlete has been
+fatigued. To this end, the study was conducted so that both baseline and comparative data were collected after the
+athletes had been fatigued by a 60 minute heavy weight training workout. In addition, it was also decided to test the
+athletes while under heavy physical trauma; the athletes performed the workout and tests starting at 4:30am in a
+weight training room where the temperature was maintained in excess of 95F. The standardized exercise that was
+chosen for this test was a 185lb or 225lb Bench Press.
+
+**Metabolism and ATP production**
+
+It is well known that in humans in order for locomotion to occur ATP must be available to the muscle as well as all
+
+other cells. The biochemistry of metabolism is centered in the synthesis of carbohydrates, fats, proteins and nucleic
+acids. For the purpose of this discussion we shall concern ourselves primarily with the metabolism, utilization and
+transport of fats as they pertain to the production of ATP.
+
+In carbohydrate metabolism that involves the glycolysis of glucose molecules to pyruvic acid for the purpose of
+feeding the Krebs Cycle with high energy molecules, a process called chemiosmosis is used to pump protons across
+a membrane and provide the energy for ATP synthesis. The electron carrying coenzyme molecules from the Krebs
+Cycle enter the chemiosmosis process, the electrons are lost from the coenzymes, the energy is used to pump
+protons across the mitochondrial membrane, and as the protons flow to the outer compartment of the mitochondrion
+the energy from the electron flow is used to synthesize ATP molecules.
+
+In contrast, in the metabolism of fats – precipitated by these molecules being first broken down into fatty acids and
+glycerol molecules during digestion – the glycerol is converted within the cell to DHAP, an intermediary compound.
+This is important in that the DHAP may continue along a metabolic pathway to pyruvic acid, or the DHAP may
+reverse and follow another pathway towards becoming glucose.
+
+Of concern in this discussion is the use of fatty acids as a metabolic reactant in the mitochondria of the cell. In a
+process known as beta-oxidation (the fatty acid spiral) the fatty acids are converted into 2-carbon units of acetylCoA. A single fatty acid molecule containing 16 carbon atoms will yield 8 molecules of acetyl-CoA. As each
+acetyl-CoA molecule enters the Krebs cycle it is metabolized to release its energy. The ultimate formation of ATP
+after beta-oxidation and the Krebs Cycle is the same as described above. The difference in the sources of energy –
+carbohydrates or fats – is in that the energy yield from a 16-carbon fatty acid molecule is considerable. With respect
+to an athlete, it would be highly desirable to be able to utilize fatty acids as an energy source in ATP production in
+that this could potentially have a desirable effect on stamina and/or strength endurance.
+
+
+**LifeWave principal of operation**
+
+The LifeWave technology is a passive non-invasive device composed of water, Oxygen and organic compounds that
+is worn by the user much in the same fashion as a band aid. This product is not a transdermal patch and it has been
+demonstrated by the manufacturer that none of the patch active materials diffuses into or comes in contact with the
+
+user.
+
+The obvious question that arises is how is it possible for such a device to function other than a placebo effect? It is
+postulated by the manufacturer that the LifeWave patch passively modulates the oscillating low energy magnetic
+field that exists just above the surface of the human epidermal layer. This passive frequency modulation creates a
+condition in which the transport of long chain fatty acids across the mitochondrial membrane for subsequent betaoxidation and energy production is triggered or improved, thereby providing the user with increased energy via an
+increase in ATP production as described above.
+
+To understand how this phenomenon could be possible, let us re-examine the metabolic process involving fatty acid
+energy sources within the human body. Fatty acids, a hydrocarbon in which one of the hydrogen atoms has been
+replaced by a carboxyl group, are also described as a monobasic aliphatic acid made up of an alkyl radical attached
+to a carboxyl group. The metabolic role of fatty acids may be described in part in that fatty acids are one of the
+primary sources of energy for humans, and through Beta-Oxidation, are broken down into basic units of energy. Of
+interest here is that in order for this process to work, fatty acids need to enter the mitochondria for Beta-Oxidation,
+and they are unable to penetrate the inner mitochondrial membrane by themselves.
+
+In addition to lipid metabolism, the mitochondria is involved with protein synthesis, and by using either phasecontrast microscopy or electron microscopy, the mitochondrial filaments or rods are seen to be 0.5 micrometers in
+diameter. This information is significant in that it is reported by the manufacturer that in the LifeWave technology,
+materials and structures must be selected based upon the resonant and sympathetic frequencies of the mitochondria
+during lipid metabolism. In the human body, to overcome the problem of the inability of fatty acids to transport
+from the cytosol (soluble portion of the cell) across the mitochondrial membrane, it has been determined by several
+researchers that various nutrients are essential to transport long chain fatty acids from the cytosol across the
+mitochondrial membrane for fatty acid oxidation/metabolism and energy production.
+
+To obtain the desirable effect of improving cell metabolism passively (specifically, increasing the rate of fatty acid
+Beta-Oxidation by allowing fatty acids to transport across the mitochondrial membrane) the manufacturer
+constructed a device consisting of orthomolecular organic structures designed to passively interact with the human
+magnetic field for the purpose of creating a system of frequency modulation, much in the same way that radio waves
+are modulated to communicate audio information.
+
+**Context:**
+
+At the time prior to the beginning of this study the relationship between the LifeWave technology and a potential
+increase in stamina or strength endurance by quantifying such performance via a flat bench press exercise repetition
+was unclear.
+
+**Objective:**
+
+To quantitatively assess the effectiveness of the LifeWave technology in improving the bench press performance of
+fatigued college football athletes during team training.
+
+**Methods:**
+
+Using a double blind randomized placebo controlled study, a total of 44 subjects, ages 18 to 30 years, volunteered to
+participate for this test study. Subjects’ baseline bench press data was colleted after a normal prescribed off-season
+football upper body 60 minute workout session. Subjects were asked to bench press a fixed weight until failure. In
+the next session, subjects were randomized into three groups using a numbering system that labeled participants as
+experiment group, placebo group or control group members with 44 completing this two session study. The
+
+
+experiment groups were provided with dermal patches that were either placebo water formula or LifeWave
+technology formula. A collection team independent of the players collected and monitored data throughout the
+study process.
+
+**Main Outcome Measures:**
+
+The LifeWave technology is a non-invasive patch that demonstrated the ability to improve strength endurance in the
+majority of athletes that utilized it during a strenuous weight lifting activity.
+
+**Results:**
+
+Raw data collected from the two day study was as follows; all numbers listed are repetitions performed:
+
+|CONTROL GROUP|Col2|Col3|PLACEBO GROUP|Col5|Col6|EXPERIMENT GROUP|Col8|Col9|
+|---|---|---|---|---|---|---|---|---|
+|Baseline|Comparative|% Change|Baseline|Comparative|% Change|Baseline|Comparative|% Change|
+|6|4|-33|8|8|0|12|10|-17|
+|10|12|20|7|8|14|1|3|200|
+|9|11|22|5|6|20|6|12|100|
+|5|5|0|4|3|-25|4|6|50|
+|12|12|0|6|3|-50|2|3|50|
+|10|10|0|15|18|20|5|3|-40|
+|10|9|-10|12|10|-17|9|9|0|
+|2|3|50|11|13|18|11|15|36|
+|3|0|-100|12|12|0|3|4|33|
+|4|4|0|7|10|43|18|16|-11|
+|10|12|20|16|21|31|15|16|7|
+|5|4|-20|20|23|15|6|9|50|
+|10|9|-10|9|7|-22|16|16|0|
+|5|5|0||||4|5|25|
+|15|15|0||||8|10|25|
+|10|11|10|||||||
+
+
+
+From the raw data collected in the above table it was determined that (1) The average percentage change in strength
+endurance in the Control group was a decrease in performance of 3.1% from the baseline tests to the comparative
+tests; (2) The average percentage change in strength endurance in the Placebo group was an increase in performance
+of 3.6% from the baseline tests to the comparative tests; (3) The average percentage change in strength endurance in
+the Experiment group was an increase in performance of 33.9% from the baseline tests to the comparative tests.
+
+
+**Average Change In Strength Endurance**
+
+
+40
+
+
+35
+
+
+30
+
+
+25
+
+
+
+20
+
+
+15
+
+
+10
+
+
+5
+
+
+0
+
+
+-5
+
+
+
+1
+
+
+2
+
+
+3
+
+
+
+
+|Col1|Col2|Col3|Col4|Col5|
+|---|---|---|---|---|
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+|1|1|2<br>3|2<br>3|2<br>3|
+
+
+In addition, the data shows the following:
+
+|CONTROL GROUP|Col2|Col3|PLACEBO GROUP|Col5|Col6|EXPERIMENT GROUP|Col8|Col9|
+|---|---|---|---|---|---|---|---|---|
+|Decrease|Same|Increase|Decrease|Same|Increase|Decrease|Same|Increase|
+|5|6|5|4|2|7|3|2|10|
+
+
+
+100%
+
+
+90%
+
+
+80%
+
+
+70%
+
+
+Increase
+
+
+
+50%
+
+
+40%
+
+
+30%
+
+
+20%
+
+
+10%
+
+
+0%
+
+
+
+Decrease
+
+
+
+1 2 3
+
+
+The above table gives us the breakdown of athletes in each group as it pertains to showing whether or not an athlete
+showed a decrease in performance from baseline to comparative test, remained the same in performance from
+baseline to comparative test, or showed an increase in performance from baseline to comparative test.
+
+In the Control group we see that 31.25% of the participants showed a decrease in performance during the two day
+study, 37.5% of the participants maintained the same level of performance during the two day study, and 31.25% of
+the participants showed an increase in performance during the two day study. In the Placebo group we see that
+30.8% of the participants showed a decrease in performance during the two day study, 15.4% of the participants
+maintained the same level of performance during the two day study, and 53.8% of the participants showed an
+increase in performance during the two day study. In the Experiment group we see that 20% of the participants
+showed a decrease in performance during the two day study, 13.33% of the participants maintained the same level of
+performance during the two day study, and 66.67% of the participants showed an increase in performance during the
+two day study.
+
+If we remove the data for the individuals who both decreased in performance and maintained the same level of
+performance we find that (1) in the Control group, with respect to the 5 individuals who did show an improvement
+in performance from the baseline to the comparative test the average increase in strength endurance was 24.4%; (2)
+in the Placebo group, with respect to the 7 individuals who did show an improvement in performance from the
+baseline to the comparative test the average increase in strength endurance was 23%; (3) in the Experiment group,
+with respect to the 10 individuals who did show an improvement in performance from the baseline to the
+comparative test the average increase in strength endurance was 57.6%.
+
+If we remove the data for the individuals who both increased in performance and maintained the same level of
+performance we find that (1) in the Control group, with respect to the 5 individuals who decreased in performance
+from the baseline to the comparative test the average decrease in strength endurance was 34.6%; (2) in the Placebo
+group, with respect to the 4 individuals who decreased in performance from the baseline to the comparative test the
+average decrease in strength endurance was 28.5%; (3) in the Experiment group, with respect to the 3 individuals
+who decreased in performance from the baseline to the comparative test the average decrease in strength endurance
+was 22.67%.
+
+
+**Discussion:**
+
+Based on the data collected it is evident that there are several distinct differences in athletic performancebetween the
+three test groups. With respect to the simple averaging of performance numbers, it is not unusual that the Control
+group experienced a decrease in strength endurance given the nature of the test (Baseline data collected on a
+Monday and Comparative data collected on a Thursday; data collected after athletes were fatigued). With respect to
+the Placebo group, a case could be made that there was indeed a “Placebo Effect” that took place; athletes that wore
+the patch product thought that they had the real technology so hence they made more of an effort to perform. Given
+the data of the average group performance improvement of 3.6% this would be a reasonable spread in terms of
+attainable improvements from the baseline day to the comparative day. With respect to the Experiment group, a
+case could be made that there was indeed a legitimate effect of the LifeWave technology on athletic performance;
+athletes that wore the patch product experienced an average improvement of 33.9% in strength performance. The
+spreads in average performance numbers between the three groups is significant and would tend to indicate that the
+LifeWave technology played an important role in improving strength endurance in the experiment group.
+
+Another indicator that the LifeWave technology was having a legitimate effect on athletic stamina is evidenced in
+the chart on page 4. As could be expected, in the Control group we see that there is an almost even distribution
+between athletes that decreased in performance, athletes that remained the same in performance and athletes that
+improved in performance. In the Placebo group we see that 7 individuals improved in performance as compared to
+5 in the Control group, however given the low average improvement in members and the well known “Placebo
+effect” this spread is anticipated. In the Experiment group we find that only 3 members decreased in performance
+with 10 members improving in strength endurance. Given that the Experiment group had the highest percentage of
+members who recorded an improvement in performance, with two thirds of the members demonstrating an
+improvement, and that the average improvement was significantly higher than the other two groups (33.9%) this
+would again indicate that the LifeWave technology was having a beneficial effect on athletic performance.
+
+Another potentially important indicator with respect to examaning whether or not the LifeWave technology was
+having a beneficial effect on athletic performance is found when looking at only those individuals who increased in
+performance or only those individuals who decreased in performance. In the Control group we find that of those
+individuals who did show an improvement the average gain was 24.4%; of those in the Control group who decreased
+in performance we find that the average decline in performance to be 34.6%. In the Placebo group we find that of
+those individuals who did show an improvement the average gain was similar to the Control group at 23%; of those
+in the Placebo group who decreased in performance we find the average decline in performance was 28.5%. In the
+Experiment group we find that of those individuals who did show an improvement the average gain was more than
+double of the other two groups at 57.6%; of the three individuals who showed a decrease in performance the average
+decline in performance was the lowest of the three groups at 22.67%. This information would tend to indicate that
+the LifeWave technology was having a beneficial effect on strength endurance.
+
+**Conclusion:**
+
+Based on the data collected and the results obtained it was demonstrated that the LifeWave technology is a method
+for the improvement of athletic performance, and more particularly a means by which an individual may increase
+their net stamina/strength endurance output. The model utilized to evaluate the technology was a double-blind
+placebo controlled study, with 44 college athletes from the Morehouse College football team volunteering to
+participate in this study. In most evaluations of strength endurance involving competitive athletes it is common and
+customary to perform both baseline and comparative tests prior to the athlete having performed any other type of
+physical activity. In this study it was decided by the principal investigators to collect data after the athletes had been
+fatigued. An additional study would prove to be of interest as a comparison to this test study to determine what
+effect the LifeWave technology has on athletes that had not been previously fatigued.
+
+Given the individuals tested and the scientific model used it was demonstrated that the Experiment group using the
+LifeWave technology showed the highest percentage of improvement in strength endurance when averaging all
+members, the highest percentage of improvement in strength endurance when averaging only those members who
+
+
+showed an improvement, and the lowest percentage of decreased performance when averaging only those
+individuals who showed a decline in performance.
+
+
