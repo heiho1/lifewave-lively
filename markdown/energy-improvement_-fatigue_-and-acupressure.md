@@ -76,9 +76,9 @@ significant differences between the acupressure group and the control group (p=0
 and between the sham group and control group (p=0.003). Predialysis fatigue was
 assessed routinely by using a rating of 0-10. Repeated-measures ANOVA results
 demonstrate the group main effect was significant in the perceived fatigue
-(F(2,88)=19.46, p<0.001). Follow-up tests indicated there were significant differences
-between the acupressure group and the control group (p<0.001) and between the sham
-group and control group (p<0.001).The study provided an alternative method for health
+(F(2,88)=19.46, ``p < 0.001``). Follow-up tests indicated there were significant differences
+between the acupressure group and the control group (``p < 0.001``) and between the sham
+group and control group (``p < 0.001``).The study provided an alternative method for health
 care providers to managing ESRD patients with fatigue.
 
 

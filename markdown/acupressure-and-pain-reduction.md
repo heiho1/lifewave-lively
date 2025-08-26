@@ -234,7 +234,7 @@ Acupressure conferred an 89% (95% confidence interval 61% to
 97%) reduction in significant disability compared with physical
 therapy after adjustment for degree of disability at baseline. The
 mean difference in total score between the two groups after
-treatment remained statistically significant (P < 0.05) after
+treatment remained statistically significant (`P < 0.05`) after
 adjustment for pretreatment score or disability together with
 other baseline characteristics shown in table 1.
 Given the difference in rate of significant disability (table 2),
@@ -321,7 +321,7 @@ Median (range) length of latest pain period 14.5 (0.02-360) 12 (0.25-432)
 
 
 were lower in the acupressure group than in the physical therapy
-group. The differences between the two groups remained statistically significant (P < 0.05) after adjustment for pretreatment
+group. The differences between the two groups remained statistically significant (`P < 0.05`) after adjustment for pretreatment
 score and other baseline characteristics. In terms of mean
 change from baseline, the benefit was also greater in the
 acupressure group for all variables (comparison 2 in table 3).
@@ -338,7 +338,7 @@ baseline ( − 6.81, − 9.49 to − 4.12) (table 4). As regards disability
 classified by five grades, the odds ratio of increasing one grade of
 disability was 0.22 (95% confidence interval 0.11 to 0.48;
 P = 0.0001) for the acupressure group. The differences between
-the two groups remained significant (P < 0.05) after adjustment
+the two groups remained significant (`P < 0.05`) after adjustment
 for pretreatment score or disability in conjunction with other
 baseline characteristics.
 
@@ -383,11 +383,11 @@ pretreatment, post-treatment, and at six month follow-up
 compared with physical therapy, analysed by multiple logistic regression.
 
 - Difference (95% confidence interval) in mean change in score from baseline.
-*P<0.05.
+*``P < 0.05``.
 
-**P<0.01.
+**``P < 0.01``.
 
-***P<0.0001.
+***``P < 0.0001``.
 
 
 Given the difference in rate of significant disability between
@@ -512,11 +512,11 @@ back pain (0.85) (−0.69 to −0.24) (−0.84 to −0.26) (0.84) (−0.82 to �
 - Absolute difference (95% confidence interval) between groups by analysis of covariance.
 
 - Difference (95% confidence interval) in mean change in core outcome measures from baseline.
-*P<0.05.
+*``P < 0.05``.
 
-**P<0.01.
+**``P < 0.01``.
 
-***P<0.0001.
+***``P < 0.0001``.
 
 
 
@@ -662,9 +662,9 @@ Bed bound (≥44) 0 0
 - Difference (95% confidence interval) in mean change in core outcome measures from
 baseline.
 
-**P<0.01.
+**``P < 0.01``.
 
-***P<0.0001.
+***``P < 0.0001``.
 
 
 

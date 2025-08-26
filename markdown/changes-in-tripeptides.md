@@ -25,8 +25,8 @@ statistical analysis using a Wilcoxon signed rank test. All reported p-values ar
 
 
 
-The blood analysis of GHK showed an increase at levels at p< 0.0098 within 24 hours and GHK-Cu
-also showed an increase at p<0.01 at 7 days.
+The blood analysis of GHK showed an increase at levels at `p < 0.0098` within 24 hours and GHK-Cu
+also showed an increase at ``p < 0.01`` at 7 days.
 
 **Discussion**
 
@@ -48,8 +48,8 @@ repeated trials and statistically significant changes when compared with a contr
 
 This pilot study explored the changes in amounts of GHK and GHK-Cu present in the blood as a result
 of wearing the LifeWave X39 patch for 1 week. There was a significant increase in GHK in the
-blood,seen at 24 hours, at the level of p<0.0098. A significant increase in GHK-Cu in the blood was
-also seen at 7 days, at the level of p<0.0137.
+blood,seen at 24 hours, at the level of ``p < 0.0098``. A significant increase in GHK-Cu in the blood was
+also seen at 7 days, at the level of ``p < 0.0137``.
 
 **References**
 

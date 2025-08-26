@@ -312,10 +312,10 @@ Table 1: Absolute changes from R1 (baseline) to R2 and R3
 
 
 
-The blood analysis of GHK showed an increase at levels at a value of p< 0.0098 within
+The blood analysis of GHK showed an increase at levels at a value of `p < 0.0098` within
 
 
-24 hours and GHK-CU also showed an increase at p<0.01 within 7 days.
+24 hours and GHK-CU also showed an increase at ``p < 0.01`` within 7 days.
 
 
 **Discussion**
@@ -343,13 +343,13 @@ This study explored the changes in amounts of GHK and GHK-CU present in the
 blood as a result of wearing the Lifewave X39 patch for 1 week. There was a significant
 
 
-increase in GHK in the blood which was seen at 24 hours, at the level of p<0.0098. A
+increase in GHK in the blood which was seen at 24 hours, at the level of ``p < 0.0098``. A
 
 
 significant increase in GHK-CU in the blood was also seen at 7 days at the level of
 
 
-p<0.0137.
+``p < 0.0137``.
 
 
 **References**

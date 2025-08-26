@@ -29,8 +29,7 @@ days. The control groups did not undergo auricular pellet acupressure. DESIGN AN
 OUTCOME MEASURES: At the end of the 20-day period of treatment of the
 experimental group, blood was collected from all of the study participants for assay of
 serum superoxide dismutase (SOD) and catalase concentrations, as was also done for
-the control group. RESULTS: Serum concentrations of SOD (p < 0.05) and catalase (p
-< 0.0001) were significantly higher in the experimental group than in the control group.
+the control group. RESULTS: Serum concentrations of SOD (`p < 0.05`) and catalase (`p < 0.0001`) were significantly higher in the experimental group than in the control group.
 CONCLUSIONS: Our findings suggest that auricular pellet acupressure can increase the
 concentration of antioxidative enzymes in persons with high-risk DM.
 
@@ -109,12 +108,12 @@ sedation score. METHODS: Twenty-five healthy volunteers (mean age +/- SD: 25.5 +
 were investigated during the awake state. The acupuncture point Yintang and a placebo control
 point were stimulated. The study was performed as a randomized, controlled and partly blinded
 cross-over trial. RESULTS: Bispectral index and spectral edge frequency values both decreased
-significantly (P < 0.001) during acupressure on Yintang to values of 62.9 (minimum 35) +/- 13.9
+significantly (`P < 0.001`) during acupressure on Yintang to values of 62.9 (minimum 35) +/- 13.9
 bispectral index and to 13.3 (minimum 2.9) +/- 8.1 Hz (spectral edge frequency right) and 13.8
 (minimum 2.7) +/- 7.3 Hz (spectral edge frequency left), respectively. Bispectral index was also
-significantly (P < 0.05) affected by Laserneedle acupuncture and acupressure on the control point
+significantly (`P < 0.05`) affected by Laserneedle acupuncture and acupressure on the control point
 but the changes were not clinically relevant, 95.4 +/- 4 and 94.2 +/- 4.8, respectively. All
-interventions significantly (Yintang: P < 0.001; control point: P < 0.012) reduced verbal sedation
+interventions significantly (Yintang: `P < 0.001`; control point: `P < 0.012`) reduced verbal sedation
 score. CONCLUSIONS: The study highlights the electroencephalographic similarities of
 **acupressure induced sedation** and general anaesthesia as assessed by bispectral index and
 spectral edge frequency.
@@ -140,11 +139,9 @@ or Extra 1 group. The control group received acupressure at a sham point and the
 received acupressure at the Extra 1 point. Acupressure was applied for 5 min. The record of the
 EEG spectral entropy values and HRV started 5 min before acupressure and stopped 5 min after
 acupressure. Acupressure significantly reduced the EEG spectral entropy values in both groups,
-but the values of the Extra 1 group were significantly smaller than those of the control group (P <
-0.01). Acupressure significantly decreased the LF/HF ratio of HRV in both groups (P < 0.05).
+but the values of the Extra 1 group were significantly smaller than those of the control group (`P < 0.01`). Acupressure significantly decreased the LF/HF ratio of HRV in both groups (`P < 0.05`).
 When divided upon gender, although acupressure tended to decrease the LF/HF ratio, the ratio
-significantly decreased during and after acupressure only in females of the Extra 1 group (P <
-0.05). We concluded that acupressure on the Extra 1 point significantly reduced the EEG spectral
+significantly decreased during and after acupressure only in females of the Extra 1 group (`P < 0.05`). We concluded that acupressure on the Extra 1 point significantly reduced the EEG spectral
 entropy in both the genders, but affected the LF/HF ratio of HRV only in females.
 
 
@@ -204,7 +201,7 @@ acupressure groups were taught to massage/press the points and did so daily ther
 weeks on their own. Patients completed the Multidimensional Fatigue Inventory before
 randomisation, at the end of the 2-week intervention and again about 2 weeks after the end of the
 intervention. RESULTS: Significant improvements were found with regards to General fatigue
-(P<0.001), Physical fatigue (P=0.016), Activity (p=0.004) and Motivation (P=0.024). At the end
+(``P < 0.001``), Physical fatigue (P=0.016), Activity (p=0.004) and Motivation (P=0.024). At the end
 of the intervention, there was a 36% improvement in fatigue levels in the acupuncture group,
 while the acupressure group improved by 19% and the sham acupressure by 0.6%.
 Improvements were observed even 2 weeks after treatments, although they were lower (22%,
@@ -233,7 +230,7 @@ experimental spinal cord injury (SCI). Results indicated that within 24 hours af
 malondialdehyde (MDA) increased progressively, 2 hours after SCI it reached the peak; and the
 superoxide dismutase (SOD) activity decreased significantly at the same hours, the decrease
 being the most marked 2-6 hours after SCI. The MDA content in the acupuncture group was
-significantly lower (P < 0.05) and the SOD activity higher (P < 0.01) than that of the control
+significantly lower (`P < 0.05`) and the SOD activity higher (`P < 0.01`) than that of the control
 group respectively. It is suggested that **acupuncture** inhibits production of MDA and **increases**
 **the SOD activity.**
 
@@ -257,12 +254,12 @@ The scalp acupuncture group were treated first with scalp acupuncture for 20 min
 general anesthesia, with scalp acupuncture lasted till the end of operation. The general anesthesia
 group were treated only with simple intratracheal anesthesia. Effects of scalp acupuncture on
 malondialdehyde (MDA) level and superoxide dismutase (SOD) activity at the operation stage
-were observed. RESULTS: After operation, MDA levels decreased significantly (P < 0.05) in the
+were observed. RESULTS: After operation, MDA levels decreased significantly (`P < 0.05`) in the
 two groups, but with no difference between the two groups in the different values of MDA
 before and after treatment (P > 0.05); there was no significant change in SOD before and after
 treatment in the scalp acupuncture group, and significantly decreased in the general anesthesia
-group (P < 0.05). There was a significant difference between the two groups in the different
-value of SOD before and after the operation (P < 0.05). CONCLUSION: **Scalp acupuncture**
+group (`P < 0.05`). There was a significant difference between the two groups in the different
+value of SOD before and after the operation (`P < 0.05`). CONCLUSION: **Scalp acupuncture**
 **can inhibit the decrease of SOD activity, reducing oxidative stress reaction at operation**
 **stage.**
 
@@ -285,9 +282,9 @@ point-through-point electroacupuncture and oral administration of madopa, and a 
 (n=39) with only oral administration of madopa. Superoxide dismutase (SOD) and lipids
 peroxides (LPO) were determined before and after treatment. RESULTS: The effective rate was
 97.3% in the treatment group and 61.5% in the control group with a very significant difference
-between the two groups (P < 0.01). SOD activity and LPO content were significantly improved
-after treatment in the treatment group (P < 0.01), with a significant difference between the two
-groups (P < 0.01). CONCLUSION: **Head point-through-point electroacupuncture can**
+between the two groups (`P < 0.01`). SOD activity and LPO content were significantly improved
+after treatment in the treatment group (`P < 0.01`), with a significant difference between the two
+groups (`P < 0.01`). CONCLUSION: **Head point-through-point electroacupuncture can**
 **improve SOD activity and LPO content in the body.**
 
 

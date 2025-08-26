@@ -49,8 +49,8 @@ _neurotransmitters testing of urine._
 _day 2, and day 7 except Marlow-Crowne taken day 1 and day 7._
 
 
-**Results:** _Improvements in short term memory p<0.001, sleep quality p<0.04, vitality p<0.03 day 2 and_
-_p<0.08 at day 7. Blood pressure change in VLF on day 7 at p<0.02, respiration on day 7 at p<0.04._
+**Results:** _Improvements in short term memory ``p < 0.001``, sleep quality ``p < 0.04``, vitality ``p < 0.03`` day 2 and_
+_p<0.08 at day 7. Blood pressure change in VLF on day 7 at ``p < 0.02``, respiration on day 7 at ``p < 0.04``._
 _Increase in amino acids: Creatinine, Normetanephrine, methionine, homocystine, isoleucine, glutamine,_
 _cysteine, 5-hydroxytrytophane, β-aminobutyric-acid._
 
@@ -400,7 +400,7 @@ looking at means and standard deviation. Pre post changes were evaluated using a
 
 using normal probability plots. The values for p
 are two-sided and statistical significance was
-defined as p<0.05. The metabolic analysis
+defined as ``p < 0.05``. The metabolic analysis
 included stratification by assessment point and
 summary means and standard deviation.
 Analysis was done including changes from
@@ -649,16 +649,16 @@ _(2) and day 7 (7)_
 
 
 
-Physiological measures showed significant normalization in blood pressure in VLF p<0.02 and near
-significance in LF p<0.09 and power p<0.06. Average respiration became deeper by day 7 at p<0.04
-and neck and shoulder muscles showed improved relaxation effects by day 7 at p<0.08.
+Physiological measures showed significant normalization in blood pressure in VLF ``p < 0.02`` and near
+significance in LF ``p < 0.09`` and power ``p < 0.06``. Average respiration became deeper by day 7 at ``p < 0.04``
+and neck and shoulder muscles showed improved relaxation effects by day 7 at ``p < 0.08``.
 
 
 **Table8:** _Summary of significant and near significance physiological parameters, stratified by time (day) and_
 _group._ _Since the physiology parameters were non-normally distributed, all parameters were summarized in_
 _terms of medians and interquartile ranges (IQR). Changes from run 1 (baseline) to run 3 were evaluated using a_
 _nonparametric Wilcoxon signed rank test. Comparisons between groups were conducted using a nonparametric_
-_Wilcoxon rank sum test. All reported p-values are two-sided and P<0.05 was used to define statistical_
+_Wilcoxon rank sum test. All reported p-values are two-sided and ``P < 0.05`` was used to define statistical_
 _significance._
 
 |Col1|Col2|Col3|Control group|Active group|Col6|
@@ -686,7 +686,7 @@ The first was the change in the level of
 significance in memory improvement. While the
 pilot study showed a near significant
 improvement in short-term memory, the double
-blind showed very clear significance, p<0.001,
+blind showed very clear significance, ``p < 0.001``,
 
 **C**
 

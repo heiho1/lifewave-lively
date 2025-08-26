@@ -191,13 +191,13 @@ biofield from using the LifeWave, Inc. X-39 patches in Bio-Well (EPI\GDV) and
 Biofield Viewer (BV). The statistical analysis revealed a highly significant
 
 
-improvement (p<0.0001) in overall energy of the person and significant
+improvement (``p < 0.0001``) in overall energy of the person and significant
 
 
-improvement(p<0.05) in the symmetrical distribution of energy over different
+improvement(``p < 0.05``) in the symmetrical distribution of energy over different
 
 
-organs in bio-well (EPI\GDV). A significant improvement (p<0.05) of green pixels
+organs in bio-well (EPI\GDV). A significant improvement (``p < 0.05``) of green pixels
 
 
 in BV pixel analysis supports the effectiveness of the X-39 patches in terms of
