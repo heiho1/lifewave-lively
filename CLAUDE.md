@@ -17,7 +17,7 @@ python3 -m venv lifewave-env
 
 # Install dependencies
 source lifewave-env/bin/activate
-pip install pinecone pinecone-plugin-assistant PyMuPDF
+pip install Flask pinecone pinecone-plugin-assistant PyMuPDF pymupdf4llm
 ```
 
 ### Activate Environment
@@ -29,9 +29,11 @@ source lifewave-env/bin/activate
 
 All dependencies are installed in the `lifewave-env` virtual environment:
 - **Python 3.12+** 
+- **Flask** (3.1.2) - Web server for serving HTML interface
 - **pinecone** (7.3.0) - Core Pinecone client
 - **pinecone-plugin-assistant** (1.7.0) - Assistant functionality  
-- **PyMuPDF** (1.26.3) - PDF processing via `fitz` module
+- **PyMuPDF** (1.26.4) - PDF processing via `fitz` module
+- **pymupdf4llm** (0.0.27) - Enhanced PDF to markdown conversion
 
 ## Key Scripts
 
@@ -77,6 +79,25 @@ Converts all PDF files from `documents/` directory to text files in `vectors/` d
 python pdf_to_text.py
 ```
 
+### `bin/pdf_to_markdown.py`
+Converts all PDF files from `pdfs/` directory to markdown files in `markdown/` directory using pymupdf4llm for enhanced formatting and structure preservation.
+
+**Usage:**
+```bash
+./bin/pdf_to_markdown.py
+# OR with virtual environment activated:
+python bin/pdf_to_markdown.py
+```
+
+### `server.py`
+Flask web server that serves the chat interface (`index.html`) and static files.
+
+**Usage:**
+```bash
+python server.py
+# Access at http://localhost:5000
+```
+
 ### `text_to_embeddings.py`
 Converts text files from `vectors/` directory to embeddings using Pinecone's llama-text-embed-v2 model. Saves embeddings as JSON files in `embeddings/` directory.
 
@@ -111,30 +132,41 @@ python upload_embeddings.py
 
 ## Architecture
 
-The project follows a six-script workflow:
+The project follows a multi-layer architecture:
 
-1. **Conversion Layer** (`pdf_to_text.py`) - PDF to text conversion
-2. **Embedding Layer** (`text_to_embeddings.py`) - Text to vector embeddings using llama-text-embed-v2
-3. **Index Upload** (`upload_embeddings.py`) - Vector embeddings to Pinecone index "lifewave-x39"
-4. **Creation Layer** (`create_agent.py`) - Assistant initialization
-5. **Data Layer** (`upload.py`) - Text file ingestion to Pinecone Assistant
-6. **Query Layer** (`agent.py`) - Assistant interaction and file management
+### Data Processing Pipeline:
+1. **PDF Conversion** (`pdf_to_text.py`) - PDF to text conversion for embeddings
+2. **Markdown Conversion** (`bin/pdf_to_markdown.py`) - PDF to markdown for enhanced readability
+3. **Embedding Layer** (`text_to_embeddings.py`) - Text to vector embeddings using llama-text-embed-v2
+4. **Index Upload** (`upload_embeddings.py`) - Vector embeddings to Pinecone index "lifewave-x39"
+
+### Assistant Layer:
+5. **Creation Layer** (`create_agent.py`) - Assistant initialization
+6. **Data Layer** (`upload.py`) - Text file ingestion to Pinecone Assistant
+7. **Query Layer** (`agent.py`) - Assistant interaction and file management
+
+### Web Interface:
+8. **Presentation Layer** (`server.py`) - Flask web server serving chat interface
 
 All scripts use a shared Pinecone API key. Vector scripts target the "lifewave-x39" index, while assistant scripts use "lifewave-assistant".
 
 ## Directory Structure
 
-- `documents/` - Contains 28 research PDFs organized by topic:
+- `pdfs/` - Contains 28 research PDFs organized by topic:
   - Acupressure studies and abstracts
   - LifeWave X39 patch research and clinical trials
   - Phototherapy and nanotechnology papers
   - Patent documents and regulatory information
 - `vectors/` - Contains converted text files from PDFs (28 .txt files)
+- `markdown/` - Contains converted markdown files from PDFs (using pymupdf4llm)
 - `embeddings/` - Contains vector embeddings as JSON files (28 .json files)
   - Generated using llama-text-embed-v2 model
   - 1024-dimensional embeddings with metadata
   - Includes chunking information and source text
+- `bin/` - Utility scripts for data processing
 - `lifewave-env/` - Python virtual environment (excluded from git)
+- `index.html` - Chat interface powered by n8n webhook
+- `server.py` - Flask web server for serving the interface
 
 ## Development Notes
 
