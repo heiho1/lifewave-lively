@@ -1,6 +1,6 @@
 # **Anti-Aging effects and acupressure**
 
-[Acupunct Electrother Res. 1998;23(3-4):185-206.](javascript:AL_get(this,%20'jour',%20'Acupunct%20Electrother%20Res.');)
+[Acupunct Electrother Res. 1998;23(3-4):185-206.];)
 
 ## **Estimation of the amount of telomere molecules in different human age** **groups and the telomere increasing effect of acupuncture and shiatsu on** **St.36, using synthesized basic units of the human telomere molecules as** **reference control substances for the bi-digital O-ring test resonance** **phenomenon.**
 

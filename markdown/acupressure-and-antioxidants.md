@@ -1,6 +1,6 @@
 # **Antioxidants may increase with acupressure stimulation**
 
-[J Altern Complement Med.](javascript:AL_get(this,%20'jour',%20'J%20Altern%20Complement%20Med.');) 2008 Apr;14(3):303-7.
+[J Altern Complement Med.];) 2008 Apr;14(3):303-7.
 
 ## **Effect of auricular pellet acupressure on antioxidative systems in high-** **risk diabetes mellitus.**
 
@@ -37,7 +37,7 @@ concentration of antioxidative enzymes in persons with high-risk DM.
 
 ## **Anxiety reduction with acupressure and acupuncture on the same acupoint**
 
-[Anesth Analg.](javascript:AL_get(this,%20'jour',%20'Anesth%20Analg.');) 2008 Sep;107(3):811-6.
+[Anesth Analg.];) 2008 Sep;107(3):811-6.
 
 ## **Extra-1 acupressure for children undergoing anesthesia.**
 
@@ -65,7 +65,7 @@ procedures. This intervention, however, has no impact on BIS values or intraproc
 requirements.
 
 
-[Am J Chin Med.](javascript:AL_get(this,%20'jour',%20'Am%20J%20Chin%20Med.');) 2004;32(5):789-94.
+[Am J Chin Med.];) 2004;32(5):789-94.
 
 ## **Needling of the extra 1 point decreases BIS values and preoperative anxiety.**
 
@@ -92,7 +92,7 @@ needling of a control point decrease only VSS values.
 
 ## **Brain wave EEG shows sedation produced by acupressure also acupressure** **can produce a calming effect on the autonomic nervous system as measured** **by HRV**
 
-[Eur J Anaesthesiol.](javascript:AL_get(this,%20'jour',%20'Eur%20J%20Anaesthesiol.');) 2004 Jan;21(1):13-9.
+[Eur J Anaesthesiol.];) 2004 Jan;21(1):13-9.
 
 ## **Effects of acupressure, manual acupuncture and Laserneedle acupuncture on** **EEG bispectral index and spectral edge frequency in healthy volunteers.**
 
@@ -120,7 +120,7 @@ score. CONCLUSIONS: The study highlights the electroencephalographic similaritie
 spectral edge frequency.
 
 
-[Evid Based Complement Alternat Med.](javascript:AL_get(this,%20'jour',%20'Evid%20Based%20Complement%20Alternat%20Med.');) 2008 Sep 30. [Epub ahead of print]
+[Evid Based Complement Alternat Med.];) 2008 Sep 30. [Epub ahead of print]
 
 ## **The Influence of Acupressure at Extra 1 Acupuncture Point on the Spectral** **Entropy of the EEG and the LF/HF Ratio of Heart Rate Variability.**
 
@@ -148,7 +148,7 @@ significantly decreased during and after acupressure only in females of the Extr
 entropy in both the genders, but affected the LF/HF ratio of HRV only in females.
 
 
-[Anesth Analg.](javascript:AL_get(this,%20'jour',%20'Anesth%20Analg.');) 2008 Aug;107(2):661-4.
+[Anesth Analg.];) 2008 Aug;107(2):661-4.
 
 ## **The effect of acupressure at the extra 1 point on subjective and autonomic** **responses to needle insertion.**
 
@@ -180,7 +180,7 @@ frequency ratio of HRV responding to needle insertion, which implies **a reducti
 
 ## **Both acupressure and acupuncture improve energy and reduce fatigue in** **cancer patients after chemotherapy**
 
-[Complement Ther Med.](javascript:AL_get(this,%20'jour',%20'Complement%20Ther%20Med.');) 2007 Dec;15(4):228-37. Epub 2006 Nov 13.
+[Complement Ther Med.];) 2007 Dec;15(4):228-37. Epub 2006 Nov 13.
 
 ## **The management of cancer-related fatigue after chemotherapy with acupuncture** **and acupressure: a randomised controlled trial.**
 
@@ -218,7 +218,7 @@ and a multicentre design.
 
 ## **Antioxidant levels may increase with acupuncture stimulation or be** **maintained during stress**
 
-[J Tradit Chin Med.](javascript:AL_get(this,%20'jour',%20'J%20Tradit%20Chin%20Med.');) 2002 Mar;22(1):51-4.
+[J Tradit Chin Med.];) 2002 Mar;22(1):51-4.
 
 ## **Effect of acupuncture on free radicals in rats with early experimental spinal cord** **injury.**
 
@@ -238,7 +238,7 @@ group respectively. It is suggested that **acupuncture** inhibits production of 
 **the SOD activity.**
 
 
-[Zhongguo Zhen Jiu. 2006 Apr;26(4):291-4.](javascript:AL_get(this,%20'jour',%20'Zhongguo%20Zhen%20Jiu.');)
+[Zhongguo Zhen Jiu. 2006 Apr;26(4):291-4.];)
 
 ## **[Effects of scalp acupuncture on regulative ability of oxidative stress reaction at** **operation stage]**
 
@@ -267,7 +267,7 @@ value of SOD before and after the operation (P < 0.05). CONCLUSION: **Scalp acup
 **stage.**
 
 
-[Zhongguo Zhen Jiu. 2006 Apr;26(4):240-2.](javascript:AL_get(this,%20'jour',%20'Zhongguo%20Zhen%20Jiu.');)
+[Zhongguo Zhen Jiu. 2006 Apr;26(4):240-2.];)
 
 ## **[Effects of head point-through-point electroacupuncture on SOD and LPO in the** **patient of Parkinson's disease]**
 
@@ -291,7 +291,7 @@ groups (P < 0.01). CONCLUSION: **Head point-through-point electroacupuncture can
 **improve SOD activity and LPO content in the body.**
 
 
-[Neurosci Lett.](javascript:AL_get(this,%20'jour',%20'Neurosci%20Lett.');) 2006 Jan 23;393(1):45-50. Epub 2005 Oct 19.
+[Neurosci Lett.];) 2006 Jan 23;393(1):45-50. Epub 2005 Oct 19.
 
 ## **Acupuncture prevents cognitive deficits and oxidative stress in cerebral multi-** **infarction rats.**
 
@@ -314,7 +314,7 @@ rats. The findings demonstrate that **acupuncture can exert beneficial effects o
 **memory and antioxidant status** of cerebral multi-infarction rats.
 
 
-[Bull Exp Biol Med.](javascript:AL_get(this,%20'jour',%20'Bull%20Exp%20Biol%20Med.');) 2004 Jul;138(1):26-9.
+[Bull Exp Biol Med.];) 2004 Jul;138(1):26-9.
 
 ## **Antioxidant status of erythrocytes after acupuncture treatment.**
 
@@ -333,7 +333,7 @@ erythrocytes. SOD activity increased after therapy and did not differ from the c
 
 ## **Acupuncture has a relaxing effect and may help insomnia**
 
-[J Neuropsychiatry Clin Neurosci.](javascript:AL_get(this,%20'jour',%20'J%20Neuropsychiatry%20Clin%20Neurosci.');) 2004 Winter;16(1):19-28.
+[J Neuropsychiatry Clin Neurosci.];) 2004 Winter;16(1):19-28.
 
 ## **Acupuncture increases nocturnal melatonin secretion and reduces insomnia and** **anxiety: a preliminary report.**
 

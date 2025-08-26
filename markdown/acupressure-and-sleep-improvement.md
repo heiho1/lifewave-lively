@@ -1,6 +1,6 @@
 # **Sleep, insomnia and the effectiveness of acupressure**
 
-[Minerva Med.](javascript:AL_get(this,%20'jour',%20'Minerva%20Med.');) 2008 Dec;99(6):539-47.
+[Minerva Med.];) 2008 Dec;99(6):539-47.
 ## **Efficacy of wrists overnight compression (HT 7 point) on insomniacs: possible** **role of melatonin?**
 
 **[Nordio M](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=Search&Term=%22Nordio%20M%22%5BAuthor%5D&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstract)**, **[Romanelli F](http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=Search&Term=%22Romanelli%20F%22%5BAuthor%5D&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstract)** .
@@ -33,7 +33,7 @@ contain pharmaceutical products, that is able to naturally ameliorate sleep qual
 acting through a not jet completely clarified mechanism, that may involve melatonin.
 
 
-[Minerva Med.](javascript:AL_get(this,%20'jour',%20'Minerva%20Med.');) 2008 Dec;99(6):535-7.,
+[Minerva Med.];) 2008 Dec;99(6):535-7.,
 
 ## **Efficacy of HT 7 point acupressure stimulation in the treatment of** **insomnia in cancer patients and in patients suffering from disorders other** **than cancer.**
 
@@ -57,7 +57,7 @@ previous clinical data showing the efficacy of acupressure in the treatment of s
 disorders, particularly in cancer-related insomnia.
 
 
-[J Adv Nurs.](javascript:AL_get(this,%20'jour',%20'J%20Adv%20Nurs.');) 2003 Apr;42(2):134-42.
+[J Adv Nurs.];) 2003 Apr;42(2):134-42.
 
 ## **Acupoints massage in improving the quality of sleep and quality of life in** **patients with end-stage renal disease.**
 
@@ -88,7 +88,7 @@ experienced significantly improved quality of life. CONCLUSION: This study suppo
 **effectiveness of acupoints massage in improving the quality of sleep** and life quality of endstage renal disease patients, and offers a noninvasive therapy for sleep-disturbed patients.
 
 
-[J Gerontol A Biol Sci Med Sci.](javascript:AL_get(this,%20'jour',%20'J%20Gerontol%20A%20Biol%20Sci%20Med%20Sci.');) 1999 Aug;54(8):M389-94.
+[J Gerontol A Biol Sci Med Sci.];) 1999 Aug;54(8):M389-94.
 
 ## **The effectiveness of acupressure in improving the quality of sleep of** **institutionalized residents.**
 

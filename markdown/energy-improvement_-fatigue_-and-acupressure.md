@@ -1,6 +1,6 @@
 # **Energy improvement, fatigue and acupressure**
 
-[Zhongguo Zhen Jiu. 2007 Nov;27(11):819-20.](javascript:AL_get(this,%20'jour',%20'Zhongguo%20Zhen%20Jiu.');)
+[Zhongguo Zhen Jiu. 2007 Nov;27(11):819-20.];)
 
 ## **[Observation on therapeutic effect of point pressure combined with** **massage on chronic fatigue syndrome]**
 
@@ -21,7 +21,7 @@ massage **can effectively improve clinical symptoms of the patient with chronic*
 **fatigue** syndrome.
 
 
-[J Nurs Res.](javascript:AL_get(this,%20'jour',%20'J%20Nurs%20Res.');) 2004 Mar;12(1):51-9.
+[J Nurs Res.];) 2004 Mar;12(1):51-9.
 
 ## **The effect of acupressure with massage on fatigue and depression in patients** **with end-stage renal disease.**
 
@@ -48,7 +48,7 @@ significantly greater improvement than patients in the control group. The findin
 provide an interventional model for nurses taking care of ESRD patients.
 
 
-[Int J Nurs Stud.](javascript:AL_get(this,%20'jour',%20'Int%20J%20Nurs%20Stud.');) 2004 Jan;41(1):99-106.
+[Int J Nurs Stud.];) 2004 Jan;41(1):99-106.
 
 ## **Acupressure and fatigue in patients with end-stage renal disease-a** **randomized controlled trial.**
 
