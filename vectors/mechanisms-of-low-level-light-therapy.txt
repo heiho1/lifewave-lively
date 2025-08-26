@@ -1,0 +1,1329 @@
+--- Page 1 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+1/21
+ 
+ 
+ 
+ 
+MECHANISMS OF LOW LEVEL LIGHT THERAPY 
+ 
+ 
+Michael R. Hamblin 
+ 
+ 
+Department of Dermatology, Harvard Medical School, BAR 414
+ 
+Wellman Center for Photomedicine, Massachusetts General Hospital
+ 
+40 Blossom Street, Boston MA 02114
+ 
+hamblin@helix.mgh.harvard.edu
+ 
+www.mgh.harvard.edu/wellman/people/mhamblin.asp
+ 
+ 
+The use of low levels of visible or near­infrared (NIR) light for reducing
+pain, inflammation and edema, promoting healing of wounds, deeper
+tissues and nerves, and preventing tissue damage has been known for
+almost forty years since the invention of lasers. Originally thought to be
+a peculiar property of laser light (soft or cold lasers), the subject has now
+broadened to include photobiomodulation and photobiostimulation using
+non­coherent light. Despite many reports of positive findings from
+experiments conducted in vitro, in animal models and in randomized
+controlled clinical trials, LLLT remains controversial. This likely is due to
+two main reasons; firstly, the biochemical mechanisms underlying the
+positive effects are incompletely understood, and secondly, the
+complexity of rationally choosing amongst a large number of illumination
+parameters such as wavelength, fluence, power density, pulse structure
+and treatment timing has led to the publication of a number of negative
+studies as well as many positive ones. In particular, a biphasic dose
+response has been frequently observed where low levels of light have a
+much better effect than higher levels. 
+ 
+This introductory review will cover some of the proposed cellular
+chromophores responsible for the effect of visible light on mammalian
+cells, including cytochrome c oxidase (with absorption peaks in the NIR),
+and photoactive porphyrins. Mitochondria are thought to be a likely site
+for the initial effects of light, leading to increased ATP production,
+modulation of reactive oxygen species, and induction of transcription
+factors. These effects in turn lead to increased cell proliferation and
+migration (particularly by fibroblasts), modulation in levels of cytokines,
+growth factors and inflammatory mediators, and increased tissue
+oxygenation. The results of these biochemical and cellular changes in
+animals and patients include such benefits as increased healing of
+chronic wounds, improvements in sports injuries and carpal tunnel
+syndrome, pain reduction in arthritis and neuropathies, and amelioration
+of damage after heart attacks, stroke, nerve injury, and retinal toxicity. 
+ 
+ 
+1. HISTORY 
+ 
+ 
+In 1967, a few years after the first working laser was invented, Endre
+Mester in Semmelweis University, Budapest, Hungary wanted to test if
+laser radiation might cause cancer in mice [1]. He shaved the dorsal hair,
+divided them into two groups and gave a laser treatment with a low
+powered ruby laser (694 nm) to one group. They did not get cancer, and
+to his surprise the hair on the treated group grew back more quickly than
+the untreated group. This was the first demonstration of "laser
+
+
+--- Page 2 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+2/21
+biostimulation". Since then, medical treatment with coherent­light
+sources (lasers) or noncoherent light (light­emitting diodes, LEDs) has
+passed through its childhood and adolescence. Currently, low­level laser
+(or light) therapy (LLLT), also known as "cold laser", "soft laser",
+"biostimulation" or "photobiomodulation" is practiced as part of physical
+therapy in many parts of the world. In fact, light therapy is one of the
+oldest therapeutic methods used by humans (historically as solar therapy
+by Egyptians, later as UV therapy for which Nils Finsen won the Nobel
+prize in 1904 [2]). The use of lasers and LEDs as light sources was the
+next step in the technological development of light therapy, which is now
+applied to many thousands of people worldwide each day. In LLLT, the
+question is no longer whether light has biological effects, but rather how
+energy from therapeutic lasers and LEDs work at the cellular and
+organism levels, and what are the optimal light parameters for different
+uses of these light sources. 
+ 
+ 
+One important point that has been demonstrated by multiple studies in
+cell culture [3], animal models [4] and in clinical studies is the concept of
+a biphasic dose response when the outcome is compared with the total
+delivered light energy density (fluence). It has been found that there
+exists an optimal dose of light for any particular application, and doses
+lower than this optimum value, or more significantly, larger than the
+optimum value will have a diminished therapeutic outcome, or for high
+doses of light a negative outcome may even result. Evidence suggests
+that both energy density and power density are key biological
+parameters for the effectiveness of laser therapy, and they may both
+operate with thresholds (i.e., a lower and an upper threshold for both
+parameters between which laser therapy is effective, and outside of
+which laser therapy is too weak to have any effect or so intense that the
+tissue is inhibited) [5]. 
+ 
+ 
+The reason why the technique is termed LOW­level is that the optimum
+levels of energy density delivered are low when compared to other forms
+of laser therapy as practiced for ablation, cutting, and thermally
+coagulating tissue. In general, the power densities used for LLLT are
+lower than those needed to produce heating of tissue, i.e., less than 100
+mW/cm2, depending on wavelength and tissue type. 
+ 
+2. PHYSICAL MECHANISMS 
+ 
+ 
+According to quantum mechanical theory, light energy is composed of
+photons or discrete packets of electromagnetic energy. The energy of an
+individual photon depends only on the wavelength. Therefore, the energy
+of a "dose" of light depends only on the number of photons and on their
+wavelength or color (blue photons have more energy than green
+photons, that have more energy than red, that have more energy than
+NIR, etc). Photons that are delivered into living tissue can either be
+absorbed or scattered. Scattered photons will eventually be absorbed or
+will escape from the tissue in the form of diffuse reflection. The photons
+that are absorbed interact with an organic molecule or chromophore
+located within the tissue. Because these photons have wavelengths in the
+red or NIR regions of the spectrum, the chromophores that absorb these
+photons tend to have delocalized electrons in molecular orbitals that can
+be excited from the ground state to the first excited state by the
+quantum of energy delivered by the photon. According to the first law of
+thermodynamics, the energy delivered to the tissue must be conserved,
+and three possible pathways exist to account for what happens to the
+delivered light energy when low level laser therapy is delivered into
+
+
+--- Page 3 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+3/21
+tissue. 
+ 
+The commonest pathway that occurs when light is absorbed by living
+tissue is called internal conversion. This happens when the first excited
+singlet state of the chromophore undergoes a transition from a higher to
+a lower electronic state. It is sometimes called "radiationless de­
+excitation", because no photons are emitted. It differs from intersystem
+crossing in that, while both are radiationless methods of de­excitation,
+the molecular spin state for internal conversion remains the same,
+whereas it changes for intersystem crossing. The energy of the
+electronically excited state is given off to vibrational modes of the
+molecule, in other words, the excitation energy is transformed into heat. 
+ 
+The second pathway that can occur is fluorescence. Fluorescence is a
+luminescence or re­emission of light, in which the molecular absorption
+of a photon triggers the emission of another photon with a longer
+wavelength. The energy difference between the absorbed and emitted
+photons ends up as molecular vibrations or heat. The wavelengths
+involved depend on the absorbance curve and Stokes shift of the
+particular fluorophore. 
+ 
+ 
+The third pathway that can occur after the absorption of light by a tissue
+chromophore, represents a number of processes broadly grouped under
+an umbrella category of photochemistry. Because of the energy of the
+photons involved, covalent bonds cannot be broken. However, the energy
+is sufficient for the first excited singlet state to be formed, and this can
+undergo intersystem crossing to the long­lived triplet state of the
+chromophore. The long life of this species allows reactions to occur, such
+as energy transfer to ground state molecular oxygen (a triplet) to form
+the reactive species, singlet oxygen. Alternatively the chromophore
+triplet state may undergo electron transfer (probably reduction) to form
+the radical anion that can then transfer an electron to oxygen to form
+superoxide. Electron transfer reactions are highly important in the
+mitochondrial respiratory chain, where the principal chromophores
+involved in laser therapy are thought to be situated. A third
+photochemistry pathway that can occur after the absorption of a red or
+NIR photon is the dissociation of a non­covalently bound ligand from a
+binding site on a metal containing cofactor in an enzyme. The most likely
+candidate for this pathway is the binding of nitric oxide to the iron­
+containing and copper­containing redox centers in unit IV of the
+mitochondrial respiratory chain, known as cytochrome c oxidase (see
+below). 
+ 
+ 
+It should be mentioned that there is another mechanism that has been
+proposed to account for low level laser effects on tissue. This explanation
+relies on the phenomenon of laser speckle, which is peculiar to laser
+light. The speckle effect is a result of the interference of many waves,
+having different phases, which add together to give a resultant wave
+whose amplitude, and therefore intensity, varies randomly. Each point on
+illuminated tissue acts as a source of secondary spherical waves. The
+light at any point in the scattered light field is made up of waves that
+have been scattered from each point on the illuminated surface.If the
+surface is rough enough to create path­length differences exceeding one
+wavelength, giving rise to phase changes greater than 2
+, the amplitude
+(and hence the intensity) of the resultant light varies randomly. It is
+proposed that the variation in intensity between speckle spots that are
+about 1 micron apart can give rise to small but steep temperature
+gradients within subcellular organelles such as mitochondria without
+
+
+--- Page 4 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+4/21
+causing photochemistry. These temperature gradients are proposed to
+cause some unspecified changes in mitochondrial metabolism 
+ 
+ 
+3. BIOCHEMICAL MECHANISMS 
+ 
+ 
+There are perhaps three main areas of medicine and veterinary practice
+where LLT has a major role to play (Figure 1). These are (i) wound
+healing, tissue repair and prevention of tissue death; (ii) relief of
+inflammation in chronic diseases and injuries with its associated pain and
+edema; (iii) relief of neurogenic pain and some neurological problems.
+The proposed pathways to explain the mechanisms of LLLT should ideally
+be applicable to all these conditions. 
+ 
+ 
+Figure 1. Schematic representation of the main areas of
+application of LLLT.
+ 
+3.1 Tissue photobiology. The first law of photobiology states that for
+low power visible light to have any effect on a living biological system,
+the photons must be absorbed by electronic absorption bands belonging
+to some molecular chromophore or photoacceptor [6]. One approach to
+finding the identity of this chromophore is to carry out action spectra.
+This is a graph representing biological photoresponse as a function of
+wavelength, wave number, frequency, or photon energy, and should
+resemble the absorption spectrum of the photoacceptor molecule. The
+fact that a structured action spectrum can be constructed supports the
+hypothesis of the existence of cellular photoacceptors and signaling
+pathways stimulated by light. 
+ 
+ 
+The second important consideration involves the optical properties of
+tissue. Both the absorption and scattering of light in tissue are
+wavelength dependent (both much higher in the blue region of the
+spectrum than the red), and the principal tissue chromophore
+(hemoglobin) has high absorption bands at wavelengths shorter than 600
+nm. For these reasons, there is a so­called "optical window". The second
+important consideration involves the optical properties of tissue. Both the
+absorption and scattering of light in tissue are wavelength dependent
+(both much higher in the blue region of the spectrum than the red), and
+the principal tissue chromophores (hemoglobin and melanin) have high
+absorption bands at wavelengths shorter than 600 nm. Water begins to
+
+
+--- Page 5 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+5/21
+absorb significantly at wavelengths greater than 1150 nm. For these
+reasons, there is a so­called "optical window" in tissue covering the red
+and NIR wavelengths, where the effective tissue penetration of light is
+maximized (Figure 2). Therefore, although blue, green and yellow light
+may have significant effects on cells growing in optically transparent
+culture medium, the use of LLLT in animals and patients almost
+exclusively involves red and NIR light (600 ­ 950 nm). 
+ 
+Figure 2. Optical window in tissue due to reduced absorption
+of red and NIR wavelengths (600­1200 nm) by tissue
+chromophores.
+ 
+3.2 Action spectra. It was suggested in 1989 that the mechanism of
+LLLT at the cellular level was based on the absorption of monochromatic
+visible and NIR radiation by components of the cellular respiratory chain
+[7]. The inner mitochondrial membrane contains 5 complexes of integral
+membrane proteins: NADH dehydrogenase (Complex I), succinate
+dehydrogenase (Complex II), cytochrome c reductase (Complex III),
+cytochrome c oxidase (Complex IV), ATP synthase (Complex V), and two
+freely diffusible molecules, ubiquinone and cytochrome c, which shuttle
+electrons from one complex to the next (Figure 3). The respiratory chain
+accomplishes the stepwise transfer of electrons from NADH and FADH2
+(produced in the citric acid or Krebs cycle) to oxygen molecules to form
+(with the aid of protons) water molecules harnessing the energy released
+by this transfer to the pumping of protons (H+) from the matrix to the
+intermembrane space. The gradient of protons formed across the inner
+membrane by this process of active transport forms a miniature battery.
+The protons can flow back down this gradient, re­entering the matrix,
+only through another complex of integral proteins in the inner
+membrane, the ATP synthase complex. 
+ 
+ 
+
+
+--- Page 6 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+6/21
+ 
+Figure 3. Structure of the mitochondrial respiratory chain.
+ 
+ 
+Absorption spectra obtained for cytochrome c oxidase in different
+oxidation states were recorded and found to be very similar to the action
+spectra for biological responses to light. Therefore, it was proposed that
+cytochrome c oxidase (Cox) is the primary photoacceptor for the red­NIR
+range in mammalian cells [8] (Figure 4). The single most important
+molecule in cells and tissue that absorbs light between 630 and 900 nm
+is Cox (responsible for more than 50% of the absorption greater than
+800 nm. Cytochrome C oxidase contains two iron centers, haem a and
+haem a3 (also referred to as cytochromes a and a3), and two copper
+centers, CuA and CuB [9] . Fully oxidized cytochrome c oxidase has both
+iron atoms in the Fe(III) oxidation state and both copper atoms in the
+Cu(II) oxidation state, while fully reduced cytochrome c oxidase has the
+iron in Fe(II) and copper in Cu(I) oxidation states. There are many
+intermediate mixed­valence forms of the enzyme and other coordinate
+ligands such as CO, CN, and formate can be involved. All the many
+individual oxidation states of the enzyme have different absorption
+spectra [10], thus probably accounting for slight differences in action
+spectra of LLLT that have been reported. A recent paper from Karu's
+group [11] gave the following wavelength ranges for four peaks in the
+LLLT action spectrum: 1) 613.5­623.5 nm, 2) 667.5­683.7 nm, 3) 750.7­
+772.3 nm, 4) 812.5­846.0 nm. 
+ 
+ 
+
+
+--- Page 7 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+7/21
+ 
+Figure 4. Structure and mode of action of cytochrome c oxidase.
+ 
+ 
+A study from Pastore et al. [12] examined the effect of He­Ne laser
+illumination (632.8 nm) on the purified cytochrome c oxidase enzyme,
+and found increased oxidation of cytochrome c and increased electron
+transfer. Artyukhov and colleagues found [13] increased enzyme activity
+of catalase after He­Ne laser illumination. 
+ 
+ 
+The absorption of photons by molecules leads to electronically excited
+states, and consequently can lead to an acceleration of electron transfer
+reactions [14]. More electron transport necessarily leads to the increased
+production of ATP [15]. The light­induced increase in ATP synthesis and
+increased proton gradient leads to an increasing activity of the Na+/H+
+and Ca2+/Na+ antiporters, and of all the ATP driven carriers for ions, such
+as Na+/K+ ATPase and Ca2+ pumps. ATP is the substrate for adenyl
+cyclase, and therefore the ATP level controls the level of cAMP. Both Ca2+
+and cAMP are very important second messengers. Ca2+ regulates almost
+every process in the human body (muscle contraction, blood coagulation,
+signal transfer in nerves, gene expression, etc.). 
+ 
+3.3 Nitric oxide and LLLT. Light mediated vasodilation was first
+described in 1968 by Furchgott, in his nitric oxide research that lead to
+his receipt of a Nobel Prize thirty years later in 1998 [16]. Later studies
+conducted by other researchers confirmed and extended Furchgott's
+early work, and demonstrate the ability of light to influence the localized
+production or release of NO, and to stimulate vasodilation through the
+effect NO on cGMP. This finding suggests that properly designed
+illumination devices may be effective, noninvasive therapeutic agents for
+patients who would benefit from increased localized NO availability.
+However, the wavelengths that are most effective on this light mediated
+release of NO are different from those used in LLLT, being in the UV­A
+(320­400 nm) and blue range [17]. 
+ 
+ 
+Some wavelengths of light are absorbed by hemoglobin, and that
+
+
+--- Page 8 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+8/21
+illumination can release the NO from hemoglobin (specifically from the
+nitrosothiols in the beta chain of the hemoglobin molecule) in red blood
+cells (RBCs) [18­20] Since RBCs are continuously delivered to the area of
+treatment, there is a natural supply of NO that can be released from each
+new RBC that passes under the light source, and is exposed to the
+appropriate wavelength of photo energy. Since the half life of the NO
+released under the area of illumination is only 2 to 3 seconds, NO release
+is very local, preventing the effect of increased NO from being
+manifested in other portions of the body. Vasodilation from NO is based
+on its effect on the enzyme guanylate cyclase (GC), which forms cGMP to
+phosphorylate myosin and relax smooth muscle cells in the vascular
+system. Once available levels of GC are saturated with NO, or once
+maximum levels of cGMP are achieved, further vasodilation through
+illumination will not occur until these biologic compounds return to their
+pre­illumination status. Again, the wavelengths that have been shown to
+mediate this effect tend to be in the UV­A and blue ranges, not the red
+and NIR wavelength ranges that are mainly used for LLLT [21]. 
+ 
+ 
+The activity of cytochrome c oxidase is inhibited by nitric oxide (NO) [22,
+23]. This surprising discovery that the body could poison one of its own
+enzymes was initially shrugged off as an imperfection [24], but a few
+years later, several groups reported that mitochondria produced an
+enzyme that synthesizes NO [25], that was identified as the neuronal
+isoforms of NO synthase [26]. It was proposed that evolution crafted
+cytochrome c oxidase to bind not only oxygen, but also NO. The effect of
+slowing respiration in some locations was to divert oxygen elsewhere in
+cells and tissues, for instance, NO blocks respiration in the endothelial
+cells lining blood vessels, and this helps to transfer oxygen into smooth
+muscle cells in these vessels [27]. 
+ 
+This inhibition of mitochondrial respiration by NO can be explained by a
+direct competition between NO and O2 for the reduced binuclear center
+CuB/a3 of cytochrome c oxidase, and is reversible [28]. It was proposed
+that laser irradiation could reverse the inhibition of cytochrome c oxidase
+by NO by photodissociating NO from its binding sites [24, 29]. Because
+this coordinate binding is much weaker than a covalent bond, this
+dissociation is possible by visible and NIR light that has insufficient
+energy to break covalent bonds. The dissociation of NO from Cox will
+thus increase the respiration rate ("NO hypothesis") [29]. Light can
+indeed reverse the inhibition caused by NO binding to cytochrome
+oxidase, both in isolated mitochondria and in whole cells [30]. Light can
+also protect cells against NO­induced cell death. These experiments used
+light in the visible spectrum, with wavelengths from 600 to 630 nm. NIR
+also seems to have effects on cytochrome oxidase in conditions where
+NO is unlikely to be present. 
+ 
+Tiina Karu provided experimental evidence [29] that NO was involved in
+the mechanism of the cellular response to LLLT in the red region of the
+spectrum. A suspension of HeLa cells was irradiated with 600­860 nm, or
+with a diode laser at 820 nm, and the number of cells attached to a glass
+matrix was counted after a 30 minute incubation. The NO donors, sodium
+nitroprusside (SNP), glyceryl trinitrate (GTN), or sodium nitrite (NaNO2),
+were added to the cellular suspension before or after irradiation. Treating
+the cellular suspension with SNP before irradiation significantly modifies
+the action spectrum for the enhancement of the cell attachment
+property, and eliminates the light­induced increase in the number of cells
+attached to the glass matrix, supposedly by way of binding NO to
+cytochrome c oxidase. Other in vivo studies on the use of 780 nm light
+
+
+--- Page 9 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+9/21
+for stimulating bone healing in rats [31], the use of 804 nm laser to
+decrease damage inflicted in rat hearts after creation of heart attacks
+[32], have shown significant increases of NO in illuminated tissues after
+LLLT. On the other hand, studies have been reported on the use of red
+and NIR LLLT to treat mice with arthritis caused by intra­articular
+injection of zymosan [33], and studies with 660 nm laser for strokes
+created in rats [34]. have both shown a reduction of NO in the tissues.
+These authors explained this observation by proposing that LLLT inhibited
+inducible nitric oxide synthase (iNOS). 
+ 
+ 
+In addition to the cytochrome c oxidase mediated increase in ATP
+production, other mechanisms may be operating in LLLT. The first of
+these we will consider is the "singlet­oxygen hypothesis." Certain
+molecules with visible absorption bands, like porphyrins lacking transition
+metal coordination centers [35] and some flavoproteins [36], can be
+converted into a long­lived triplet state after photon absorption. This
+triplet state can interact with ground­state oxygen with energy transfer
+leading to production of a reactive species, singlet oxygen. This is the
+same molecule utilized in photodynamic therapy (PDT) to kill cancer
+cells, destroy blood vessels, and kill microbes. Researchers in PDT have
+known for a long time that very low doses of PDT can cause cell
+proliferation and tissue stimulation, instead of the killing observed at high
+doses [37]. 
+ 
+The next mechanism proposed was the "redox properties alteration
+hypothesis" [38]. Alteration of mitochondrial metabolism, and the
+activation of the respiratory chain by illumination would also increase the
+production of superoxide anions, O2.­. It has been shown that the total
+cellular production of O2.­ depends primarily on the metabolic state of the
+mitochondria. Other redox chains in cells can also be activated by LLLT.
+NADPH­oxidase is an enzyme found on activated neutrophils, and is
+capable of a non­mitochondrial respiratory burst, and production of high
+amounts of ROS can be induced [39]. These effects depend on the
+physiological status of the host organism as well as on radiation
+parameters. 
+ 
+ 
+3.4 Cell signaling. The combination of the products of the reduction
+potential and reducing capacity of the linked redox couples present in
+cells and tissues represent the redox environment (redox state) of the
+cell. Redox couples present in the cell include: nicotinamide adenine
+dinucleotide (oxidized/ reduced forms) NAD/NADH, nicotinamide adenine
+dinucleotide phosphate NADP/NADPH, glutathione/glutathione disulfide
+couple GSH/GSSG, and thioredoxin/ thioredoxin disulfide couple
+Trx(SH)2/TrxSS [40]. Several important regulation pathways are
+mediated through the cellular redox state. Changes in redox state induce
+the activation of numerous intracellular signaling pathways, regulate
+nucleic acid synthesis, protein synthesis, enzyme activation and cell cycle
+progression [41]. These cytosolic responses in turn induce transcriptional
+changes. Several transcription factors are regulated by changes in
+cellular redox state. Among them redox factor­1 (Ref­1)­dependent
+activator protein­1 (AP­1) (Fos and Jun), nuclear factor (B (NF­(B), p53,
+activating transcription factor/cAMP­response element­binding protein
+(ATF/ CREB), hypoxia­inducible factor (HIF)­1
+, an HIF­like factor.
+Figure 5 illustrates the effect of redox­sensitive transcription factors
+activated after LLLT in causing the transcription of protective gene
+products. As a rule, the oxidized form of redox­dependent transcription
+factors have low DNA­binding activity. Ref­1 is an important factor for
+the specific reduction of these transcription factors. However, it was also
+
+
+--- Page 10 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+10/21
+shown that low levels of oxidants appear to stimulate proliferation and
+differentiation of some type of cells [42­44]. 
+ 
+ 
+ 
+Figure 5. Cell signaling pathways induced by LLLT.
+ 
+ 
+It is proposed that LLLT produces a shift in overall cell redox potential in
+the direction of greater oxidation [45]. Different cells at a range of
+growth conditions have distinct redox states. Therefore, the effects of
+LLLT can vary considerably. Cells being initially at a more reduced state
+(low intracellular pH) have high potential to respond to LLLT, while cells
+at the optimal redox state respond weakly or do not respond to
+treatment with light. 
+ 
+4. IN VITRO RESULTS 
+ 
+ 
+4.1 Cell types. There is evidence that multiple mammalian and
+microbial cell types can respond to LLLT. Much of Karu's work has used
+Escherichia coli (a Gram­negative aerobic bacterium) [46] and HeLa cells
+[47], and a human cervical carcinoma cell line. However, for the clinical
+applications of LLLT to be validated, it is much more important to study
+the effects of LLLT on non­malignant cell types likely to be usefully
+stimulated in order to remedy some disease or injury. For wound healing
+type studies, these cells are likely to be endothelial cells [48], fibroblasts
+[49], keratinocytes [50], and possibly some classes of leukocytes. such
+as macrophages [51] and neutrophils [52]. For pain relief and nerve
+regrowth studies, these cells will be neurons [53­55] and glial cells [56].
+For anti­inflammatory and anti­edema applications, the cell types will be
+macrophages [51], mast­cells [57], neutrophils [58], lymphocytes [59],
+etc. There is literature evidence for in vitro LLLT effects for most of these
+cell types. 
+ 
+ 
+4.2 Isolated mitochondria. Since the respiratory chain and cytochrome
+c oxidase are located in mitochondria, several groups have tested the
+effect of LLLT on preparations of isolated mitochondria. The most popular
+system to study is the effects of HeNe laser illumination (632.8 nm) of
+mitochondria isolated from rat liver. Increased proton electrochemical
+potential and ATP synthesis was found [60]. Increased RNA and protein
+synthesis was demonstrated after 5 J/cm2 [61]. Pastore et al. [62] found
+
+
+--- Page 11 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+11/21
+increased activity of cytochrome c oxidase, and an increase in
+polarographically measured oxygen uptake after 2 J/cm2 of 632.8 nm. A
+major stimulation in the proton pumping activity, about 55% increase of
+H+/e­ ratio was found in illuminated mitochondria. Yu et al. [14] used 660
+nm laser at a power density of 10 mW/cm2 and showed increased oxygen
+consumption (0.6 J/cm2 and 1.2 J/cm2), increased phosphate potential,
+and energy charge (1.8 J/cm2 and 2.4 J/cm2), and enhanced activities of
+NADH, ubiquinone oxidoreductase, ubiquinol, ferricytochrome C
+oxidoreductase, and ferrocytochrome C, and oxygen oxidoreductase
+(between 0.6 J/cm2, and 4.8 J/cm2). 
+ 
+4.3 LLLT cellular response. The cellular responses observed in vitro
+after LLLT can be broadly classed under increases in metabolism,
+migration, proliferation, and increases in synthesis and secretion of
+various proteins. Many studies report effects on more than one of these
+parameters. Yu et al. [50] reported on cultured keratinocytes and
+fibroblasts that were irradiated with 0.5­1.5 J/cm2 HeNe laser (632.8
+nm). They found a significant increase in basic fibroblast growth factor
+(bFGF) release from both keratinocytes and fibroblasts, and a significant
+increase in nerve growth factor release from keratinocytes. Medium from
+laser irradiated keratinocytes stimulated [3H]thymidine uptake, and the
+proliferation of cultured melanocytes. Furthermore, melanocyte migration
+was enhanced either directly by HeNe laser or indirectly by the medium
+derived from HeNe laser (632.8 nm) treated keratinocytes. 
+ 
+The presence of cellular responses to LLLT at molecular level was also
+demonstrated [63]. Normal human fibroblasts were exposed for 3 days
+to 0.88J/cm2 of 628 nm light from a light emitting diode. Gene
+expression profiles upon irradiation were examined using a cDNA
+microarray containing 9982 human genes. 111 genes were found to be
+affected by light. All genes from the antioxidant related category and
+genes related to energy metabolism and respiratory chain were
+upregulated. Most of the genes related to cell proliferation were
+upregulated too. Amongst genes related to apoptosis and stress
+response, some genes such as JAK binding protein were upregulated,
+others such as HSP701A, caspase 6 and stress­induced phosphoprotein
+were downregulated. It was suggested that LLLT stimulates cell growth
+directly by regulating the expression of specific genes, as well as
+indirectly by regulating the expression of the genes related to DNA
+synthesis and repair, and cell metabolism. 
+ 
+ 
+5. ANIMAL MODELS 
+ 
+ 
+There has been a large number of animal models that have been used to
+demonstrate LLLT effects on a variety of diseases, injuries, and both
+chronic and acute conditions. In this review, I will only discuss three
+particular applications for which there are good literature reports of
+efficacy. 
+ 
+ 
+5.1 Wound healing. The literature on LLLT applied to a stimulation of
+wound healing in a variety of animal models contains both positive and
+negative studies. The reasons for the conflicting reports, sometimes in
+very similar wound models, are probably diverse. It is probable that
+applications of LLLT in animal models will be more effective if carried out
+on models that have some intrinsic disease state. Although there have
+been several reports that processes such as wound healing are
+accelerated by LLLT in normal rodents [3, 34], an alternative approach is
+to inhibit healing by inducing some specific disease state. This has been
+
+
+--- Page 12 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+12/21
+done in the case of diabetes, a disease known to significantly depress
+wound healing in patients. LLLT significantly improves wound healing in
+both diabetic rats [35, 36] and diabetic mice [37, 38]. LLLT was also
+effective in X­radiation impaired wound healing in mice [39]. A study
+[64] in hairless mice found improvement in the tensile strength of the
+HeNe laser (632.8 nm)­irradiated wounds at 1 and 2 weeks.
+Furthermore, the total collagen content was significantly increased at 2
+months, when compared with control wounds. 
+ 
+The beneficial effect of LLLT on wound healing can be explained by
+considering several basic biological mechanisms including the induction
+of expression cytokines and growth factors known to be responsible for
+the many phases of wound healing. Firstly, there is a report [65] that
+HeNe laser (632.8 nm) increased both protein and mRNA levels of IL­1
+and IL­8 in keratinocytes. These are cytokines responsible for the initial
+inflammatory phase of wound healing. Secondly, there are reports [66]
+that LLLT can upregulate cytokines responsible for fibroblast proliferation
+and migration, such as bFGF, HGF and SCF. Thirdly, it has been reported
+[67] that LLLT can increase growth factors such as VEGF, responsible for
+the neovascularization necessary for wound healing. Fourthly, TGF­ß is a
+growth factor responsible for inducing collagen synthesis from
+fibroblasts, and has been reported to be upregulated by LLLT [68].
+Fifthly, there are reports [69, 70] that LLLT can induce fibroblasts to
+undergo transformation into myofibloblasts, a cell type that expresses
+smooth muscle 
+­actin and desmin, and has the phenotype of contractile
+cells that hasten wound contraction. 
+ 
+ 
+5.2 Neuronal toxicity. Studies from Whelan's group have explored the
+use of 670 nm LEDs in combating neuronal damage caused by
+neurotoxins. Methanol intoxication is caused by its metabolic conversion
+to formic acid that produces injury to the retina and optic nerve,
+resulting in blindness. Using a rat model and the electroretinogram as a
+sensitive indicator of retinal function, they demonstrated that three brief
+670 nm LED treatments (4 J/cm2), delivered at 5, 25, and 50 h of
+methanol intoxication, attenuated the retinotoxic effects of methanol­
+derived formate. There was a significant recovery of rod­ and cone­
+mediated function in LED­treated, methanol­intoxicated rats, and
+histopathologic evidence of retinal protection [71]. A subsequent study
+[72] explored the effects of an irreversible inhibitor of cytochrome c
+oxidase, potassium cyanide, in primary cultured neurons. LED treatment
+partially restored enzyme activity blocked by 10­100 µM KCN. It
+significantly reduced neuronal cell death induced by 300 µM KCN from
+83.6 to 43.5%. LED significantly restored neuronal ATP content only at
+10 µM KCN, but not at higher concentrations of KCN tested. In contrast,
+LED was able to completely reverse the detrimental effect of
+tetrodotoxin, which only indirectly down­regulated enzyme levels. Among
+the wavelengths tested (670, 728, 770, 830, and 880 nm), the most
+effective ones (670 nm and 830 nm) paralleled the NIR absorption
+spectrum of oxidized cytochrome c oxidase. 
+ 
+ 
+5.3 Nerve regeneration. Animal models have been employed to study
+LLLT effects in nerve repair [73, 74]. Byrnes et al. [56] used 1,600 J/cm2
+of 810­nm diode laser to improve healing and functionality in a T9 dorsal
+hemisection of the spinal cord in rats. Anders et al. [75] studied LLLT for
+regenerating crushed rat facial nerves; by comparing 361, 457, 514,
+633, 720, and 1064 nm, and found the best response with 162.4 J/cm2 of
+633 nm HeNe laser. 
+ 
+
+
+--- Page 13 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+13/21
+6. CLINICAL STUDIES 
+ 
+ 
+Low­power laser therapy is used by physical therapists to treat a wide
+variety of acute and chronic musculoskeletal aches and pains, by dentists
+to treat inflamed oral tissues and to heal diverse ulcerations, by
+dermatologists to treat edema, non­healing ulcers, burns, and dermatitis,
+by orthopedists to relieve pain and treat chronic inflammations and
+autoimmune diseases, and by other specialists, as well as general
+practitioners. Laser therapy is also widely used in veterinary medicine
+(especially in racehorse­training centers), and in sports­medicine and
+rehabilitation clinics (to reduce swelling and hematoma, relieve pain,
+improve mobility, and treat acute soft­tissue injuries). Lasers and LEDs
+are applied directly to the respective areas (e.g., wounds, sites of
+injuries) or to various points on the body (acupuncture points, muscle­
+trigger points). However, one of the most important limitations to
+advancing the LLLT field into mainstream medical practice is the lack of
+appropriately controlled and blind clinical trials. The trials should be
+prospective, placebo controlled, and double blinded, and contain
+sufficient subjects to allow statistically valid conclusions to be reached. 
+ 
+ 
+Clinical applications of low­power laser therapy are diverse. The field is
+characterized by a variety of methodologies, and uses of various light
+sources (lasers, LEDs) with different parameters (wavelength, output
+power, continuous­wave or pulsed operation modes, pulse parameters).
+In recent years, longer wavelengths (~800 to 900 nm) and higher output
+powers (to 100 mW) have been preferred in therapeutic devices,
+especially to allow deeper tissue penetration. In 2002, MicroLight Corp
+received 510K FDA clearance for the ML 830 nm diode laser for the
+treatment of carpal tunnel syndrome. There were several controlled trials
+reporting significant improvement in pain, and some improvement in
+objective outcome measures [76­78]. Since then several light sources
+have been approved as equivalent to an infrared heating lamp for
+treating a wide­range of musculoskeletal disorders with no supporting
+clinical studies. 
+ 
+ 
+7. UNRESOLVED QUESTIONS 
+ 
+ 
+7.1 Wavelength. This is probably the parameter where there is most
+agreement in the LLLT community. Wavelengths in the 600­700 nm
+range are chosen for treating superficial tissue, and wavelengths
+between 780 and 950 nm are chosen for deeper­seated tissues, due to
+longer optical penetration distances through tissue. Wavelengths
+between 700 and 770 nm are not considered to have much activity.
+Some devices combine a red wavelength with a NIR wavelength on the
+basis that the combination of two wavelengths can have additive effects,
+and can also allow the device to be more broadly utilized to treat more
+diseases. There is of course much more work to be done to define what
+is the optimum wavelength for the different indications for which LLLT is
+employed. 
+ 
+ 
+7.2 Laser vs non­coherent light. One of the most topical and widely
+discussed issues in the LLLT clinical community is whether the coherence
+and monochromatic nature of laser radiation have additional benefits, as
+compared with more broad­band light from a conventional light source or
+LED with the same center wavelength and intensity. Two aspects of this
+problem must be distinguished: the coherence of light itself and the
+coherence of the interaction of light with matter (biomolecules, tissues).
+The latter interaction produces the phenomenon known as laser speckle,
+
+
+--- Page 14 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+14/21
+which has been postulated to play a role in the photobiomodulation
+interaction with cells and subcellular organelles. It is difficult to design an
+experiment to directly compare coherent laser light with non­coherent
+non­laser light for the following reason. Laser light is almost always
+monochromatic with a bandwidth of 1 nm or less, and it is very difficult
+to generate light from any other source (even an LED) that has a
+bandwidth narrower than 10­20 nm, therefore it will be uncertain if
+observed differences are due to coherent versus non­coherent light, or
+due to monochromatic versus narrow bandwidth light. 
+ 
+ 
+7.3 Dose. Because of the possible existence of a biphasic dose response
+curve referred to above, choosing the correct dosage of light (in terms of
+energy density) for any specific medical condition is difficult. In addition
+there has been some confusion in the literature about the delivered
+fluence when the light spot is small. If 5J of light is given to a spot of 5
+mm2, the fluence is 100 J/cm2, which is nominally the same fluence as
+100 J/cm2 delivered to 10 cm2, but the total energy delivered in the latter
+case is 200 times greater. The dose of light that is used depends on the
+pathology being treated, and in particular upon how deep the light is
+thought to need to penetrate into the tissue. Doses that are frequently
+used in the red wavelengths for fairly superficial diseases tend to be in
+the region of 4 J/cm2 with a range of 1­10 J/cm2. Doses of the NIR
+wavelengths that tend to be employed for deeper­seated disorders can
+be higher than these values, i.e., in the 10­50 J/cm2 range. The light
+treatment is usually repeated either every day or every other day, and a
+course of treatment can last for periods around two weeks. 
+ 
+ 
+7.4 Pulsed or CW. There have been some reports that pulse structure is
+an important factor in LLLT; for instance Ueda et al. [79, 80] found
+better effects using 1 or 2 Hz pulses than 8 Hz or CW 830 nm laser on
+rat bone cells, but the underlying mechanism for this effect is unclear. 
+ 
+7.5 Polarization status. There are some claims that polarized light has
+better effects in LLLT applications than otherwise identical non­polarized
+light (or even 90­degree rotated polarized light) [81]. However, it is
+known that polarized light is rapidly scrambled in highly scattering media
+such as tissue (probably in the first few hundred µm), and it therefore
+seems highly unlikely that polarization could play a role, except for
+superficial applications to the upper layers of the skin. 
+ 
+7.6 Systemic effects. Although LLLT is mostly applied to localized
+diseases and its effect is often considered to be restricted to the
+irradiated area, there are reports of systemic effects of LLLT acting at a
+site distant from the illumination [82, 83]. It is well known that UV light
+can have systemic effects [84], and it has been proposed that red and
+NIR light can also have systemic effects. These have been proposed to be
+mediated by soluble mediators such as endorphins and serotonin. There
+is a whole field known as laser acupuncture [85] in which the stimulation
+of specific acupuncture points by a focused laser beam is proposed to
+have similar effects at distant locations to the more well known needle
+acupuncture techniques. 
+ 
+ 
+ 
+EDITOR'S NOTE (02/23/13)
+ 
+Follow this LINK for a list of 3080 papers on LLLT on PubMed. 
+ 
+ 
+ 
+REFERENCES 
+ 
+
+
+--- Page 15 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+15/21
+ 
+[1] E. Mester, B. Szende and P. Gartner, The effect of laser beams on the
+growth of hair in mice, Radiobiol Radiother (Berl) 9 (1968) 621­6. 
+ 
+ 
+[2] R. Roelandts, The history of phototherapy: something new under the
+sun?, J Am Acad Dermatol 46 (2002) 926­30. 
+ 
+ 
+[3] A.N. Pereira, P. Eduardo Cde, E. Matson and M.M. Marques, Effect of
+low­power laser irradiation on cell growth and procollagen synthesis of
+cultured fibroblasts, Lasers Surg Med 31 (2002) 263­7. 
+ 
+ 
+[4] J.S. Kana, G. Hutschenreiter, D. Haina and W. Waidelich, Effect of
+low­power density laser radiation on healing of open skin wounds in rats,
+Arch Surg 116 (1981) 293­6. 
+ 
+ 
+[5] A.P. Sommer, A.L. Pinheiro, A.R. Mester, R.P. Franke and H.T.
+Whelan, Biostimulatory windows in low­intensity laser activation: lasers,
+scanners, and NASA's light­emitting diode array system, J Clin Laser Med
+Surg 19 (2001) 29­33. 
+ 
+[6] J.C. Sutherland, Biological effects of polychromatic light, Photochem
+Photobiol 76 (2002) 164­70. 
+ 
+ 
+[7] T. Karu, Laser biostimulation: a photobiological phenomenon, J
+Photochem Photobiol B 3 (1989) 638­40. 
+ 
+ 
+[8] T.I. Karu and N.I. Afanas'eva, Cytochrome c oxidase as the primary
+photoacceptor upon laser exposure of cultured cells to visible and near
+IR­range light, Dokl Akad Nauk 342 (1995) 693­5. 
+ 
+ 
+[9] R.A. Capaldi, F. Malatesta and V.M. Darley­Usmar, Structure of
+cytochrome c oxidase, Biochim Biophys Acta 726 (1983) 135­48. 
+ 
+ 
+[10] I. Szundi, G.L. Liao and O. Einarsdottir, Near­infrared time­resolved
+optical absorption studies of the reaction of fully reduced cytochrome c
+oxidase with dioxygen, Biochemistry 40 (2001) 2332­9. 
+ 
+ 
+[11] T.I. Karu and S.F. Kolyakov, Exact action spectra for cellular
+responses relevant to phototherapy, Photomed Laser Surg 23 (2005)
+355­61. 
+ 
+ 
+[12] D. Pastore, M. Greco and S. Passarella, Specific helium­neon laser
+sensitivity of the purified cytochrome c oxidase, Int J Radiat Biol 76
+(2000) 863­70. 
+ 
+ 
+[13] V.G. Artyukhov, O.V. Basharina, A.A. Pantak and L.S. Sveklo, Effect
+of helium­neon laser on activity and optical properties of catalase, Bull
+Exp Biol Med 129 (2000) 537­40. 
+ 
+ 
+[14] W. Yu, J.O. Naim, M. McGowan, K. Ippolito and R.J. Lanzafame,
+Photomodulation of oxidative metabolism and electron chain enzymes in
+rat liver mitochondria, Photochem Photobiol 66 (1997) 866­71. 
+ 
+ 
+[15] S. Passarella, He­Ne laser irradiation of isolated mitochondria, J
+Photochem Photobiol B 3 (1989) 642­3. 
+ 
+ 
+[16] S.J. Ehrreich and R.F. Furchgott, Relaxation of mammalian smooth
+muscles by visible and ultraviolet radiation, Nature 218 (1968) 682­4. 
+ 
+
+
+--- Page 16 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+16/21
+ 
+[17] H. Chaudhry, M. Lynch, K. Schomacker, R. Birngruber, K. Gregory
+and I. Kochevar, Relaxation of vascular smooth muscle induced by low­
+power laser radiation, Photochem Photobiol 58 (1993) 661­9. 
+ 
+ 
+[18] R. Mittermayr, A. Osipov, C. Piskernik, S. Haindl, P. Dungel, C.
+Weber, Y.A. Vladimirov, H. Redl and A.V. Kozlov, Blue laser light
+increases perfusion of a skin flap via release of nitric oxide from
+hemoglobin, Mol Med 13 (2007) 22­9. 
+ 
+ 
+[19] L. Vladimirov, A., G.I. Klebanov, G.G. Borisenko and A.N. Osipov,
+Molecular and cellular mechanisms of the low intensity laser radiation
+effect, Biofizika 49 (2004) 339­50. 
+ 
+ 
+[20] Y.A. Vladimirov, A.N. Osipov and G.I. Klebanov, Photobiological
+principles of therapeutic applications of laser radiation, Biochemistry
+(Mosc) 69 (2004) 81­90. 
+ 
+ 
+[21] G.G. Borisenko, A.N. Osipov, K.D. Kazarinov and A. Vladimirov Yu,
+Photochemical reactions of nitrosyl hemoglobin during exposure to low­
+power laser irradiation, Biochemistry (Mosc) 62 (1997) 661­6. 
+ 
+ 
+[22] B. Beltran, A. Mathur, M.R. Duchen, J.D. Erusalimsky and S.
+Moncada, The effect of nitric oxide on cell respiration: A key to
+understanding its role in cell survival or death, Proc Natl Acad Sci U S A
+97 (2000) 14602­7. 
+ 
+[23] G.C. Brown, Regulation of mitochondrial respiration by nitric oxide
+inhibition of cytochrome c oxidase, Biochim Biophys Acta 1504 (2001)
+46­57. 
+ 
+ 
+[24] N. Lane, Cell biology: power games, Nature 443 (2006) 901­3. 
+ 
+ 
+[25] G.C. Brown and V. Borutaite, Nitric oxide inhibition of mitochondrial
+respiration and its role in cell death, Free Radic Biol Med 33 (2002) 1440­
+50. 
+ 
+ 
+[26] P. Ghafourifar and E. Cadenas, Mitochondrial nitric oxide synthase,
+Trends Pharmacol Sci 26 (2005) 190­5. 
+ 
+ 
+[27] E. Clementi, G.C. Brown, N. Foxwell and S. Moncada, On the
+mechanism by which vascular endothelial cells regulate their oxygen
+consumption, Proc Natl Acad Sci U S A 96 (1999) 1559­62. 
+ 
+ 
+[28] F. Antunes, A. Boveris and E. Cadenas, On the mechanism and
+biology of cytochrome oxidase inhibition by nitric oxide, Proc Natl Acad
+Sci U S A 101 (2004) 16774­9. 
+ 
+ 
+[29] T.I. Karu, L.V. Pyatibrat and N.I. Afanasyeva, Cellular effects of low
+power laser therapy can be mediated by nitric oxide, Lasers Surg Med 36
+(2005) 307­14. 
+ 
+ 
+[30] V. Borutaite, A. Budriunaite and G.C. Brown, Reversal of nitric
+oxide­, peroxynitrite­ and S­nitrosothiol­induced inhibition of
+mitochondrial respiration or complex I activity by light and thiols,
+Biochim Biophys Acta 1459 (2000) 405­12. 
+ 
+ 
+[31] G.A. Guzzardella, M. Fini, P. Torricelli, G. Giavaresi and R. Giardino,
+
+
+--- Page 17 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+17/21
+Laser stimulation on bone defect healing: an in vitro study, Lasers Med
+Sci 17 (2002) 216­20. 
+ 
+ 
+[32] H. Tuby, L. Maltz and U. Oron, Modulations of VEGF and iNOS in the
+rat heart by low level laser therapy are associated with cardioprotection
+and enhanced angiogenesis, Lasers Surg Med 38 (2006) 682­8. 
+ 
+ 
+[33] Y. Moriyama, E.H. Moriyama, K. Blackmore, M.K. Akens and L. Lilge,
+In vivo study of the inflammatory modulating effects of low­level laser
+therapy on iNOS expression using bioluminescence imaging, Photochem
+Photobiol 81 (2005) 1351­5. 
+ 
+ 
+[34] M.C. Leung, S.C. Lo, F.K. Siu and K.F. So, Treatment of
+experimentally induced transient cerebral ischemia with low energy laser
+inhibits nitric oxide synthase activity and up­regulates the expression of
+transforming growth factor­beta 1, Lasers Surg Med 31 (2002) 283­8. 
+ 
+ 
+[35] H. Friedmann, R. Lubart, I. Laulicht and S. Rochkind, A possible
+explanation of laser­induced stimulation and damage of cell cultures, J
+Photochem Photobiol B 11 (1991) 87­91. 
+ 
+ 
+[36] M. Eichler, R. Lavi, A. Shainberg and R. Lubart, Flavins are source of
+visible­light­induced free radical formation in cells, Lasers Surg Med 37
+(2005) 314­9. 
+ 
+ 
+[37] K. Plaetzer, T. Kiesslich, B. Krammer and P. Hammerl,
+Characterization of the cell death modes and the associated changes in
+cellular energy supply in response to AlPcS4­PDT, Photochem Photobiol
+Sci 1 (2002) 172­7. 
+ 
+ 
+[38] R. Lubart, M. Eichler, R. Lavi, H. Friedman and A. Shainberg, Low­
+energy laser irradiation promotes cellular redox activity, Photomed Laser
+Surg 23 (2005) 3­9. 
+ 
+ 
+[39] R. Duan, T.C. Liu, Y. Li, H. Guo and L.B. Yao, Signal transduction
+pathways involved in low intensity He­Ne laser­induced respiratory burst
+in bovine neutrophils: a potential mechanism of low intensity laser
+biostimulation, Lasers Surg Med 29 (2001) 174­8. 
+ 
+ 
+[40] F.Q. Schafer and G.R. Buettner, Redox environment of the cell as
+viewed through the redox state of the glutathione disulfide/glutathione
+couple, Free Radic Biol Med 30 (2001) 1191­212. 
+ 
+ 
+[41] H. Liu, R. Colavitti, Rovira, II and T. Finkel, Redox­dependent
+transcriptional regulation, Circ Res 97 (2005) 967­74. 
+ 
+ 
+[42] M. Yang, N.B. Nazhat, X. Jiang, S.M. Kelsey, D.R. Blake, A.C.
+Newland and C.J. Morris, Adriamycin stimulates proliferation of human
+lymphoblastic leukaemic cells via a mechanism of hydrogen peroxide
+(H2O2) production, Br J Haematol 95 (1996) 339­44. 
+ 
+ 
+[43] W.G. Kirlin, J. Cai, S.A. Thompson, D. Diaz, T.J. Kavanagh and D.P.
+Jones, Glutathione redox potential in response to differentiation and
+enzyme inducers, Free Radic Biol Med 27 (1999) 1208­18. 
+ 
+ 
+[44] S. Alaluf, H. Muir­Howie, H.L. Hu, A. Evans and M.R. Green,
+Atmospheric oxygen accelerates the induction of a post­mitotic
+phenotype in human dermal fibroblasts: the key protective role of
+
+
+--- Page 18 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+18/21
+glutathione, Differentiation 66 (2000) 147­55. 
+ 
+ 
+[45] T. Karu, Primary and secondary mechanisms of action of visible to
+near­IR radiation on cells, J Photochem Photobiol B 49 (1999) 1­17. 
+ 
+ 
+[46] O. Tiphlova and T. Karu, Action of low­intensity laser radiation on
+Escherichia coli, Crit Rev Biomed Eng 18 (1991) 387­412. 
+ 
+ 
+[47] T.I. Karu, L.V. Pyatibrat, G.S. Kalendo and R.O. Esenaliev, Effects of
+monochromatic low­intensity light and laser irradiation on adhesion of
+HeLa cells in vitro, Lasers Surg Med 18 (1996) 171­7. 
+ 
+ 
+[48] P. Moore, T.D. Ridgway, R.G. Higbee, E.W. Howard and M.D.
+Lucroy, Effect of wavelength on low­intensity laser irradiation­stimulated
+cell proliferation in vitro, Lasers Surg Med 36 (2005) 8­12. 
+ 
+ 
+[49] D. Hawkins and H. Abrahamse, Biological effects of helium­neon
+laser irradiation on normal and wounded human skin fibroblasts,
+Photomed Laser Surg 23 (2005) 251­9. 
+ 
+ 
+[50] H.S. Yu, C.S. Wu, C.L. Yu, Y.H. Kao and M.H. Chiou, Helium­neon
+laser irradiation stimulates migration and proliferation in melanocytes
+and induces repigmentation in segmental­type vitiligo, J Invest Dermatol
+120 (2003) 56­64. 
+ 
+ 
+[51] S. Young, P. Bolton, M. Dyson, W. Harvey and C. Diamantopoulos,
+Macrophage responsiveness to light therapy, Lasers Surg Med 9 (1989)
+497­505. 
+ 
+ 
+[52] Y. Fujimaki, T. Shimoyama, Q. Liu, T. Umeda, S. Nakaji and K.
+Sugawara, Low­level laser irradiation attenuates production of reactive
+oxygen species by human neutrophils, J Clin Laser Med Surg 21 (2003)
+165­70. 
+ 
+ 
+[53] Y.S. Chen, S.F. Hsu, C.W. Chiu, J.G. Lin, C.T. Chen and C.H. Yao,
+Effect of low­power pulsed laser on peripheral nerve regeneration in rats,
+Microsurgery 25 (2005) 83­9. 
+ 
+ 
+[54] M. Miloro, L.E. Halkias, S. Mallery, S. Travers and R.G. Rashid, Low­
+level laser effect on neural regeneration in Gore­Tex tubes, Oral Surg
+Oral Med Oral Pathol Oral Radiol Endod 93 (2002) 27­34. 
+ 
+ 
+[55] P. Balaban, R. Esenaliev, T. Karu, E. Kutomkina, V. Letokhov, A.
+Oraevsky and N. Ovcharenko, He­Ne laser irradiation of single identified
+neurons, Lasers Surg Med 12 (1992) 329­37. 
+ 
+ 
+[56] K.R. Byrnes, R.W. Waynant, I.K. Ilev, X. Wu, L. Barna, K. Smith, R.
+Heckert, H. Gerst and J.J. Anders, Light promotes regeneration and
+functional recovery and alters the immune response after spinal cord
+injury, Lasers Surg Med 36 (2005) 171­85. 
+ 
+ 
+[57] S.O. el Sayed and M. Dyson, Effect of laser pulse repetition rate and
+pulse duration on mast cell number and degranulation, Lasers Surg Med
+19 (1996) 433­7. 
+ 
+ 
+[58] R.A. Lopes­Martins, R. Albertini, P.S. Martins, J.M. Bjordal and H.C.
+Faria Neto, Spontaneous effects of low­level laser therapy (650 nm) in
+acute inflammatory mouse pleurisy induced by Carrageenan, Photomed
+
+
+--- Page 19 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+19/21
+Laser Surg 23 (2005) 377­81. 
+ 
+ 
+[59] A.D. Agaiby, L.R. Ghali, R. Wilson and M. Dyson, Laser modulation
+of angiogenic factor production by T­lymphocytes, Lasers Surg Med 26
+(2000) 357­63. 
+ 
+ 
+[60] S. Passarella, E. Casamassima, S. Molinari, D. Pastore, E.
+Quagliariello, I.M. Catalano and A. Cingolani, Increase of proton
+electrochemical potential and ATP synthesis in rat liver mitochondria
+irradiated in vitro by helium­neon laser, FEBS Lett 175 (1984) 95­9. 
+ 
+ 
+[61] M. Greco, G. Guida, E. Perlino, E. Marra and E. Quagliariello,
+Increase in RNA and protein synthesis by mitochondria irradiated with
+helium­neon laser, Biochem Biophys Res Commun 163 (1989) 1428­34. 
+ 
+ 
+[62] D. Pastore, M. Greco, V.A. Petragallo and S. Passarella, Increase in
+H+/e­ ratio of the cytochrome c oxidase reaction in mitochondria
+irradiated with helium­neon laser, Biochem Mol Biol Int 34 (1994) 817­
+26. 
+ 
+ 
+[63] Y. Zhang, S. Song, C.C. Fong, C.H. Tsang, Z. Yang and M. Yang,
+cDNA microarray analysis of gene expression profiles in human fibroblast
+cells irradiated with red light, J Invest Dermatol 120 (2003) 849­57. 
+ 
+ 
+[64] R.F. Lyons, R.P. Abergel, R.A. White, R.M. Dwyer, J.C. Castel and J.
+Uitto, Biostimulation of wound healing in vivo by a helium­neon laser,
+Ann Plast Surg 18 (1987) 47­50. 
+ 
+ 
+[65] H.S. Yu, K.L. Chang, C.L. Yu, J.W. Chen and G.S. Chen, Low­energy
+helium­neon laser irradiation stimulates interleukin­1 alpha and
+interleukin­8 release from cultured human keratinocytes, J Invest
+Dermatol 107 (1996) 593­6. 
+ 
+ 
+[66] V.K. Poon, L. Huang and A. Burd, Biostimulation of dermal fibroblast
+by sublethal Q­switched Nd:YAG 532 nm laser: collagen remodeling and
+pigmentation, J Photochem Photobiol B 81 (2005) 1­8. 
+ 
+ 
+[67] N. Kipshidze, V. Nikolaychik, M.H. Keelan, L.R. Shankar, A. Khanna,
+R. Kornowski, M. Leon and J. Moses, Low­power helium: neon laser
+irradiation enhances production of vascular endothelial growth factor and
+promotes growth of endothelial cells in vitro, Lasers Surg Med 28 (2001)
+355­64. 
+ 
+ 
+[68] A. Khanna, L.R. Shankar, M.H. Keelan, R. Kornowski, M. Leon, J.
+Moses and N. Kipshidze, Augmentation of the expression of
+proangiogenic genes in cardiomyocytes with low dose laser irradiation in
+vitro, Cardiovasc Radiat Med 1 (1999) 265­9. 
+ 
+ 
+[69] A.R. Medrado, L.S. Pugliese, S.R. Reis and Z.A. Andrade, Influence
+of low level laser therapy on wound healing and its biological action upon
+myofibroblasts, Lasers Surg Med 32 (2003) 239­44. 
+ 
+ 
+[70] E.J. Neiburger, Rapid healing of gingival incisions by the helium­
+neon diode laser, J Mass Dent Soc 48 (1999) 8­13, 40. 
+ 
+ 
+[71] J.T. Eells, M.M. Henry, P. Summerfelt, M.T. Wong­Riley, E.V.
+Buchmann, M. Kane, N.T. Whelan and H.T. Whelan, Therapeutic
+photobiomodulation for methanol­induced retinal toxicity, Proc Natl Acad
+
+
+--- Page 20 ---
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+9/6/2018
+MECHANISMS OF LOW LEVEL LIGHT THERAPY
+http://photobiology.info/Hamblin.html
+20/21
+Sci U S A 100 (2003) 3439­44. 
+ 
+ 
+[72] M.T. Wong­Riley, H.L. Liang, J.T. Eells, B. Chance, M.M. Henry, E.
+Buchmann, M. Kane and H.T. Whelan, Photobiomodulation directly
+benefits primary neurons functionally inactivated by toxins: role of
+cytochrome c oxidase, J Biol Chem 280 (2005) 4761­71. 
+ 
+ 
+[73] D. Gigo­Benato, S. Geuna and S. Rochkind, Phototherapy for
+enhancing peripheral nerve repair: a review of the literature, Muscle
+Nerve 31 (2005) 694­701. 
+ 
+ 
+[74] J.J. Anders, S. Geuna and S. Rochkind, Phototherapy promotes
+regeneration and functional recovery of injured peripheral nerve, Neurol
+Res 26 (2004) 233­9. 
+ 
+ 
+[75] J.J. Anders, R.C. Borke, S.K. Woolery and W.P. Van de Merwe, Low
+power laser irradiation alters the rate of regeneration of the rat facial
+nerve, Lasers Surg Med 13 (1993) 72­82. 
+ 
+ 
+[76] K. Branco and M.A. Naeser, Carpal tunnel syndrome: clinical
+outcome after low­level laser acupuncture, microamps transcutaneous
+electrical nerve stimulation, and other alternative therapies­­an open
+protocol study, J Altern Complement Med 5 (1999) 5­26. 
+ 
+ 
+[77] J. Irvine, S.L. Chong, N. Amirjani and K.M. Chan, Double­blind
+randomized controlled trial of low­level laser therapy in carpal tunnel
+syndrome, Muscle Nerve 30 (2004) 182­7. 
+ 
+ 
+[78] M.I. Weintraub, Noninvasive laser neurolysis in carpal tunnel
+syndrome, Muscle Nerve 20 (1997) 1029­31. 
+ 
+ 
+[79] Y. Ueda and N. Shimizu, Pulse irradiation of low­power laser
+stimulates bone nodule formation, J Oral Sci 43 (2001) 55­60. 
+ 
+ 
+[80] Y. Ueda and N. Shimizu, Effects of pulse frequency of low­level laser
+therapy (LLLT) on bone nodule formation in rat calvarial cells, J Clin
+Laser Med Surg 21 (2003) 271­7. 
+ 
+ 
+[81] M.S. Ribeiro, F. Da Silva Dde, C.E. De Araujo, S.F. De Oliveira, C.M.
+Pelegrini, T.M. Zorn and D.M. Zezell, Effects of low­intensity polarized
+visible laser radiation on skin burns: a light microscopy study, J Clin
+Laser Med Surg 22 (2004) 59­66. 
+ 
+ 
+[82] T. Moshkovska and J. Mayberry, It is time to test low level laser
+therapy in Great Britain, Postgrad Med J 81 (2005) 436­41. 
+ 
+ 
+[83] L.A. Santana­Blank, E. Rodriguez­Santana and K.E. Santana­
+Rodriguez, Photo­infrared pulsed bio­modulation (PIPBM): a novel
+mechanism for the enhancement of physiologically reparative responses,
+Photomed Laser Surg 23 (2005) 416­24. 
+ 
+ 
+[84] M.L. Kripke, Ultraviolet radiation and immunology: something new
+under the sun­­presidential address, Cancer Res 54 (1994) 6102­5. 
+ 
+ 
+[85] P. Whittaker, Laser acupuncture: past, present, and future, Lasers
+Med Sci 19 (2004) 69­80. 
+ 
+ 
+
+
