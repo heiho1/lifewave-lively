@@ -89,6 +89,38 @@ Converts all PDF files from `pdfs/` directory to markdown files in `markdown/` d
 python bin/pdf_to_markdown.py
 ```
 
+### `bin/clean_html_tags.py`
+Removes HTML tags from markdown files that contain them, cleaning up formatting artifacts from PDF conversion.
+
+**Usage:**
+```bash
+./bin/clean_html_tags.py
+```
+
+### `bin/remove_javascript.py`
+Removes `(javascript:.*)` blocks from markdown files to clean up any JavaScript artifacts.
+
+**Usage:**
+```bash
+./bin/remove_javascript.py
+```
+
+### `bin/clean_invisible_chars.py`
+Detects and removes null bytes, control characters, and other invisible characters that can cause parsing issues.
+
+**Usage:**
+```bash
+./bin/clean_invisible_chars.py
+```
+
+### `bin/escape_statistical_notation.py`
+Escapes statistical notation patterns like `p<0.001` using backticks to prevent MDX JSX parsing errors.
+
+**Usage:**
+```bash
+./bin/escape_statistical_notation.py
+```
+
 ### `server.py`
 Flask web server that serves the chat interface (`index.html`) and static files.
 
@@ -137,16 +169,21 @@ The project follows a multi-layer architecture:
 ### Data Processing Pipeline:
 1. **PDF Conversion** (`pdf_to_text.py`) - PDF to text conversion for embeddings
 2. **Markdown Conversion** (`bin/pdf_to_markdown.py`) - PDF to markdown for enhanced readability
-3. **Embedding Layer** (`text_to_embeddings.py`) - Text to vector embeddings using llama-text-embed-v2
-4. **Index Upload** (`upload_embeddings.py`) - Vector embeddings to Pinecone index "lifewave-x39"
+3. **Document Cleaning** - Multiple scripts to clean and prepare markdown:
+   - `bin/clean_html_tags.py` - Remove HTML artifacts
+   - `bin/remove_javascript.py` - Remove JavaScript blocks
+   - `bin/clean_invisible_chars.py` - Remove problematic invisible characters
+   - `bin/escape_statistical_notation.py` - Escape statistical notation for MDX compatibility
+4. **Embedding Layer** (`text_to_embeddings.py`) - Text to vector embeddings using llama-text-embed-v2
+5. **Index Upload** (`upload_embeddings.py`) - Vector embeddings to Pinecone index "lifewave-x39"
 
 ### Assistant Layer:
-5. **Creation Layer** (`create_agent.py`) - Assistant initialization
-6. **Data Layer** (`upload.py`) - Text file ingestion to Pinecone Assistant
-7. **Query Layer** (`agent.py`) - Assistant interaction and file management
+6. **Creation Layer** (`create_agent.py`) - Assistant initialization
+7. **Data Layer** (`upload.py`) - Text file ingestion to Pinecone Assistant
+8. **Query Layer** (`agent.py`) - Assistant interaction and file management
 
 ### Web Interface:
-8. **Presentation Layer** (`server.py`) - Flask web server serving chat interface
+9. **Presentation Layer** (`server.py`) - Flask web server serving chat interface
 
 All scripts use a shared Pinecone API key. Vector scripts target the "lifewave-x39" index, while assistant scripts use "lifewave-assistant".
 
@@ -163,10 +200,16 @@ All scripts use a shared Pinecone API key. Vector scripts target the "lifewave-x
   - Generated using llama-text-embed-v2 model
   - 1024-dimensional embeddings with metadata
   - Includes chunking information and source text
-- `bin/` - Utility scripts for data processing
+- `bin/` - Utility scripts for data processing:
+  - `pdf_to_markdown.py` - PDF to markdown conversion
+  - `clean_html_tags.py` - HTML tag removal
+  - `remove_javascript.py` - JavaScript block removal
+  - `clean_invisible_chars.py` - Invisible character cleaning
+  - `escape_statistical_notation.py` - Statistical notation escaping for MDX
 - `lifewave-env/` - Python virtual environment (excluded from git)
 - `index.html` - Chat interface powered by n8n webhook
 - `server.py` - Flask web server for serving the interface
+- `README.md` - Project overview and setup instructions
 
 ## Development Notes
 
@@ -175,6 +218,8 @@ All scripts use a shared Pinecone API key. Vector scripts target the "lifewave-x
 - No formal testing framework - verify functionality by running scripts directly
 - Error handling is basic (try/catch with print statements)
 - PDF processing relies on PyMuPDF's `fitz` module for document parsing
+- **Document Cleaning**: Multiple cleaning scripts ensure markdown compatibility with various parsers
+- **MDX Compatibility**: Statistical notation is escaped to prevent JSX parsing errors
 - **Embeddings**: Generated using llama-text-embed-v2 through Pinecone inference API
   - Free tier available until March 1, then $0.16/1M tokens
   - 1024-dimensional vectors optimized for retrieval tasks
