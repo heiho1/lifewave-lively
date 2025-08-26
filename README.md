@@ -1,6 +1,6 @@
 # LifeWave X39 Research Assistant
 
-A Python-based project that creates an AI assistant for LifeWave X39 patch research analysis. This project processes PDF research documents and provides an interactive chat interface powered by Pinecone vector search and n8n webhook integration.
+This is a Python-based project that creates an AI assistant for LifeWave X39 patch research analysis. This project processes PDF research documents and provides an interactive chat interface powered by Pinecone vector search and n8n webhook integration.
 
 ## Overview
 
