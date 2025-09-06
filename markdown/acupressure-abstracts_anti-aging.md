@@ -56,5 +56,3 @@ contemporary human being. Although these studies are preliminary, the findings m
 **potential applications not only in anti-aging**, cancer treatments, and pathophysiology of brain
 and heart, but also for the estimation of the difference in the ages of cadavers studied in
 archeology and forensic medicine.
-
-

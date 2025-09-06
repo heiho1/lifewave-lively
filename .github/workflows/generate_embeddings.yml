@@ -9,9 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: supabase/embeddings-generator@v0.0.5 # Find the latest version in the Marketplace
+      - uses: supabase/embeddings-generator@v0.0.5 # Update this to the latest version.
         with:
-          supabase-url: 'https://ehaczhqhhfhqqaluilij.supabase.co'
+          supabase-url: 'https://afdyapqagdgnwjovrklt.supabase.co' # Update this to your project URL.
           supabase-service-role-key: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-          openai-key: ${{ secrets.OPENAI_KEY }}
+          openai-key: ${{ secrets.OPENAI_API_KEY }}
           docs-root-path: 'markdown' # the path to the root of your md(x) files

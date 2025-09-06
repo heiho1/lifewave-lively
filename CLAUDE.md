@@ -17,7 +17,7 @@ python3 -m venv lifewave-env
 
 # Install dependencies
 source lifewave-env/bin/activate
-pip install Flask pinecone pinecone-plugin-assistant PyMuPDF pymupdf4llm
+pip install Flask pinecone pinecone-plugin-assistant PyMuPDF pymupdf4llm vecs[text_embedding] python-dotenv
 ```
 
 ### Activate Environment
@@ -34,6 +34,8 @@ All dependencies are installed in the `lifewave-env` virtual environment:
 - **pinecone-plugin-assistant** (1.7.0) - Assistant functionality  
 - **PyMuPDF** (1.26.4) - PDF processing via `fitz` module
 - **pymupdf4llm** (0.0.27) - Enhanced PDF to markdown conversion
+- **vecs[text_embedding]** (0.4.5) - Supabase vector database client with embedding support
+- **python-dotenv** (1.1.1) - Environment variable management
 
 ## Key Scripts
 
@@ -174,7 +176,7 @@ The project follows a multi-layer architecture:
    - `bin/remove_javascript.py` - Remove JavaScript blocks
    - `bin/clean_invisible_chars.py` - Remove problematic invisible characters
    - `bin/escape_statistical_notation.py` - Escape statistical notation for MDX compatibility
-4. **Embedding Layer** (`text_to_embeddings.py`) - Text to vector embeddings using llama-text-embed-v2
+4. **Embedding Layer** (`text_to_embeddings.py`) - Text to vector embeddings using llama-text-embed-v2 (for Pinecone)
 5. **Index Upload** (`upload_embeddings.py`) - Vector embeddings to Pinecone index "lifewave-x39"
 
 ### Assistant Layer:
@@ -210,6 +212,7 @@ All scripts use a shared Pinecone API key. Vector scripts target the "lifewave-x
 - `index.html` - Chat interface powered by n8n webhook
 - `server.py` - Flask web server for serving the interface
 - `README.md` - Project overview and setup instructions
+- `.env` - Environment variables (SUPABASE_URL, OPENAI_API_KEY) - not in git
 
 ## Development Notes
 
@@ -220,8 +223,5 @@ All scripts use a shared Pinecone API key. Vector scripts target the "lifewave-x
 - PDF processing relies on PyMuPDF's `fitz` module for document parsing
 - **Document Cleaning**: Multiple cleaning scripts ensure markdown compatibility with various parsers
 - **MDX Compatibility**: Statistical notation is escaped to prevent JSX parsing errors
-- **Embeddings**: Generated using llama-text-embed-v2 through Pinecone inference API
-  - Free tier available until March 1, then $0.16/1M tokens
-  - 1024-dimensional vectors optimized for retrieval tasks
-  - Intelligent chunking preserves document context
-  - 103 total vectors uploaded to "lifewave-x39" index
+- **Embeddings**: llama-text-embed-v2 (1024-dimensional) through Pinecone inference API
+- **103 total vectors** uploaded to Pinecone "lifewave-x39" index
